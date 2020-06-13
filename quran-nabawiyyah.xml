@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<quran>
+    <!-- Muka surat 1 / Mula surah al-fatihah -->
+    <surah indeks="1" nama="سُورَةُ الفَاتِحَةِ">
+        <ayat indeks="1">بِسۡمِ ٱللَّهِ ٱلرَّحۡمَٰنِ ٱلرَّحِيمِ</ayat>
+        <ayat indeks="2">ٱلۡحَمۡدُ لِلَّهِ رَبِّ ٱلۡعَٰلَمِينَ</ayat>
+        <ayat indeks="3">ٱلرَّحۡمَٰنِ ٱلرَّحِيمِ</ayat>
+        <ayat indeks="4">مَٰلِكِ يَوۡمِ ٱلدِّينِ</ayat>
+        <ayat indeks="5">إِيَّاكَ نَعۡبُدُ وَإِيَّاكَ نَسۡتَعِينُ</ayat>
+        <ayat indeks="6">ٱهۡدِنَا ٱلصِّرَٰطَ ٱلۡمُسۡتَقِيمَ</ayat>
+        <ayat indeks="7">صِرَٰطَ ٱلَّذِينَ أَنۡعَمۡتَ عَلَيۡهِمۡ غَيۡرِ ٱلۡمَغۡضُوبِ عَلَيۡهِمۡ وَلَا ٱلضَّآلِّينَ</ayat>
+    </surah>
+
+    <!-- Muka surat 2 / Mula surah al-baqarah -->
+    <surah indeks="2" nama="سُورَةُ البَقَرَةِ">
+        <ayat indeks="1">الٓمٓ</ayat>
+        <ayat indeks="2">ذَٰلِكَ ٱلۡكِتَٰبُ لَا رَيۡبَۛ فِيهِۛ هُدٗى لِّلۡمُتَّقِينَ</ayat>
+        <ayat indeks="3">ٱلَّذِينَ يُؤۡمِنُونَ بِٱلۡغَيۡبِ وَيُقِيمُونَ ٱلصَّلَوٰةَ وَمِمَّا رَزَقۡنَٰهُمۡ يُنفِقُونَ</ayat>
+        <ayat indeks="4">وَٱلَّذِينَ يُؤۡمِنُونَ بِمَآ أُنزِلَ إِلَيۡكَ وَمَآ أُنزِلَ مِن قَبۡلِكَ وَبِٱلۡأٓخِرَةِ هُمۡ يُوقِنُونَ</ayat>
+        <ayat indeks="5">أُوْلَٰٓئِكَ عَلَىٰ هُدٗى مِّن رَّبِّهِمۡۖ وَأُوْلَٰٓئِكَ هُمُ ٱلۡمُفۡلِحُونَ</ayat>
+        <ayat indeks="6">إِنَّ ٱلَّذِينَ كَفَرُواْ سَوَآءٌ عَلَيۡهِمۡ ءَأَنذَرۡتَهُمۡ أَمۡ لَمۡ تُنذِرۡهُمۡ لَا يُؤۡمِنُونَ</ayat>
+    </surah>
+
+    <!-- Muka surat 50 / Mula surah ali imran -->
+    <surah indeks="3" nama="سُورَةُ آلِ عِمۡرَانَ">
+        <ayat indeks="1"></ayat>
+        <ayat indeks="2"></ayat>
+        <ayat indeks="3"></ayat>
+        <ayat indeks="4"></ayat>
+        <ayat indeks="5"></ayat>
+        <ayat indeks="6"></ayat>
+        <ayat indeks="7">هُوَ ٱلَّذِيٓ أَنزَلَ عَلَيۡكَ ٱلۡكِتَٰبَ مِنۡهُ ءَايَٰتٞ مُّحۡكَمَٰتٌ هُنَّ أُمُّ ٱلۡكِتَٰبِ وَأُخَرُ مُتَشَٰبِهَٰتٞۖ فَأَمَّا ٱلَّذِينَ فِي قُلُوبِهِمۡ زَيۡغٞ فَيَتَّبِعُونَ مَا تَشَٰبَهَ مِنۡهُ ٱبۡتِغَآءَ ٱلۡفِتۡنَةِ وَٱبۡتِغَآءَ تَأۡوِيلِهِۦۖ وَمَا يَعۡلَمُ تَأۡوِيلَهُۥٓ إِلَّا ٱللَّهُۗ وَٱلرَّٰسِخُونَ فِي ٱلۡعِلۡمِ يَقُولُونَ ءَامَنَّا بِهِۦ كُلّٞ مِّنۡ عِندِ رَبِّنَاۗ وَمَا يَذَّكَّرُ إِلَّآ أُوْلُواْ ٱلۡأَلۡبَٰبِ</ayat>
+    </surah>
+
+    <!-- Muka surat 77 / Mula surah an-nisa -->
+    <surah indeks="4" nama="سُورَةُ النِّسَاءِ">
+        <ayat indeks=""></ayat>
+    </surah>
+    <surah indeks="5" nama="سُورَةُ المَائ‍ِدَةِ">
+        <ayat indeks=""></ayat>
+    </surah>
+    <surah indeks="6" nama="سُورَةُ الأَنعَامِ">
+        <ayat indeks=""></ayat>
+    </surah>
+    <surah indeks="7" nama="سُورَةُ الأَعۡرَافِ">
+        <ayat indeks=""></ayat>
+    </surah>
+    <surah indeks="8" nama="سُورَةُ الأَنفَالِ">
+        <ayat indeks=""></ayat>
+    </surah>
+    <surah indeks="9" nama="سُورَةُ التَّوۡبَةِ">
+        <ayat indeks=""></ayat>
+    </surah>
+    <surah indeks="10" nama="سُورَةُ يُونُسَ">
+        <ayat indeks=""></ayat>
+    </surah>
+    <surah indeks="11" nama="سُورَةُ هُودٍ">
+        <ayat indeks=""></ayat>
+    </surah>
+    <surah indeks="12" nama="سُورَةُ يُوسُفَ">
+        <ayat indeks=""></ayat>
+    </surah>
+    <surah indeks="13" nama="سُورَةُ الرَّعۡدِ">
+        <ayat indeks=""></ayat>
+    </surah>
+    <surah indeks="14" nama="سُورَةُ إِبۡرَاهِيمَ">
+        <ayat indeks=""></ayat>
+    </surah>
+    <surah indeks="15" nama="سُورَةُ الحِجۡرِ">
+        <ayat indeks=""></ayat>
+    </surah>
+    <surah indeks="16" nama="سُورَةُ النَّحۡلِ">
+        <ayat indeks=""></ayat>
+    </surah>
+    <surah indeks="17" nama="سُورَةُ الإِسۡرَاءِ">
+        <ayat indeks=""></ayat>
+    </surah>
+    <surah indeks="18" nama="سُورَةُ الكَهۡفِ">
+        <ayat indeks=""></ayat>
+    </surah>
+    <surah indeks="19" nama="سُورَةُ مَرۡيَمَ">
+        <ayat indeks=""></ayat>
+    </surah>
+    <surah indeks="20" nama="سُورَةُ طه">
+        <ayat indeks=""></ayat>
+    </surah>
+    <surah indeks="21" nama="سُورَةُ الأَنبيَاءِ">
+        <ayat indeks=""></ayat>
+    </surah>
+    <surah indeks="22" nama="سُورَةُ الحَجِّ">
+        <ayat indeks=""></ayat>
+    </surah>
+    <surah indeks="23" nama="سُورَةُ المُؤۡمِنُونَ">
+        <ayat indeks=""></ayat>
+    </surah>
+    <surah indeks="24" nama="سُورَةُ النُّورِ">
+        <ayat indeks=""></ayat>
+    </surah>
+    <surah indeks="25" nama="سُورَةُ الفُرۡقَانِ">
+        <ayat indeks=""></ayat>
+    </surah>
+    <surah indeks="26" nama="سُورَةُ الشُّعَرَاءِ">
+        <ayat indeks=""></ayat>
+    </surah>
+    <surah indeks="27" nama="سُورَةُ النَّمۡلِ">
+        <ayat indeks=""></ayat>
+    </surah>
+    <surah indeks="28" nama="سُورَةُ القَصَصِ">
+        <ayat indeks=""></ayat>
+    </surah>
+    <surah indeks="29" nama="سُورَةُ العَنكَبُوتِ">
+        <ayat indeks=""></ayat>
+    </surah>
+    <surah indeks="30" nama="سُورَةُ الرُّومِ">
+        <ayat indeks=""></ayat>
+    </surah>
+    <surah indeks="31" nama="سُورَةُ لُقۡمَانَ">
+        <ayat indeks=""></ayat>
+    </surah>
+    <surah indeks="32" nama="سُورَةُ السَّجۡدَةِ">
+        <ayat indeks=""></ayat>
+    </surah>
+    <surah indeks="33" nama="سُورَةُ الأَحۡزَابِ">
+        <ayat indeks=""></ayat>
+    </surah>
+    <surah indeks="34" nama="سُورَةُ سَبَإٍ">
+        <ayat indeks=""></ayat>
+    </surah>
+    <surah indeks="35" nama="سُورَةُ فَاطِرٍ">
+        <ayat indeks=""></ayat>
+    </surah>
+    <surah indeks="36" nama="سُورَةُ يسٓ">
+        <ayat indeks=""></ayat>
+    </surah>
+    <surah indeks="37" nama="سُورَةُ الصَّافَّاتِ">
+        <ayat indeks=""></ayat>
+    </surah>
+    <surah indeks="38" nama="سُورَةُ صٓ">
+        <ayat indeks=""></ayat>
+    </surah>
+    <surah indeks="39" nama="سُورَةُ الزُّمَرِ">
+        <ayat indeks=""></ayat>
+    </surah>
+    <surah indeks="40" nama="سُورَةُ غَافِرٍ">
+        <ayat indeks=""></ayat>
+    </surah>
+    <surah indeks="41" nama="سُورَةُ فُصِّلَتۡ">
+        <ayat indeks=""></ayat>
+    </surah>
+    <surah indeks="42" nama="سُورَةُ الشُّورَىٰ">
+        <ayat indeks=""></ayat>
+    </surah>
+    <surah indeks="43" nama="سُورَةُ الزُّخۡرُفِ">
+        <ayat indeks=""></ayat>
+    </surah>
+    <surah indeks="44" nama="سُورَةُ الدُّخَانِ">
+        <ayat indeks=""></ayat>
+    </surah>
+    <surah indeks="45" nama="سُورَةُ الجَاثِيةِ">
+        <ayat indeks=""></ayat>
+    </surah>
+    <surah indeks="46" nama="سُورَةُ الأَحۡقَافِ">
+        <ayat indeks=""></ayat>
+    </surah>
+    <surah indeks="47" nama="سُورَةُ مُحَمَّدٍ">
+        <ayat indeks=""></ayat>
+    </surah>
+    <surah indeks="48" nama="سُورَةُ الفَتۡحِ">
+        <ayat indeks=""></ayat>
+    </surah>
+    <surah indeks="49" nama="سُورَةُ الحُجُرَاتِ">
+        <ayat indeks=""></ayat>
+    </surah>
+    <surah indeks="50" nama="سُورَةُ قٓ">
+        <ayat indeks=""></ayat>
+    </surah>
+    <surah indeks="51" nama="سُورَةُ الذَّارِيَاتِ">
+        <ayat indeks=""></ayat>
+    </surah>
+    <surah indeks="52" nama="سُورَةُ الطُّورِ">
+        <ayat indeks=""></ayat>
+    </surah>
+    <surah indeks="53" nama="سُورَةُ النَّجۡمِ">
+        <ayat indeks=""></ayat>
+    </surah>
+    <surah indeks="54" nama="سُورَةُ القَمَرِ">
+        <ayat indeks=""></ayat>
+    </surah>
+    <surah indeks="55" nama="سُورَةُ الرَّحۡمَٰن">
+        <ayat indeks=""></ayat>
+    </surah>
+    <surah indeks="56" nama="سُورَةُ الوَاقِعَةِ">
+        <ayat indeks=""></ayat>
+    </surah>
+    <surah indeks="57" nama="سُورَةُ الحَدِيدِ">
+        <ayat indeks=""></ayat>
+    </surah>
+    <surah indeks="58" nama="سُورَةُ المُجَادلَةِ">
+        <ayat indeks=""></ayat>
+    </surah>
+    <surah indeks="59" nama="سُورَةُ الحَشۡرِ">
+        <ayat indeks=""></ayat>
+    </surah>
+    <surah indeks="60" nama="سُورَةُ المُمۡتَحنَةِ">
+        <ayat indeks=""></ayat>
+    </surah>
+    <surah indeks="61" nama="سُورَةُ الصَّفِّ">
+        <ayat indeks=""></ayat>
+    </surah>
+    <surah indeks="62" nama="سُورَةُ الجُمُعَةِ">
+        <ayat indeks=""></ayat>
+    </surah>
+    <surah indeks="63" nama="سُورَةُ المُنَافِقُونَ">
+        <ayat indeks=""></ayat>
+    </surah>
+    <surah indeks="64" nama="سُورَةُ التَّغَابُنِ">
+        <ayat indeks=""></ayat>
+    </surah>
+    <surah indeks="65" nama="سُورَةُ الطَّلَاقِ">
+        <ayat indeks=""></ayat>
+    </surah>
+    <surah indeks="66" nama="سُورَةُ التَّحۡرِيمِ">
+        <ayat indeks=""></ayat>
+    </surah>
+    <surah indeks="67" nama="سُورَةُ المُلۡكِ">
+        <ayat indeks=""></ayat>
+    </surah>
+    <surah indeks="68" nama="سُورَةُ القَلَمِ">
+        <ayat indeks=""></ayat>
+    </surah>
+    <surah indeks="69" nama="سُورَةُ الحَاقَّةِ">
+        <ayat indeks=""></ayat>
+    </surah>
+    <surah indeks="70" nama="سُورَةُ المَعَارِجِ">
+        <ayat indeks=""></ayat>
+    </surah>
+    <surah indeks="71" nama="">
+        <ayat indeks=""></ayat>
+    </surah>
+    <surah indeks="72" nama="">
+        <ayat indeks=""></ayat>
+    </surah>
+    <surah indeks="73" nama="">
+        <ayat indeks=""></ayat>
+    </surah>
+    <surah indeks="74" nama="">
+        <ayat indeks=""></ayat>
+    </surah>
+    <surah indeks="75" nama="">
+        <ayat indeks=""></ayat>
+    </surah>
+    <surah indeks="76" nama="">
+        <ayat indeks=""></ayat>
+    </surah>
+    <surah indeks="77" nama="">
+        <ayat indeks=""></ayat>
+    </surah>
+    <surah indeks="78" nama="">
+        <ayat indeks=""></ayat>
+    </surah>
+    <surah indeks="79" nama="">
+        <ayat indeks=""></ayat>
+    </surah>
+    <surah indeks="80" nama="">
+        <ayat indeks=""></ayat>
+    </surah>
+    <surah indeks="81" nama="">
+        <ayat indeks=""></ayat>
+    </surah>
+    <surah indeks="82" nama="">
+        <ayat indeks=""></ayat>
+    </surah>
+    <surah indeks="83" nama="">
+        <ayat indeks=""></ayat>
+    </surah>
+    <surah indeks="84" nama="">
+        <ayat indeks=""></ayat>
+    </surah>
+    <surah indeks="85" nama="">
+        <ayat indeks=""></ayat>
+    </surah>
+    <surah indeks="86" nama="">
+        <ayat indeks=""></ayat>
+    </surah>
+    <surah indeks="87" nama="">
+        <ayat indeks=""></ayat>
+    </surah>
+    <surah indeks="88" nama="">
+        <ayat indeks=""></ayat>
+    </surah>
+    <surah indeks="89" nama="">
+        <ayat indeks=""></ayat>
+    </surah>
+    <surah indeks="90" nama="">
+        <ayat indeks=""></ayat>
+    </surah>
+    <surah indeks="91" nama="">
+        <ayat indeks=""></ayat>
+    </surah>
+    <surah indeks="92" nama="">
+        <ayat indeks=""></ayat>
+    </surah>
+    <surah indeks="93" nama="">
+        <ayat indeks=""></ayat>
+    </surah>
+    <surah indeks="94" nama="">
+        <ayat indeks=""></ayat>
+    </surah>
+    <surah indeks="95" nama="">
+        <ayat indeks=""></ayat>
+    </surah>
+    <surah indeks="96" nama="">
+        <ayat indeks=""></ayat>
+    </surah>
+    <surah indeks="97" nama="">
+        <ayat indeks=""></ayat>
+    </surah>
+    <surah indeks="98" nama="">
+        <ayat indeks=""></ayat>
+    </surah>
+    <surah indeks="99" nama="">
+        <ayat indeks=""></ayat>
+    </surah>
+    <surah indeks="100" nama="">
+        <ayat indeks=""></ayat>
+    </surah>
+    <surah indeks="101" nama="">
+        <ayat indeks=""></ayat>
+    </surah>
+    <surah indeks="102" nama="">
+        <ayat indeks=""></ayat>
+    </surah>
+    <surah indeks="103" nama="">
+        <ayat indeks=""></ayat>
+    </surah>
+    <surah indeks="104" nama="">
+        <ayat indeks=""></ayat>
+    </surah>
+    <surah indeks="105" nama="">
+        <ayat indeks=""></ayat>
+    </surah>
+    <surah indeks="106" nama="">
+        <ayat indeks=""></ayat>
+    </surah>
+    <surah indeks="107" nama="">
+        <ayat indeks=""></ayat>
+    </surah>
+    <surah indeks="108" nama="">
+        <ayat indeks=""></ayat>
+    </surah>
+    <surah indeks="109" nama="">
+        <ayat indeks=""></ayat>
+    </surah>
+    <surah indeks="110" nama="">
+        <ayat indeks=""></ayat>
+    </surah>
+    <surah indeks="111" nama="">
+        <ayat indeks=""></ayat>
+    </surah>
+    <surah indeks="112" nama="">
+        <ayat indeks=""></ayat>
+    </surah>
+    <surah indeks="113" nama="">
+        <ayat indeks=""></ayat>
+    </surah>
+    <surah indeks="114" nama="">
+        <ayat indeks=""></ayat>
+    </surah>
+    <eoa>۝</eoa>
+</quran>
