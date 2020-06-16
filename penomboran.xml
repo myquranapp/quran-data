@@ -23,7 +23,7 @@
     <!-- Halaman 2 /
          Mula surah al-baqarah -->
     <surah indeks="2" nama="سُورَةُ البَقَرَةِ">
-        <nomayat tafsir="{...tiada yang mengetahui ta’wilnya melainkan Allah...} (/3a7)">[Al-Baqarah, 2:1]</nomayat>
+        <nomayat>[Al-Baqarah, 2:1]</nomayat>
         <nomayat>[Al-Baqarah, 2:2]</nomayat>
         <nomayat>[Al-Baqarah, 2:3]</nomayat>
         <nomayat>[Al-Baqarah, 2:4]</nomayat>
@@ -362,7 +362,7 @@
     <!-- Halaman 50 /
          Mula surah ali imran -->
     <surah indeks="3" nama="سُورَةُ آلِ عِمۡرَانَ">
-        <nomayat tafsir="{...tiada yang mengetahui ta’wilnya melainkan Allah...} (/3a7)">[Āli ‘Imrān, 3:1]</nomayat>
+        <nomayat>[Āli ‘Imrān, 3:1]</nomayat>
         <nomayat>[Āli ‘Imrān, 3:2]</nomayat>
         <nomayat>[Āli ‘Imrān, 3:3]</nomayat>
         <nomayat>[Āli ‘Imrān, 3:4]</nomayat>
