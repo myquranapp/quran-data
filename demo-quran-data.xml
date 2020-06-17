@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<quran>
+    <!-- Juz 1 -->
+    <juz indeks="1" jumlahayat="148">
+        <ayatawal surah="1" halaman="1">Al-Fātihah, 1:1</ayatawal>
+        <ayatakhir surah="2" halaman="21">Al-Baqarah, 2:141</ayatakhir>
+    </juz>
+    <!-- Juz 2 -->
+    <juz indeks="2" jumlahayat="111">
+        <ayatawal surah="2" halaman="22">Al-Baqarah, 2:142</ayatawal>
+        <ayatakhir surah="2" halaman="41">Al-Baqarah, 2:252</ayatakhir>
+    </juz>
+    <!-- Juz 3 -->
+    <juz indeks="3" jumlahayat="125">
+        <ayatawal surah="2" halaman="42">Al-Baqarah, 2:253</ayatawal>
+        <ayatakhir surah="3" halaman="61">Āli ‘Imrān, 3:92</ayatakhir>
+    </juz>
+    <!-- Juz 4 -->
+    <juz indeks="4" jumlahayat="132">
+        <ayatawal surah="3" halaman="62">Āli ‘Imrān, 3:93</ayatawal>
+        <ayatakhir surah="4" halaman="81">An-Nisā’, 4:23</ayatakhir>
+    </juz>
+    <!-- Juz 5 -->
+    <juz indeks="5" jumlahayat="124">
+        <ayatawal surah="4" halaman="82">An-Nisā’, 4:24</ayatawal>
+        <ayatakhir surah="4" halaman="101">An-Nisā’, 4:147</ayatakhir>
+    </juz>
+    <!-- Juz 6 -->
+    <juz indeks="6" jumlahayat="110">
+        <ayatawal surah="4" halaman="102">An-Nisā’, 4:148</ayatawal>
+        <ayatakhir surah="5" halaman="120">Al-Mā’idah, 5:81</ayatakhir>
+    </juz>
+    <!-- Juz 7 -->
+    <juz indeks="7" jumlahayat="149">
+        <ayatawal surah="5" halaman="121">Al-Mā’idah, 5:82</ayatawal>
+        <ayatakhir surah="6" halaman="141">Al-An‘ām, 6:110</ayatakhir>
+    </juz>
+    <!-- Juz 8 -->
+    <juz indeks="8" jumlahayat="142">
+        <ayatawal surah="6" halaman="142">Al-An‘ām, 6:111</ayatawal>
+        <ayatakhir surah="7" halaman="161">Al-A‘rāf, 7:87</ayatakhir>
+    </juz>
+    <!-- Juz 9 -->
+    <juz indeks="9" jumlahayat="159">
+        <ayatawal surah="7" halaman="162">Al-A‘rāf, 7:88</ayatawal>
+        <ayatakhir surah="8" halaman="181">Al-Anfāl, 8:40</ayatakhir>
+    </juz>
+    <!-- Juz 10 -->
+    <juz indeks="10" jumlahayat="127">
+        <ayatawal surah="8" halaman="182">Al-Anfāl, 8:41</ayatawal>
+        <ayatakhir surah="9" halaman="200">At-Taubah, 9:92</ayatakhir>
+    </juz>
+    <!-- Juz 11 -->
+    <juz indeks="11" jumlahayat="151">
+        <ayatawal surah="9" halaman="201">At-Taubah, 9:93</ayatawal>
+        <ayatakhir surah="11" halaman="221">Hūd, 11:5</ayatakhir>
+    </juz>
+    <!-- Juz 12 -->
+    <juz indeks="12" jumlahayat="170">
+        <ayatawal surah="11" halaman="222">Hūd, 11:6</ayatawal>
+        <ayatakhir surah="12" halaman="241">Yūsuf, 12:52</ayatakhir>
+    </juz>
+    <!-- Juz 13 -->
+    <juz indeks="13" jumlahayat="154">
+        <ayatawal surah="12" halaman="242">Yūsuf, 12:53</ayatawal>
+        <ayatakhir surah="14" halaman="261">Ibrāhīm, 14:52</ayatakhir>
+    </juz>
+    <!-- Juz 14 -->
+    <juz indeks="14" jumlahayat="227">
+        <ayatawal surah="15" halaman="262">Al-Ḥijr, 15:1</ayatawal>
+        <ayatakhir surah="16" halaman="281">An-Naḥl, 16:128</ayatakhir>
+    </juz>
+    <!-- Juz 15 -->
+    <juz indeks="15" jumlahayat="185">
+        <ayatawal surah="17" halaman="282">Al-Isrā’, 17:1</ayatawal>
+        <ayatakhir surah="18" halaman="301">Al-Kahfi, 18:74</ayatakhir>
+    </juz>
+    <!-- Juz 16 -->
+    <juz indeks="16" jumlahayat="269">
+        <ayatawal surah="18" halaman="302">Al-Kahfi, 18:75</ayatawal>
+        <ayatakhir surah="20" halaman="321">Ṭā Hā, 20:135</ayatakhir>
+    </juz>
+    <!-- Juz 17 -->
+    <juz indeks="17" jumlahayat="190">
+        <ayatawal surah="21" halaman="322">Al-Anbiyā’, 21:1</ayatawal>
+        <ayatakhir surah="22" halaman="341">Al-Ḥajj, 22:78</ayatakhir>
+    </juz>
+    <!-- Juz 18 -->
+    <juz indeks="18" jumlahayat="202">
+        <ayatawal surah="23" halaman="342">Al-Mu’minūn, 23:1</ayatawal>
+        <ayatakhir surah="25" halaman="361">Al-Furqān, 25:20</ayatakhir>
+    </juz>
+    <!-- Juz 19 -->
+    <juz indeks="19" jumlahayat="339">
+        <ayatawal surah="25" halaman="362">Al-Furqān, 25:21</ayatawal>
+        <ayatakhir surah="27" halaman="381">An-Naml, 27:55</ayatakhir>
+    </juz>
+    <!-- Juz 20 -->
+    <juz indeks="20" jumlahayat="171">
+        <ayatawal surah="27" halaman="382">An-Naml, 27:56</ayatawal>
+        <ayatakhir surah="29" halaman="401">Al-‘Ankabūt, 29:45</ayatakhir>
+    </juz>
+    <!-- Juz 21 -->
+    <juz indeks="21" jumlahayat="178">
+        <ayatawal surah="29" halaman="402">Al-‘Ankabūt, 29:46</ayatawal>
+        <ayatakhir surah="33" halaman="421">Al-Aḥzāb, 33:30</ayatakhir>
+    </juz>
+    <!-- Juz 22 -->
+    <juz indeks="22" jumlahayat="169">
+        <ayatawal surah="33" halaman="422">Al-Aḥzāb, 33:31</ayatawal>
+        <ayatakhir surah="36" halaman="441">Yāsīn, 36:27</ayatakhir>
+    </juz>
+    <!-- Juz 23 -->
+    <juz indeks="23" jumlahayat="357">
+        <ayatawal surah="36" halaman="442">Yāsīn, 36:28</ayatawal>
+        <ayatakhir surah="39" halaman="461">Az-Zumar, 39:31</ayatakhir>
+    </juz>
+    <!-- Juz 24 -->
+    <juz indeks="24" jumlahayat="175">
+        <ayatawal surah="39" halaman="462">Az-Zumar, 39:32</ayatawal>
+        <ayatakhir surah="41" halaman="481">Fuṣṣilat, 41:46</ayatakhir>
+    </juz>
+    <!-- Juz 25 -->
+    <juz indeks="25" jumlahayat="246">
+        <ayatawal surah="41" halaman="482">Fuṣṣilat, 41:47</ayatawal>
+        <ayatakhir surah="46" halaman="501">Al-Jāthiyah, 45:37</ayatakhir>
+    </juz>
+    <!-- Juz 26 -->
+    <juz indeks="26" jumlahayat="195">
+        <ayatawal surah="46" halaman="502">Al-Aḥqāf, 46:1</ayatawal>
+        <ayatakhir surah="51" halaman="521">Adh-Dhāriyāt, 51:30</ayatakhir>
+    </juz>
+    <!-- Juz 27 -->
+    <juz indeks="27" jumlahayat="399">
+        <ayatawal surah="51" halaman="522">Adh-Dhāriyāt, 51:31</ayatawal>
+        <ayatakhir surah="57" halaman="541">Al-Ḥadīd, 57:29</ayatakhir>
+    </juz>
+    <!-- Juz 28 -->
+    <juz indeks="28" jumlahayat="137">
+        <ayatawal surah="58" halaman="542">Al-Mujādilah, 58:1</ayatawal>
+        <ayatakhir surah="66" halaman="561">At-Taḥrīm, 66:12</ayatakhir>
+    </juz>
+    <!-- Juz 29 -->
+    <juz indeks="29" jumlahayat="431">
+        <ayatawal surah="67" halaman="562">Al-Mulk, 67:1</ayatawal>
+        <ayatakhir surah="77" halaman="581">Al-Mursalāt, 77:50</ayatakhir>
+    </juz>
+    <!-- Juz 30 -->
+    <juz indeks="30" jumlahayat="564">
+        <ayatawal surah="78" halaman="582">An-Nabā’, 78:1</ayatawal>
+        <ayatakhir surah="114" halaman="604">An-Nās, 114:6</ayatakhir>
+    </juz>
+</quran>
