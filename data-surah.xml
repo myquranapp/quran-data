@@ -1,118 +1,118 @@
 <?xml version="1.0" encoding="utf-8" ?>
 
 <quran>
-    <surah indeks="1" namarks="fatihah">Sūrah al-Fātiḥah. [7 ayat, Halaman 1]</surah>
-    <surah indeks="2" namarks="baqarah">Sūrah al-Baqarah. [286 ayat, Halaman 2-49]</surah>
-    <surah indeks="3" namarks="imran">Sūrah Āli ‘Imrān. [200 ayat, Halaman 50-76]</surah>
-    <surah indeks="4" namarks="nisa">Sūrah an-Nisā’. [176 ayat, Halaman 77-106]</surah>
-    <surah indeks="5" namarks="maidah">Sūrah al-Mā’idah. [120 ayat, Halaman 106-127]</surah>
-    <surah indeks="6" namarks="anam">Sūrah al-An‘ām. [165 ayat, Halaman 128-150]</surah>
-    <surah indeks="7" namarks="araf">Sūrah al-A‘rāf. [206 ayat, Halaman 151-176]</surah>
-    <surah indeks="8" namarks="anfal">Sūrah al-Anfāl. [75 ayat, Halaman 177-186]</surah>
-    <surah indeks="9" namarks="taubah">Sūrah at-Taubah. [129 ayat, Halaman 187-207]</surah>
-    <surah indeks="10" namarks="yunus">Sūrah Yūnus. [109 ayat, Halaman 208-221]</surah>
-    <surah indeks="11" namarks="hud">Sūrah Hūd. [123 ayat, Halaman 221-235]</surah>
-    <surah indeks="12" namarks="yusuf">Sūrah Yūsuf. [111 ayat, Halaman 235-248]</surah>
-    <surah indeks="13" namarks="rad">Sūrah ar-Ra‘d. [43 ayat, Halaman 249-255]</surah>
-    <surah indeks="14" namarks="ibrahim">Sūrah Ibrāhīm. [52 ayat, Halaman 255-261]</surah>
-    <surah indeks="15" namarks="hijr">Sūrah al-Ḥijr. [99 ayat, Halaman 262-267]</surah>
-    <surah indeks="16" namarks="nahl">Sūrah an-Naḥl. [128 ayat, Halaman 267-281]</surah>
-    <surah indeks="17" namarks="isra">Sūrah al-Isrā’. [111 ayat, Halaman 282-293]</surah>
-    <surah indeks="18" namarks="kahfi">Sūrah al-Kahfi. [110 ayat, Halaman 293-304]</surah>
-    <surah indeks="19" namarks="maryam">Sūrah Maryam. [98 ayat, Halaman 305-312]</surah>
-    <surah indeks="20" namarks="taha">Sūrah Ṭā Hā. [135 ayat, Halaman 312-321]</surah>
-    <surah indeks="21" namarks="anbiya">Sūrah al-Anbiyā’. [112 ayat, Halaman 322-331]</surah>
-    <surah indeks="22" namarks="haj">Sūrah al-Ḥajj. [78 ayat, Halaman 332-341]</surah>
-    <surah indeks="23" namarks="mukminun">Sūrah al-Mu’minūn. [118 ayat, Halaman 342-349]</surah>
-    <surah indeks="24" namarks="nur">Sūrah an-Nūr. [64 ayat, Halaman 350-359]</surah>
-    <surah indeks="25" namarks="furqan">Sūrah al-Furqān. [77 ayat, Halaman 359-366]</surah>
-    <surah indeks="26" namarks="shuara">Sūrah ash-Shu‘arā’. [227 ayat, Halaman 367-376]</surah>
-    <surah indeks="27" namarks="naml">Sūrah an-Naml. [93 ayat, Halaman 377-385]</surah>
-    <surah indeks="28" namarks="qasas">Sūrah al-Qaṣaṣ. [88 ayat, Halaman 385-396]</surah>
-    <surah indeks="29" namarks="ankabut">Sūrah al-‘Ankabūt. [69 ayat, Halaman 396-404]</surah>
-    <surah indeks="30" namarks="rum">Sūrah ar-Rūm. [60 ayat, Halaman 404-410]</surah>
-    <surah indeks="31" namarks="luqman">Sūrah Luqmān. [34 ayat, Halaman 411-414]</surah>
-    <surah indeks="32" namarks="sajdah">Sūrah as-Sajdah. [30 ayat, Halaman 415-417]</surah>
-    <surah indeks="33" namarks="ahzab">Sūrah al-Aḥzāb. [73 ayat, Halaman 418-427]</surah>
-    <surah indeks="34" namarks="saba">Sūrah Sabā’. [54 ayat, Halaman 428-434]</surah>
-    <surah indeks="35" namarks="fatir">Sūrah Fāṭir. [45 ayat, Halaman 434-440]</surah>
-    <surah indeks="36" namarks="yasin">Sūrah Yāsīn. [83 ayat, Halaman 440-445]</surah>
-    <surah indeks="37" namarks="safat">Sūrah aṣ-Ṣāffāt. [182 ayat, Halaman 446-452]</surah>
-    <surah indeks="38" namarks="sad">Sūrah Ṣād. [88 ayat, Halaman 453-458]</surah>
-    <surah indeks="39" namarks="zumar">Sūrah az-Zumar. [75 ayat, Halaman 458-467]</surah>
-    <surah indeks="40" namarks="ghafir">Sūrah Ghāfir. [85 ayat, Halaman 467-476]</surah>
-    <surah indeks="41" namarks="fusilat">Sūrah Fuṣṣilat. [54 ayat, Halaman 477-482]</surah>
-    <surah indeks="42" namarks="shura">Sūrah ash-Shūrā. [53 ayat, Halaman 483-489]</surah>
-    <surah indeks="43" namarks="zukhruf">Sūrah az-Zukhruf. [89 ayat, Halaman 489-495]</surah>
-    <surah indeks="44" namarks="dukhan">Sūrah ad-Dukhān. [59 ayat, Halaman 496-498]</surah>
-    <surah indeks="45" namarks="jathiyah">Sūrah al-Jāthiyah. [37 ayat, Halaman 499-502]</surah>
-    <surah indeks="46" namarks="ahqaf">Sūrah al-Aḥqāf. [35 ayat, Halaman 502-506]</surah>
-    <surah indeks="47" namarks="muhamad">Sūrah Muḥammad. [38 ayat, Halaman 507-510]</surah>
-    <surah indeks="48" namarks="fath">Sūrah al-Fatḥ. [29 ayat, Halaman 511-515]</surah>
-    <surah indeks="49" namarks="hujurat">Sūrah al-Ḥujurāt. [18 ayat, Halaman 515-517]</surah>
-    <surah indeks="50" namarks="qaf">Sūrah Qāf. [45 ayat, Halaman 518-520]</surah>
-    <surah indeks="51" namarks="dhariyat">Sūrah adh-Dhāriyāt. [60 ayat, Halaman 520-523]</surah>
-    <surah indeks="52" namarks="tur">Sūrah at-Ṭūr. [49 ayat, Halaman 523-525]</surah>
-    <surah indeks="53" namarks="najm">Sūrah an-Najm. [62 ayat, Halaman 526-528]</surah>
-    <surah indeks="54" namarks="qamar">Sūrah al-Qamar. [55 ayat, Halaman 528-531]</surah>
-    <surah indeks="55" namarks="rahman">Sūrah ar-Raḥmān. [78 ayat, Halaman 531-534]</surah>
-    <surah indeks="56" namarks="waqiah">Sūrah al-Wāqi‘ah. [96 ayat, Halaman 534-537]</surah>
-    <surah indeks="57" namarks="hadid">Sūrah al-Ḥadīd. [29 ayat, Halaman 537-541]</surah>
-    <surah indeks="58" namarks="mujadilah">Sūrah al-Mujādilah. [22 ayat, Halaman 542-545]</surah>
-    <surah indeks="59" namarks="hashr">Sūrah al-Ḥashr. [24 ayat, Halaman 545-548]</surah>
-    <surah indeks="60" namarks="mumtahanah">Sūrah al-Mumtaḥanah. [13 ayat, Halaman 549-551]</surah>
-    <surah indeks="61" namarks="saf">Sūrah aṣ-Ṣaff. [14 ayat, Halaman 551-552]</surah>
-    <surah indeks="62" namarks="jumuah">Sūrah al-Jumu‘ah. [11 ayat, Halaman 553-554]</surah>
-    <surah indeks="63" namarks="munafiqun">Sūrah al-Munāfiqūn. [11 ayat, Halaman 554-555]</surah>
-    <surah indeks="64" namarks="taghabun">Sūrah at-Taghābun. [18 ayat, Halaman 556-557]</surah>
-    <surah indeks="65" namarks="talaq">Sūrah aṭ-Ṭalāq. [12 ayat, Halaman 558-559]</surah>
-    <surah indeks="66" namarks="tahrim">Sūrah at-Taḥrīm. [12 ayat, Halaman 560-561]</surah>
-    <surah indeks="67" namarks="mulk">Sūrah al-Mulk. [30 ayat, Halaman 562-564]</surah>
-    <surah indeks="68" namarks="qalam">Sūrah al-Qalam. [52 ayat, Halaman 564-566]</surah>
-    <surah indeks="69" namarks="haqah">Sūrah al-Ḥāqqah. [52 ayat, Halaman 566-568]</surah>
-    <surah indeks="70" namarks="maarij">Sūrah al-Ma‘ārij. [44 ayat, Halaman 568-570]</surah>
-    <surah indeks="71" namarks="nuh">Sūrah Nūḥ. [28 ayat, Halaman 570-571]</surah>
-    <surah indeks="72" namarks="jin">Sūrah al-Jinn. [28 ayat, Halaman 572-573]</surah>
-    <surah indeks="73" namarks="muzamil">Sūrah al-Muzzammil. [20 ayat, Halaman 574-575]</surah>
-    <surah indeks="74" namarks="mudathir">Sūrah al-Muddaththir. [56 ayat, Halaman 575-577]</surah>
-    <surah indeks="75" namarks="qiyamah">Sūrah al-Qiyāmah. [40 ayat, Halaman 577-578]</surah>
-    <surah indeks="76" namarks="insan">Sūrah al-Insān. [31 ayat, Halaman 578-580]</surah>
-    <surah indeks="77" namarks="mursalat">Sūrah al-Mursalāt. [50 ayat, Halaman 580-581]</surah>
-    <surah indeks="78" namarks="naba">Sūrah an-Nabā’. [40 ayat, Halaman 582-583]</surah>
-    <surah indeks="79" namarks="naziat">Sūrah an-Nāzi‘āt. [46 ayat, Halaman 583-584]</surah>
-    <surah indeks="80" namarks="abasa">Sūrah ‘Abasa. [42 ayat, Halaman 585]</surah>
-    <surah indeks="81" namarks="takwir">Sūrah at-Takwīr. [29 ayat, Halaman 586]</surah>
-    <surah indeks="82" namarks="infitar">Sūrah al-Infiṭār. [19 ayat, Halaman 587]</surah>
-    <surah indeks="83" namarks="mutafifin">Sūrah al-Muṭaffifīn. [36 ayat, Halaman 587-589]</surah>
-    <surah indeks="84" namarks="inshiqaq">Sūrah al-Inshiqāq. [25 ayat, Halaman 589]</surah>
-    <surah indeks="85" namarks="buruj">Sūrah al-Burūj. [22 ayat, Halaman 590]</surah>
-    <surah indeks="86" namarks="tariq">Sūrah at-Ṭāriq. [17 ayat, Halaman 591]</surah>
-    <surah indeks="87" namarks="ala">Sūrah al-A‘lā. [19 ayat, Halaman 591-592]</surah>
-    <surah indeks="88" namarks="ghashiyah">Sūrah al-Ghāshiyah. [26 ayat, Halaman 592]</surah>
-    <surah indeks="89" namarks="fajr">Sūrah al-Fajr. [30 ayat, Halaman 593-594]</surah>
-    <surah indeks="90" namarks="balad">Sūrah al-Balad. [20 ayat, Halaman 594]</surah>
-    <surah indeks="91" namarks="shams">Sūrah ash-Shams. [15 ayat, Halaman 595]</surah>
-    <surah indeks="92" namarks="layl">Sūrah al-Layl. [21 ayat, Halaman 595-596]</surah>
-    <surah indeks="93" namarks="dhuha">Sūrah adh-Dhuḥā. [11 ayat, Halaman 596]</surah>
-    <surah indeks="94" namarks="sharh">Sūrah ash-Sharḥ. [8 ayat, Halaman 596]</surah>
-    <surah indeks="95" namarks="tin">Sūrah at-Tīn. [8 ayat, Halaman 597]</surah>
-    <surah indeks="96" namarks="alaq">Sūrah al-‘Alaq. [19 ayat, Halaman 597]</surah>
-    <surah indeks="97" namarks="qadr">Sūrah al-Qadr. [5 ayat, Halaman 598]</surah>
-    <surah indeks="98" namarks="bayinah">Sūrah al-Bayyinah. [8 ayat, Halaman 598-599]</surah>
-    <surah indeks="99" namarks="zalzalah">Sūrah az-Zalzalah. [8 ayat, Halaman 599]</surah>
-    <surah indeks="100" namarks="adiyat">Sūrah al-‘Ādiyāt. [11 ayat, Halaman 599-600]</surah>
-    <surah indeks="101" namarks="qariah">Sūrah al-Qāri‘ah. [11 ayat, Halaman 600]</surah>
-    <surah indeks="102" namarks="takathur">Sūrah at-Takāthur. [8 ayat, Halaman 600]</surah>
-    <surah indeks="103" namarks="asr">Sūrah al-‘Aṣr. [3 ayat, Halaman 601]</surah>
-    <surah indeks="104" namarks="humazah">Sūrah al-Humazah. [9 ayat, Halaman 601]</surah>
-    <surah indeks="105" namarks="fil">Sūrah al-Fīl. [5 ayat, Halaman 601]</surah>
-    <surah indeks="106" namarks="quraysh">Sūrah Quraysh. [4 ayat, Halaman 602]</surah>
-    <surah indeks="107" namarks="maun">Sūrah al-Mā‘ūn. [7 ayat, Halaman 602]</surah>
-    <surah indeks="108" namarks="kawthar">Sūrah al-Kawthar. [3 ayat, Halaman 602]</surah>
-    <surah indeks="109" namarks="kafirun">Sūrah al-Kāfirūn. [6 ayat, Halaman 603]</surah>
-    <surah indeks="110" namarks="nasr">Sūrah an-Naṣr. [3 ayat, Halaman 603]</surah>
-    <surah indeks="111" namarks="masad">Sūrah al-Masad. [5 ayat, Halaman 603]</surah>
-    <surah indeks="112" namarks="ikhlas">Sūrah al-Ikhlāṣ. [4 ayat, Halaman 604]</surah>
-    <surah indeks="113" namarks="falaq">Sūrah al-Falaq. [5 ayat, Halaman 604]</surah>
-    <surah indeks="114" namarks="nas">Sūrah an-Nās. [6 ayat, Halaman 604]</surah>
+    <surah indeks="1" jayat="7" halaman="1" namarks="fatihah">Sūrah al-Fātiḥah. [7 ayat, Halaman 1]</surah>
+    <surah indeks="2" jayat="286" halaman="2-49" namarks="baqarah">Sūrah al-Baqarah. [286 ayat, Halaman 2-49]</surah>
+    <surah indeks="3" jayat="200" halaman="50-76" namarks="imran">Sūrah Āli ‘Imrān. [200 ayat, Halaman 50-76]</surah>
+    <surah indeks="4" jayat="176" halaman="77-106" namarks="nisa">Sūrah an-Nisā’. [176 ayat, Halaman 77-106]</surah>
+    <surah indeks="5" jayat="120" halaman="106-127" namarks="maidah">Sūrah al-Mā’idah. [120 ayat, Halaman 106-127]</surah>
+    <surah indeks="6" jayat="165" halaman="128-150" namarks="anam">Sūrah al-An‘ām. [165 ayat, Halaman 128-150]</surah>
+    <surah indeks="7" jayat="206" halaman="151-176" namarks="araf">Sūrah al-A‘rāf. [206 ayat, Halaman 151-176]</surah>
+    <surah indeks="8" jayat="75" halaman="177-186" namarks="anfal">Sūrah al-Anfāl. [75 ayat, Halaman 177-186]</surah>
+    <surah indeks="9" jayat="129" halaman="187-207" namarks="taubah">Sūrah at-Taubah. [129 ayat, Halaman 187-207]</surah>
+    <surah indeks="10" jayat="109" halaman="208-221" namarks="yunus">Sūrah Yūnus. [109 ayat, Halaman 208-221]</surah>
+    <surah indeks="11" jayat="123" halaman="221-235" namarks="hud">Sūrah Hūd. [123 ayat, Halaman 221-235]</surah>
+    <surah indeks="12" jayat="111" halaman="235-248" namarks="yusuf">Sūrah Yūsuf. [111 ayat, Halaman 235-248]</surah>
+    <surah indeks="13" jayat="43" halaman="249-255" namarks="rad">Sūrah ar-Ra‘d. [43 ayat, Halaman 249-255]</surah>
+    <surah indeks="14" jayat="52" halaman="255-261" namarks="ibrahim">Sūrah Ibrāhīm. [52 ayat, Halaman 255-261]</surah>
+    <surah indeks="15" jayat="99" halaman="262-267" namarks="hijr">Sūrah al-Ḥijr. [99 ayat, Halaman 262-267]</surah>
+    <surah indeks="16" jayat="128" halaman="267-281" namarks="nahl">Sūrah an-Naḥl. [128 ayat, Halaman 267-281]</surah>
+    <surah indeks="17" jayat="111" halaman="282-293" namarks="isra">Sūrah al-Isrā’. [111 ayat, Halaman 282-293]</surah>
+    <surah indeks="18" jayat="110" halaman="293-304" namarks="kahfi">Sūrah al-Kahfi. [110 ayat, Halaman 293-304]</surah>
+    <surah indeks="19" jayat="98" halaman="305-312" namarks="maryam">Sūrah Maryam. [98 ayat, Halaman 305-312]</surah>
+    <surah indeks="20" jayat="135" halaman="312-321" namarks="taha">Sūrah Ṭā Hā. [135 ayat, Halaman 312-321]</surah>
+    <surah indeks="21" jayat="112" halaman="322-331" namarks="anbiya">Sūrah al-Anbiyā’. [112 ayat, Halaman 322-331]</surah>
+    <surah indeks="22" jayat="78" halaman="332-341" namarks="haj">Sūrah al-Ḥajj. [78 ayat, Halaman 332-341]</surah>
+    <surah indeks="23" jayat="118" halaman="342-349" namarks="mukminun">Sūrah al-Mu’minūn. [118 ayat, Halaman 342-349]</surah>
+    <surah indeks="24" jayat="64" halaman="350-359" namarks="nur">Sūrah an-Nūr. [64 ayat, Halaman 350-359]</surah>
+    <surah indeks="25" jayat="77" halaman="359-366" namarks="furqan">Sūrah al-Furqān. [77 ayat, Halaman 359-366]</surah>
+    <surah indeks="26" jayat="227" halaman="367-376" namarks="shuara">Sūrah ash-Shu‘arā’. [227 ayat, Halaman 367-376]</surah>
+    <surah indeks="27" jayat="93" halaman="377-385" namarks="naml">Sūrah an-Naml. [93 ayat, Halaman 377-385]</surah>
+    <surah indeks="28" jayat="88" halaman="385-396" namarks="qasas">Sūrah al-Qaṣaṣ. [88 ayat, Halaman 385-396]</surah>
+    <surah indeks="29" jayat="69" halaman="396-404" namarks="ankabut">Sūrah al-‘Ankabūt. [69 ayat, Halaman 396-404]</surah>
+    <surah indeks="30" jayat="60" halaman="404-410" namarks="rum">Sūrah ar-Rūm. [60 ayat, Halaman 404-410]</surah>
+    <surah indeks="31" jayat="34" halaman="411-414" namarks="luqman">Sūrah Luqmān. [34 ayat, Halaman 411-414]</surah>
+    <surah indeks="32" jayat="30" halaman="415-417" namarks="sajdah">Sūrah as-Sajdah. [30 ayat, Halaman 415-417]</surah>
+    <surah indeks="33" jayat="73" halaman="418-427" namarks="ahzab">Sūrah al-Aḥzāb. [73 ayat, Halaman 418-427]</surah>
+    <surah indeks="34" jayat="54" halaman="428-434" namarks="saba">Sūrah Sabā’. [54 ayat, Halaman 428-434]</surah>
+    <surah indeks="35" jayat="45" halaman="434-440" namarks="fatir">Sūrah Fāṭir. [45 ayat, Halaman 434-440]</surah>
+    <surah indeks="36" jayat="83" halaman="440-445" namarks="yasin">Sūrah Yāsīn. [83 ayat, Halaman 440-445]</surah>
+    <surah indeks="37" jayat="182" halaman="446-452" namarks="safat">Sūrah aṣ-Ṣāffāt. [182 ayat, Halaman 446-452]</surah>
+    <surah indeks="38" jayat="88" halaman="453-458" namarks="sad">Sūrah Ṣād. [88 ayat, Halaman 453-458]</surah>
+    <surah indeks="39" jayat="75" halaman="458-467" namarks="zumar">Sūrah az-Zumar. [75 ayat, Halaman 458-467]</surah>
+    <surah indeks="40" jayat="85" halaman="467-476" namarks="ghafir">Sūrah Ghāfir. [85 ayat, Halaman 467-476]</surah>
+    <surah indeks="41" jayat="54" halaman="477-482" namarks="fusilat">Sūrah Fuṣṣilat. [54 ayat, Halaman 477-482]</surah>
+    <surah indeks="42" jayat="53" halaman="483-489" namarks="shura">Sūrah ash-Shūrā. [53 ayat, Halaman 483-489]</surah>
+    <surah indeks="43" jayat="89" halaman="489-495" namarks="zukhruf">Sūrah az-Zukhruf. [89 ayat, Halaman 489-495]</surah>
+    <surah indeks="44" jayat="59" halaman="496-498" namarks="dukhan">Sūrah ad-Dukhān. [59 ayat, Halaman 496-498]</surah>
+    <surah indeks="45" jayat="37" halaman="499-502" namarks="jathiyah">Sūrah al-Jāthiyah. [37 ayat, Halaman 499-502]</surah>
+    <surah indeks="46" jayat="35" halaman="502-506" namarks="ahqaf">Sūrah al-Aḥqāf. [35 ayat, Halaman 502-506]</surah>
+    <surah indeks="47" jayat="38" halaman="507-510" namarks="muhamad">Sūrah Muḥammad. [38 ayat, Halaman 507-510]</surah>
+    <surah indeks="48" jayat="29" halaman="511-515" namarks="fath">Sūrah al-Fatḥ. [29 ayat, Halaman 511-515]</surah>
+    <surah indeks="49" jayat="18" halaman="515-517" namarks="hujurat">Sūrah al-Ḥujurāt. [18 ayat, Halaman 515-517]</surah>
+    <surah indeks="50" jayat="45" halaman="518-520" namarks="qaf">Sūrah Qāf. [45 ayat, Halaman 518-520]</surah>
+    <surah indeks="51" jayat="60" halaman="520-523" namarks="dhariyat">Sūrah adh-Dhāriyāt. [60 ayat, Halaman 520-523]</surah>
+    <surah indeks="52" jayat="49" halaman="523-525" namarks="tur">Sūrah at-Ṭūr. [49 ayat, Halaman 523-525]</surah>
+    <surah indeks="53" jayat="62" halaman="526-528" namarks="najm">Sūrah an-Najm. [62 ayat, Halaman 526-528]</surah>
+    <surah indeks="54" jayat="55" halaman="528-531" namarks="qamar">Sūrah al-Qamar. [55 ayat, Halaman 528-531]</surah>
+    <surah indeks="55" jayat="78" halaman="531-534" namarks="rahman">Sūrah ar-Raḥmān. [78 ayat, Halaman 531-534]</surah>
+    <surah indeks="56" jayat="96" halaman="534-537" namarks="waqiah">Sūrah al-Wāqi‘ah. [96 ayat, Halaman 534-537]</surah>
+    <surah indeks="57" jayat="29" halaman="537-541" namarks="hadid">Sūrah al-Ḥadīd. [29 ayat, Halaman 537-541]</surah>
+    <surah indeks="58" jayat="22" halaman="542-545" namarks="mujadilah">Sūrah al-Mujādilah. [22 ayat, Halaman 542-545]</surah>
+    <surah indeks="59" jayat="24" halaman="545-548" namarks="hashr">Sūrah al-Ḥashr. [24 ayat, Halaman 545-548]</surah>
+    <surah indeks="60" jayat="13" halaman="549-551" namarks="mumtahanah">Sūrah al-Mumtaḥanah. [13 ayat, Halaman 549-551]</surah>
+    <surah indeks="61" jayat="14" halaman="551-552" namarks="saf">Sūrah aṣ-Ṣaff. [14 ayat, Halaman 551-552]</surah>
+    <surah indeks="62" jayat="11" halaman="553-554" namarks="jumuah">Sūrah al-Jumu‘ah. [11 ayat, Halaman 553-554]</surah>
+    <surah indeks="63" jayat="11" halaman="554-555" namarks="munafiqun">Sūrah al-Munāfiqūn. [11 ayat, Halaman 554-555]</surah>
+    <surah indeks="64" jayat="18" halaman="556-557" namarks="taghabun">Sūrah at-Taghābun. [18 ayat, Halaman 556-557]</surah>
+    <surah indeks="65" jayat="12" halaman="558-559" namarks="talaq">Sūrah aṭ-Ṭalāq. [12 ayat, Halaman 558-559]</surah>
+    <surah indeks="66" jayat="12" halaman="560-561" namarks="tahrim">Sūrah at-Taḥrīm. [12 ayat, Halaman 560-561]</surah>
+    <surah indeks="67" jayat="30" halaman="562-564" namarks="mulk">Sūrah al-Mulk. [30 ayat, Halaman 562-564]</surah>
+    <surah indeks="68" jayat="52" halaman="564-566" namarks="qalam">Sūrah al-Qalam. [52 ayat, Halaman 564-566]</surah>
+    <surah indeks="69" jayat="52" halaman="566-568" namarks="haqah">Sūrah al-Ḥāqqah. [52 ayat, Halaman 566-568]</surah>
+    <surah indeks="70" jayat="44" halaman="568-570" namarks="maarij">Sūrah al-Ma‘ārij. [44 ayat, Halaman 568-570]</surah>
+    <surah indeks="71" jayat="28" halaman="570-571" namarks="nuh">Sūrah Nūḥ. [28 ayat, Halaman 570-571]</surah>
+    <surah indeks="72" jayat="28" halaman="572-573" namarks="jin">Sūrah al-Jinn. [28 ayat, Halaman 572-573]</surah>
+    <surah indeks="73" jayat="20" halaman="574-575" namarks="muzamil">Sūrah al-Muzzammil. [20 ayat, Halaman 574-575]</surah>
+    <surah indeks="74" jayat="56" halaman="575-577" namarks="mudathir">Sūrah al-Muddaththir. [56 ayat, Halaman 575-577]</surah>
+    <surah indeks="75" jayat="40" halaman="577-578" namarks="qiyamah">Sūrah al-Qiyāmah. [40 ayat, Halaman 577-578]</surah>
+    <surah indeks="76" jayat="31" halaman="578-580" namarks="insan">Sūrah al-Insān. [31 ayat, Halaman 578-580]</surah>
+    <surah indeks="77" jayat="50" halaman="580-581" namarks="mursalat">Sūrah al-Mursalāt. [50 ayat, Halaman 580-581]</surah>
+    <surah indeks="78" jayat="40" halaman="582-583" namarks="naba">Sūrah an-Nabā’. [40 ayat, Halaman 582-583]</surah>
+    <surah indeks="79" jayat="46" halaman="583-584" namarks="naziat">Sūrah an-Nāzi‘āt. [46 ayat, Halaman 583-584]</surah>
+    <surah indeks="80" jayat="42" halaman="585" namarks="abasa">Sūrah ‘Abasa. [42 ayat, Halaman 585]</surah>
+    <surah indeks="81" jayat="29" halaman="586" namarks="takwir">Sūrah at-Takwīr. [29 ayat, Halaman 586]</surah>
+    <surah indeks="82" jayat="19" halaman="587" namarks="infitar">Sūrah al-Infiṭār. [19 ayat, Halaman 587]</surah>
+    <surah indeks="83" jayat="36" halaman="587-589" namarks="mutafifin">Sūrah al-Muṭaffifīn. [36 ayat, Halaman 587-589]</surah>
+    <surah indeks="84" jayat="25" halaman="589" namarks="inshiqaq">Sūrah al-Inshiqāq. [25 ayat, Halaman 589]</surah>
+    <surah indeks="85" jayat="22" halaman="590" namarks="buruj">Sūrah al-Burūj. [22 ayat, Halaman 590]</surah>
+    <surah indeks="86" jayat="17" halaman="591" namarks="tariq">Sūrah at-Ṭāriq. [17 ayat, Halaman 591]</surah>
+    <surah indeks="87" jayat="19" halaman="591-592" namarks="ala">Sūrah al-A‘lā. [19 ayat, Halaman 591-592]</surah>
+    <surah indeks="88" jayat="26" halaman="592" namarks="ghashiyah">Sūrah al-Ghāshiyah. [26 ayat, Halaman 592]</surah>
+    <surah indeks="89" jayat="30" halaman="593-594" namarks="fajr">Sūrah al-Fajr. [30 ayat, Halaman 593-594]</surah>
+    <surah indeks="90" jayat="20" halaman="594" namarks="balad">Sūrah al-Balad. [20 ayat, Halaman 594]</surah>
+    <surah indeks="91" jayat="15" halaman="595" namarks="shams">Sūrah ash-Shams. [15 ayat, Halaman 595]</surah>
+    <surah indeks="92" jayat="21" halaman="595-596" namarks="layl">Sūrah al-Layl. [21 ayat, Halaman 595-596]</surah>
+    <surah indeks="93" jayat="11" halaman="596" namarks="dhuha">Sūrah adh-Dhuḥā. [11 ayat, Halaman 596]</surah>
+    <surah indeks="94" jayat="8" halaman="596" namarks="sharh">Sūrah ash-Sharḥ. [8 ayat, Halaman 596]</surah>
+    <surah indeks="95" jayat="8" halaman="597" namarks="tin">Sūrah at-Tīn. [8 ayat, Halaman 597]</surah>
+    <surah indeks="96" jayat="19" halaman="597" namarks="alaq">Sūrah al-‘Alaq. [19 ayat, Halaman 597]</surah>
+    <surah indeks="97" jayat="5" halaman="598" namarks="qadr">Sūrah al-Qadr. [5 ayat, Halaman 598]</surah>
+    <surah indeks="98" jayat="8" halaman="598-599" namarks="bayinah">Sūrah al-Bayyinah. [8 ayat, Halaman 598-599]</surah>
+    <surah indeks="99" jayat="8" halaman="599" namarks="zalzalah">Sūrah az-Zalzalah. [8 ayat, Halaman 599]</surah>
+    <surah indeks="100" jayat="11" halaman="599-600" namarks="adiyat">Sūrah al-‘Ādiyāt. [11 ayat, Halaman 599-600]</surah>
+    <surah indeks="101" jayat="11" halaman="600" namarks="qariah">Sūrah al-Qāri‘ah. [11 ayat, Halaman 600]</surah>
+    <surah indeks="102" jayat="8" halaman="600" namarks="takathur">Sūrah at-Takāthur. [8 ayat, Halaman 600]</surah>
+    <surah indeks="103" jayat="3" halaman="601" namarks="asr">Sūrah al-‘Aṣr. [3 ayat, Halaman 601]</surah>
+    <surah indeks="104" jayat="9" halaman="601" namarks="humazah">Sūrah al-Humazah. [9 ayat, Halaman 601]</surah>
+    <surah indeks="105" jayat="5" halaman="601" namarks="fil">Sūrah al-Fīl. [5 ayat, Halaman 601]</surah>
+    <surah indeks="106" jayat="4" halaman="602" namarks="quraysh">Sūrah Quraysh. [4 ayat, Halaman 602]</surah>
+    <surah indeks="107" jayat="7" halaman="602" namarks="maun">Sūrah al-Mā‘ūn. [7 ayat, Halaman 602]</surah>
+    <surah indeks="108" jayat="3" halaman="602" namarks="kawthar">Sūrah al-Kawthar. [3 ayat, Halaman 602]</surah>
+    <surah indeks="109" jayat="6" halaman="603" namarks="kafirun">Sūrah al-Kāfirūn. [6 ayat, Halaman 603]</surah>
+    <surah indeks="110" jayat="3" halaman="603" namarks="nasr">Sūrah an-Naṣr. [3 ayat, Halaman 603]</surah>
+    <surah indeks="111" jayat="5" halaman="603" namarks="masad">Sūrah al-Masad. [5 ayat, Halaman 603]</surah>
+    <surah indeks="112" jayat="4" halaman="604" namarks="ikhlas">Sūrah al-Ikhlāṣ. [4 ayat, Halaman 604]</surah>
+    <surah indeks="113" jayat="5" halaman="604" namarks="falaq">Sūrah al-Falaq. [5 ayat, Halaman 604]</surah>
+    <surah indeks="114" jayat="6" halaman="604" namarks="nas">Sūrah an-Nās. [6 ayat, Halaman 604]</surah>
 </quran>

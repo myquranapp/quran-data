@@ -12,40 +12,34 @@
          Mula surah al-fatihah /
          Mula juz 1 -->
     <surah indeks="1" nama="سُورَةُ الفَاتِحَةِ">
-        <halaman indeks="1">
-            <nomayat>[Al-Fātihah, 1:1]</nomayat>
-            <nomayat>[Al-Fātihah, 1:2]</nomayat>
-            <nomayat>[Al-Fātihah, 1:3]</nomayat>
-            <nomayat>[Al-Fātihah, 1:4]</nomayat>
-            <nomayat>[Al-Fātihah, 1:5]</nomayat>
-            <nomayat>[Al-Fātihah, 1:6]</nomayat>
-            <nomayat>[Al-Fātihah, 1:7]</nomayat>
-        </halaman>
+        <nomayat>[Al-Fātihah, 1:1]</nomayat>
+        <nomayat>[Al-Fātihah, 1:2]</nomayat>
+        <nomayat>[Al-Fātihah, 1:3]</nomayat>
+        <nomayat>[Al-Fātihah, 1:4]</nomayat>
+        <nomayat>[Al-Fātihah, 1:5]</nomayat>
+        <nomayat>[Al-Fātihah, 1:6]</nomayat>
+        <nomayat>[Al-Fātihah, 1:7]</nomayat>
     </surah>
     <!-- Halaman 2 /
          Mula surah al-baqarah -->
     <surah indeks="2" nama="سُورَةُ البَقَرَةِ">
-        <halaman indeks="2">
-            <nomayat>[Al-Baqarah, 2:1]</nomayat>
-            <nomayat>[Al-Baqarah, 2:2]</nomayat>
-            <nomayat>[Al-Baqarah, 2:3]</nomayat>
-            <nomayat>[Al-Baqarah, 2:4]</nomayat>
-            <nomayat>[Al-Baqarah, 2:5]</nomayat>
-        </halaman>
+        <nomayat>[Al-Baqarah, 2:1]</nomayat>
+        <nomayat>[Al-Baqarah, 2:2]</nomayat>
+        <nomayat>[Al-Baqarah, 2:3]</nomayat>
+        <nomayat>[Al-Baqarah, 2:4]</nomayat>
+        <nomayat>[Al-Baqarah, 2:5]</nomayat>
         <!-- Halaman 3 -->
-        <halaman indeks="3">
-            <nomayat>[Al-Baqarah, 2:6]</nomayat>
-            <nomayat>[Al-Baqarah, 2:7]</nomayat>
-            <nomayat>[Al-Baqarah, 2:8]</nomayat>
-            <nomayat>[Al-Baqarah, 2:9]</nomayat>
-            <nomayat>[Al-Baqarah, 2:10]</nomayat>
-            <nomayat>[Al-Baqarah, 2:11]</nomayat>
-            <nomayat>[Al-Baqarah, 2:12]</nomayat>
-            <nomayat>[Al-Baqarah, 2:13]</nomayat>
-            <nomayat>[Al-Baqarah, 2:14]</nomayat>
-            <nomayat>[Al-Baqarah, 2:15]</nomayat>
-            <nomayat>[Al-Baqarah, 2:16]</nomayat>
-        </halaman>
+        <nomayat>[Al-Baqarah, 2:6]</nomayat>
+        <nomayat>[Al-Baqarah, 2:7]</nomayat>
+        <nomayat>[Al-Baqarah, 2:8]</nomayat>
+        <nomayat>[Al-Baqarah, 2:9]</nomayat>
+        <nomayat>[Al-Baqarah, 2:10]</nomayat>
+        <nomayat>[Al-Baqarah, 2:11]</nomayat>
+        <nomayat>[Al-Baqarah, 2:12]</nomayat>
+        <nomayat>[Al-Baqarah, 2:13]</nomayat>
+        <nomayat>[Al-Baqarah, 2:14]</nomayat>
+        <nomayat>[Al-Baqarah, 2:15]</nomayat>
+        <nomayat>[Al-Baqarah, 2:16]</nomayat>
         <!-- Halaman 4 -->
         <nomayat>[Al-Baqarah, 2:17]</nomayat>
         <nomayat>[Al-Baqarah, 2:18]</nomayat>
