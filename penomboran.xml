@@ -11,7 +11,7 @@
     <!-- Halaman 1 /
          Mula surah al-fatihah /
          Mula juz 1 -->
-    <surah indeks="1" nama="سُورَةُ الفَاتِحَةِ">
+    <surah indeks="1" nama="سُورَةُ الفَاتِحَةِ" namamy="Al-Fātihah">
         <nomayat>[Al-Fātihah, 1:1]</nomayat>
         <nomayat>[Al-Fātihah, 1:2]</nomayat>
         <nomayat>[Al-Fātihah, 1:3]</nomayat>
