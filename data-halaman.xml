@@ -1,0 +1,999 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<quran>
+    <!-- Halaman 1 -->
+    <halaman indeks="1">
+        <nomayat>[Al-Fātihah, 1:1]</nomayat>
+        <nomayat>[Al-Fātihah, 1:2]</nomayat>
+        <nomayat>[Al-Fātihah, 1:3]</nomayat>
+        <nomayat>[Al-Fātihah, 1:4]</nomayat>
+        <nomayat>[Al-Fātihah, 1:5]</nomayat>
+        <nomayat>[Al-Fātihah, 1:6]</nomayat>
+        <nomayat>[Al-Fātihah, 1:7]</nomayat>
+    </halaman>
+    <!-- Halaman 2 -->
+    <halaman indeks="2">
+        <nomayat>[Al-Baqarah, 2:1]</nomayat>
+        <nomayat>[Al-Baqarah, 2:2]</nomayat>
+        <nomayat>[Al-Baqarah, 2:3]</nomayat>
+        <nomayat>[Al-Baqarah, 2:4]</nomayat>
+        <nomayat>[Al-Baqarah, 2:5]</nomayat>
+    </halaman>
+    <!-- Halamana 3 -->
+    <halaman indeks="3">
+        <nomayat>[Al-Baqarah, 2:6]</nomayat>
+        <nomayat>[Al-Baqarah, 2:7]</nomayat>
+        <nomayat>[Al-Baqarah, 2:8]</nomayat>
+        <nomayat>[Al-Baqarah, 2:9]</nomayat>
+        <nomayat>[Al-Baqarah, 2:10]</nomayat>
+        <nomayat>[Al-Baqarah, 2:11]</nomayat>
+        <nomayat>[Al-Baqarah, 2:12]</nomayat>
+        <nomayat>[Al-Baqarah, 2:13]</nomayat>
+        <nomayat>[Al-Baqarah, 2:14]</nomayat>
+        <nomayat>[Al-Baqarah, 2:15]</nomayat>
+        <nomayat>[Al-Baqarah, 2:16]</nomayat>
+    </halaman>
+    <!-- Halaman 4 -->
+    <halaman indeks="4"></halaman>
+    <!-- Halaman 5 -->
+    <halaman indeks="5"></halaman>
+    <!-- Halaman 6 -->
+    <halaman indeks="6"></halaman>
+    <!-- Halaman 7 -->
+    <halaman indeks="7"></halaman>
+    <!-- Halaman 8 -->
+    <halaman indeks="8"></halaman>
+    <!-- Halaman 9 -->
+    <halaman indeks="9"></halaman>
+    <!-- Halaman 10 -->    
+    <halaman indeks="10"></halaman>
+    <!-- Halaman 11 -->
+    <halaman indeks="11"></halaman>
+    <!-- Halaman 12 -->    
+    <halaman indeks="12"></halaman>
+    <!-- Halaman 13 -->
+    <halaman indeks="13"></halaman>
+    <!-- Halaman 14 -->
+    <halaman indeks="14"></halaman>
+    <!-- Halaman 15 -->
+    <halaman indeks="15"></halaman>
+    <!-- Halaman 16 -->
+    <halaman indeks="16"></halaman>
+    <!-- Halaman 17 -->
+    <halaman indeks="17"></halaman>
+    <!-- Halaman 18 -->
+    <halaman indeks="18"></halaman>
+    <!-- Halaman 19 -->
+    <halaman indeks="19"></halaman>
+    <!-- Halaman 20 -->
+    <halaman indeks="20"></halaman>
+    <!-- Halaman 21 -->
+    <halaman indeks="21"></halaman>
+    <!-- Halaman 22 -->
+    <halaman indeks="22"></halaman>
+    <!-- Halaman 23 -->
+    <halaman indeks="23"></halaman>
+    <!-- Halaman 24 -->
+    <halaman indeks="24"></halaman>
+    <!-- Halaman 25 -->
+    <halaman indeks="25"></halaman>
+    <!-- Halaman 26 -->
+    <halaman indeks="26"></halaman>
+    <!-- Halaman 27 -->
+    <halaman indeks="27"></halaman>
+    <!-- Halaman 28 -->
+    <halaman indeks="28"></halaman>
+    <!-- Halaman 29 -->
+    <halaman indeks="29"></halaman>
+    <!-- Halaman 30 -->
+    <halaman indeks="30"></halaman>
+    <!-- Halaman 31 -->
+    <halaman indeks="31"></halaman>
+    <!-- Halaman 32 -->
+    <halaman indeks="32"></halaman>
+    <!-- Halaman 33 -->
+    <halaman indeks="33"></halaman>
+    <!-- Halaman 34 -->
+    <halaman indeks="34"></halaman>
+    <!-- Halaman 35 -->
+    <halaman indeks="35"></halaman>
+    <!-- Halaman 36 -->
+    <halaman indeks="36"></halaman>
+    <!-- Halaman 37 -->
+    <halaman indeks="37"></halaman>
+    <!-- Halaman 38 -->
+    <halaman indeks="38"></halaman>
+    <!-- Halaman 39 -->
+    <halaman indeks="39"></halaman>
+    <!-- Halaman 40 -->
+    <halaman indeks="40"></halaman>
+    <!-- Halaman 41 -->
+    <halaman indeks="41"></halaman>
+    <!-- Halaman 42 -->
+    <halaman indeks="42"></halaman>
+    <!-- Halaman 43 -->
+    <halaman indeks="43"></halaman>
+    <!-- Halaman 44 -->
+    <halaman indeks="44"></halaman>
+    <!-- Halaman 45 -->
+    <halaman indeks="45"></halaman>
+    <!-- Halaman 46 -->
+    <halaman indeks="46"></halaman>
+    <!-- Halaman 47 -->
+    <halaman indeks="47"></halaman>
+    <!-- Halaman 48 -->
+    <halaman indeks="48"></halaman>
+    <!-- Halaman 49 -->
+    <halaman indeks="49"></halaman>
+    <!-- Halaman 50 -->
+    <halaman indeks="50"></halaman>
+    <!-- Halaman 51 -->
+    <halaman indeks="51"></halaman>
+    <!-- Halaman 52 -->
+    <halaman indeks="52"></halaman>
+    <!-- Halaman 53 -->
+    <halaman indeks="53"></halaman>
+    <!-- Halaman 54 -->
+    <halaman indeks="54"></halaman>
+    <!-- Halaman 55 -->
+    <halaman indeks="55"></halaman>
+    <!-- Halaman 56 -->
+    <halaman indeks="56"></halaman>
+    <!-- Halaman 57 -->
+    <halaman indeks="57"></halaman>
+    <!-- Halaman 58 -->
+    <halaman indeks="58"></halaman>
+    <!-- Halaman 59 -->
+    <halaman indeks="59"></halaman>
+    <!-- Halaman 60 -->
+    <halaman indeks="60"></halaman>
+    <!-- Halaman 61 -->
+    <halaman indeks="61"></halaman>
+    <!-- Halaman 62 -->
+    <halaman indeks="62"></halaman>
+    <!-- Halaman 63 -->
+    <halaman indeks="63"></halaman>
+    <!-- Halaman 64 -->
+    <halaman indeks="64"></halaman>
+    <!-- Halaman 65 -->
+    <halaman indeks="65"></halaman>
+    <!-- Halaman 66 -->
+    <halaman indeks="66"></halaman>
+    <!-- Halaman 67 -->
+    <halaman indeks="67"></halaman>
+    <!-- Halaman 68 -->
+    <halaman indeks="68"></halaman>
+    <!-- Halaman 69 -->
+    <halaman indeks="69"></halaman>
+    <!-- Halaman 70 -->
+    <halaman indeks="70"></halaman>
+    <!-- Halaman 71 -->
+    <halaman indeks="71"></halaman>
+    <!-- Halaman 72 -->
+    <halaman indeks="72"></halaman>
+    <!-- Halaman 73 -->
+    <halaman indeks="73"></halaman>
+    <!-- Halaman 74 -->
+    <halaman indeks="74"></halaman>
+    <!-- Halaman 75 -->
+    <halaman indeks="75"></halaman>
+    <!-- Halaman 76 -->
+    <halaman indeks="76"></halaman>
+    <!-- Halaman 77 -->
+    <halaman indeks="77"></halaman>
+    <!-- Halaman 78 -->
+    <halaman indeks="78"></halaman>
+    <!-- Halaman 79 -->
+    <halaman indeks="79"></halaman>
+    <!-- Halaman 80 -->
+    <halaman indeks="80"></halaman>
+    <!-- Halaman 81 -->
+    <halaman indeks="81"></halaman>
+    <!-- Halaman 82 -->
+    <halaman indeks="82"></halaman>
+    <!-- Halaman 83 -->
+    <halaman indeks="83"></halaman>
+    <!-- Halaman 84 -->
+    <halaman indeks="84"></halaman>
+    <!-- Halaman 85 -->
+    <halaman indeks="85"></halaman>
+    <!-- Halaman 86 -->
+    <halaman indeks="86"></halaman>
+    <!-- Halaman 87 -->
+    <halaman indeks="87"></halaman>
+    <!-- Halaman 88 -->
+    <halaman indeks="88"></halaman>
+    <!-- Halaman 89 -->
+    <halaman indeks="89"></halaman>
+    <!-- Halaman 90 -->
+    <halaman indeks="90"></halaman>
+    <!-- Halaman 91 -->
+    <halaman indeks="91"></halaman>
+    <!-- Halaman 92 -->
+    <halaman indeks="92"></halaman>
+    <!-- Halaman 93 -->
+    <halaman indeks="93"></halaman>
+    <!-- Halaman 94 -->
+    <halaman indeks="94"></halaman>
+    <!-- Halaman 95 -->
+    <halaman indeks="95"></halaman>
+    <!-- Halaman 96 -->
+    <halaman indeks="96"></halaman>
+    <!-- Halaman 97 -->
+    <halaman indeks="97"></halaman>
+    <!-- Halaman 98 -->
+    <halaman indeks="98"></halaman>
+    <!-- Halaman 99 -->
+    <halaman indeks="99"></halaman>
+    <!-- Halaman 100 -->
+    <halaman indeks="100"></halaman>
+    <!-- Halaman 101 -->
+    <halaman indeks="101"></halaman>
+    <!-- Halaman 102 -->
+    <halaman indeks="102"></halaman>
+    <!-- Halaman 103 -->
+    <halaman indeks="103"></halaman>
+    <!-- Halaman 104 -->
+    <halaman indeks="104"></halaman>
+    <!-- Halaman 105 -->
+    <halaman indeks="105"></halaman>
+    <!-- Halaman 106 -->
+    <halaman indeks="106"></halaman>
+    <!-- Halaman 107 -->
+    <halaman indeks="107"></halaman>
+    <!-- Halaman 108 -->
+    <halaman indeks="108"></halaman>
+    <!-- Halaman 109 -->
+    <halaman indeks="109"></halaman>
+    <!-- Halaman 110 -->
+    <halaman indeks="110"></halaman>
+    <!-- Halaman 111 -->
+    <halaman indeks="111"></halaman>
+    <!-- Halaman 112 -->
+    <halaman indeks="112"></halaman>
+    <!-- Halaman 113 -->
+    <halaman indeks="113"></halaman>
+    <!-- Halaman 114 -->
+    <halaman indeks="114"></halaman>
+    <!-- Halaman 115 -->
+    <halaman indeks="115"></halaman>
+    <!-- Halaman 116 -->
+    <halaman indeks="116"></halaman>
+    <!-- Halaman 117 -->
+    <halaman indeks="117"></halaman>
+    <!-- Halaman 118 -->
+    <halaman indeks="118"></halaman>
+    <!-- Halaman 119 -->
+    <halaman indeks="119"></halaman>
+    <!-- Halaman 120 -->
+    <halaman indeks="120"></halaman>
+    <!-- Halaman 121 -->
+    <halaman indeks="121"></halaman>
+    <!-- Halaman 122 -->
+    <halaman indeks="122"></halaman>
+    <!-- Halaman 123 -->
+    <halaman indeks="123"></halaman>
+    <!-- Halaman 124 -->
+    <halaman indeks="124"></halaman>
+    <!-- Halaman 125 -->
+    <halaman indeks="125"></halaman>
+    <!-- Halaman 126 -->
+    <halaman indeks="126"></halaman>
+    <!-- Halaman 127 -->
+    <halaman indeks="127"></halaman>
+    <!-- Halaman 128 -->
+    <halaman indeks="128"></halaman>
+    <!-- Halaman 129 -->
+    <halaman indeks="129"></halaman>
+    <!-- Halaman 130 -->
+    <halaman indeks="130"></halaman>
+    <!-- Halaman 131 -->
+    <halaman indeks="131"></halaman>
+    <!-- Halaman 132 -->
+    <halaman indeks="132"></halaman>
+    <!-- Halaman 133 -->
+    <halaman indeks="133"></halaman>
+    <!-- Halaman 134 -->
+    <halaman indeks="134"></halaman>
+    <!-- Halaman 135 -->
+    <halaman indeks="135"></halaman>
+    <!-- Halaman 136 -->
+    <halaman indeks="136"></halaman>
+    <!-- Halaman 137 -->
+    <halaman indeks="137"></halaman>
+    <!-- Halaman 138 -->
+    <halaman indeks="138"></halaman>
+    <!-- Halaman 139 -->
+    <halaman indeks="139"></halaman>
+    <!-- Halaman 140 -->
+    <halaman indeks="140"></halaman>
+    <!-- Halaman 141 -->
+    <halaman indeks="141"></halaman>
+    <!-- Halaman 142 -->
+    <halaman indeks="142"></halaman>
+    <!-- Halaman 143 -->
+    <halaman indeks="143"></halaman>
+    <!-- Halaman 144 -->
+    <halaman indeks="144"></halaman>
+    <!-- Halaman 145 -->
+    <halaman indeks="145"></halaman>
+    <!-- Halaman 146 -->
+    <halaman indeks="146"></halaman>
+    <!-- Halaman 147 -->
+    <halaman indeks="147"></halaman>
+    <!-- Halaman 148 -->
+    <halaman indeks="148"></halaman>
+    <!-- Halaman 149 -->
+    <halaman indeks="149"></halaman>
+    <!-- Halaman 150 -->
+    <halaman indeks="150"></halaman>
+    <!-- Halaman 151 -->
+    <halaman indeks="151"></halaman>
+    <!-- Halaman 152 -->
+    <halaman indeks="152"></halaman>
+    <!-- Halaman 153 -->
+    <halaman indeks="153"></halaman>
+    <!-- Halaman 154 -->
+    <halaman indeks="154"></halaman>
+    <!-- Halaman 155 -->
+    <halaman indeks="155"></halaman>
+    <!-- Halaman 156 -->
+    <halaman indeks="156"></halaman>
+    <!-- Halaman 157 -->
+    <halaman indeks="157"></halaman>
+    <!-- Halaman 158 -->
+    <halaman indeks="158"></halaman>
+    <!-- Halaman 159 -->
+    <halaman indeks="159"></halaman>
+    <!-- Halaman 160 -->
+    <halaman indeks="160"></halaman>
+    <!-- Halaman 161 -->
+    <halaman indeks="161"></halaman>
+    <!-- Halaman 162 -->
+    <halaman indeks="162"></halaman>
+    <!-- Halaman 163 -->
+    <halaman indeks="163"></halaman>
+    <!-- Halaman 164 -->
+    <halaman indeks="164"></halaman>
+    <!-- Halaman 165 -->
+    <halaman indeks="165"></halaman>
+    <!-- Halaman 166 -->
+    <halaman indeks="166"></halaman>
+    <!-- Halaman 167 -->
+    <halaman indeks="167"></halaman>
+    <!-- Halaman 168 -->
+    <halaman indeks="168"></halaman>
+    <!-- Halaman 169 -->
+    <halaman indeks="169"></halaman>
+    <!-- Halaman 170 -->
+    <halaman indeks="170"></halaman>
+    <!-- Halaman 171 -->
+    <halaman indeks="171"></halaman>
+    <!-- Halaman 172 -->
+    <halaman indeks="172"></halaman>
+    <!-- Halaman 173 -->
+    <halaman indeks="173"></halaman>
+    <!-- Halaman 174 -->
+    <halaman indeks="174"></halaman>
+    <!-- Halaman 175 -->
+    <halaman indeks="175"></halaman>
+    <!-- Halaman 176 -->
+    <halaman indeks="176"></halaman>
+    <!-- Halaman 177 -->
+    <halaman indeks="177"></halaman>
+    <!-- Halaman 178 -->
+    <halaman indeks="178"></halaman>
+    <!-- Halaman 179 -->
+    <halaman indeks="179"></halaman>
+    <!-- Halaman 180 -->
+    <halaman indeks="180"></halaman>
+    <!-- Halaman 181 -->
+    <halaman indeks="181"></halaman>
+    <!-- Halaman 182 -->
+    <halaman indeks="182"></halaman>
+    <!-- Halaman 183 -->
+    <halaman indeks="183"></halaman>
+    <!-- Halaman 184 -->
+    <halaman indeks="184"></halaman>
+    <!-- Halaman 185 -->
+    <halaman indeks="185"></halaman>
+    <!-- Halaman 186 -->
+    <halaman indeks="186"></halaman>
+    <!-- Halaman 187 -->
+    <halaman indeks="187"></halaman>
+    <!-- Halaman 188 -->
+    <halaman indeks="188"></halaman>
+    <!-- Halaman 189 -->
+    <halaman indeks="189"></halaman>
+    <!-- Halaman 190 -->
+    <halaman indeks="190"></halaman>
+    <!-- Halaman 191 -->
+    <halaman indeks="191"></halaman>
+    <!-- Halaman 192 -->
+    <halaman indeks="192"></halaman>
+    <!-- Halaman 193 -->
+    <halaman indeks="193"></halaman>
+    <!-- Halaman 194 -->
+    <halaman indeks="194"></halaman>
+    <!-- Halaman 195 -->
+    <halaman indeks="195"></halaman>
+    <!-- Halaman 196 -->
+    <halaman indeks="196"></halaman>
+    <!-- Halaman 197 -->
+    <halaman indeks="197"></halaman>
+    <!-- Halaman 198 -->
+    <halaman indeks="198"></halaman>
+    <!-- Halaman 199 -->
+    <halaman indeks="199"></halaman>
+    <!-- Halaman 200 -->
+    <halaman indeks="200"></halaman>
+    <!-- Halaman 201 -->
+    <halaman indeks="201"></halaman>
+    <!-- Halaman 202 -->
+    <halaman indeks="202"></halaman>
+    <!-- Halaman 203 -->
+    <halaman indeks="203"></halaman>
+    <!-- Halaman 204 -->
+    <halaman indeks="204"></halaman>
+    <!-- Halaman 205 -->
+    <halaman indeks="205"></halaman>
+    <!-- Halaman 206 -->
+    <halaman indeks="206"></halaman>
+    <!-- Halaman 207 -->
+    <halaman indeks="207"></halaman>
+    <!-- Halaman 208 -->
+    <halaman indeks="208"></halaman>
+    <!-- Halaman 209 -->
+    <halaman indeks="209"></halaman>
+    <!-- Halaman 210 -->
+    <halaman indeks="210"></halaman>
+    <!-- Halaman 211 -->
+    <halaman indeks="211"></halaman>
+    <!-- Halaman 212 -->
+    <halaman indeks="212"></halaman>
+    <!-- Halaman 213 -->
+    <halaman indeks="213"></halaman>
+    <!-- Halaman 214 -->
+    <halaman indeks="214"></halaman>
+    <!-- Halaman 215 -->
+    <halaman indeks="215"></halaman>
+    <!-- Halaman 216 -->
+    <halaman indeks="216"></halaman>
+    <!-- Halaman 217 -->
+    <halaman indeks="217"></halaman>
+    <!-- Halaman 218 -->
+    <halaman indeks="218"></halaman>
+    <!-- Halaman 219 -->
+    <halaman indeks="219"></halaman>
+    <!-- Halaman 220 -->
+    <halaman indeks="220"></halaman>
+    <!-- Halaman 221 -->
+    <halaman indeks="221"></halaman>
+    <!-- Halaman 222 -->
+    <halaman indeks="222"></halaman>
+    <!-- Halaman 223 -->
+    <halaman indeks="223"></halaman>
+    <!-- Halaman 223 -->
+    <halaman indeks="224"></halaman>
+    <!-- Halaman 225 -->
+    <halaman indeks="225"></halaman>
+    <!-- Halaman 226 -->
+    <halaman indeks="226"></halaman>
+    <!-- Halaman 227 -->
+    <halaman indeks="227"></halaman>
+    <!-- Halaman 228 -->
+    <halaman indeks="228"></halaman>
+    <!-- Halaman 229 -->
+    <halaman indeks="229"></halaman>
+    <!-- Halaman 230 -->
+    <halaman indeks="230"></halaman>
+    <!-- Halaman 231 -->
+    <halaman indeks="231"></halaman>
+    <!-- Halaman 232 -->
+    <halaman indeks="232"></halaman>
+    <!-- Halaman 233 -->
+    <halaman indeks="233"></halaman>
+    <!-- Halaman 234 -->
+    <halaman indeks="234"></halaman>
+    <!-- Halaman 235 -->
+    <halaman indeks="235"></halaman>
+    <!-- Halaman 236 -->
+    <halaman indeks="236"></halaman>
+    <!-- Halaman 237 -->
+    <halaman indeks="237"></halaman>
+    <!-- Halaman 238 -->
+    <halaman indeks="238"></halaman>
+    <!-- Halaman 239 -->
+    <halaman indeks="239"></halaman>
+    <!-- Halaman 40 -->
+    <halaman indeks="240"></halaman>
+    <!-- Halaman 241 -->
+    <halaman indeks="241"></halaman>
+    <!-- Halaman 242 -->
+    <halaman indeks="242"></halaman>
+    <!-- Halaman 243 -->
+    <halaman indeks="243"></halaman>
+    <!-- Halaman 244 -->
+    <halaman indeks="244"></halaman>
+    <!-- Halaman 245 -->
+    <halaman indeks="245"></halaman>
+    <!-- Halaman 246 -->
+    <halaman indeks="246"></halaman>
+    <!-- Halaman 247 -->
+    <halaman indeks="247"></halaman>
+    <!-- Halaman 248 -->
+    <halaman indeks="248"></halaman>
+    <!-- Halaman 249 -->
+    <halaman indeks="249"></halaman>
+    <!-- Halaman 250 -->
+    <halaman indeks="250"></halaman>
+    <!-- Halaman 251 -->
+    <halaman indeks="251"></halaman>
+    <!-- Halaman 252 -->
+    <halaman indeks="252"></halaman>
+    <!-- Halaman 253 -->
+    <halaman indeks="253"></halaman>
+    <!-- Halaman 254 -->
+    <halaman indeks="254"></halaman>
+    <!-- Halaman 255 -->
+    <halaman indeks="255"></halaman>
+    <!-- Halaman 256 -->
+    <halaman indeks="256"></halaman>
+    <!-- Halaman 257 -->
+    <halaman indeks="257"></halaman>
+    <!-- Halaman 258 -->
+    <halaman indeks="258"></halaman>
+    <!-- Halaman 259 -->
+    <halaman indeks="259"></halaman>
+    <!-- Halaman 260 -->
+    <halaman indeks="260"></halaman>
+    <!-- Halaman 261 -->
+    <halaman indeks="261"></halaman>
+    <!-- Halaman 262 -->
+    <halaman indeks="262"></halaman>
+    <!-- Halaman 263 -->
+    <halaman indeks="263"></halaman>
+    <!-- Halaman 264 -->
+    <halaman indeks="264"></halaman>
+    <!-- Halaman 265 -->
+    <halaman indeks="265"></halaman>
+    <!-- Halaman 266 -->
+    <halaman indeks="266"></halaman>
+    <!-- Halaman 267 -->
+    <halaman indeks="267"></halaman>
+    <!-- Halaman 268 -->
+    <halaman indeks="268"></halaman>
+    <!-- Halaman 269 -->
+    <halaman indeks="269"></halaman>
+    <!-- Halaman 270 -->
+    <halaman indeks="270"></halaman>
+    <!-- Halaman 271 -->
+    <halaman indeks="271"></halaman>
+    <!-- Halaman 272 -->
+    <halaman indeks="272"></halaman>
+    <!-- Halaman 273 -->
+    <halaman indeks="273"></halaman>
+    <!-- Halaman 274 -->
+    <halaman indeks="274"></halaman>
+    <!-- Halaman 275 -->
+    <halaman indeks="275"></halaman>
+    <!-- Halaman 276 -->
+    <halaman indeks="276"></halaman>
+    <!-- Halaman 277 -->
+    <halaman indeks="277"></halaman>
+    <!-- Halaman 278 -->
+    <halaman indeks="278"></halaman>
+    <!-- Halaman 279 -->
+    <halaman indeks="279"></halaman>
+    <!-- Halaman 280 -->
+    <halaman indeks="280"></halaman>
+    <!-- Halaman 281 -->
+    <halaman indeks="281"></halaman>
+    <!-- Halaman 282 -->
+    <halaman indeks="282"></halaman>
+    <!-- Halaman 283 -->
+    <halaman indeks="283"></halaman>
+    <!-- Halaman 284 -->
+    <halaman indeks="284"></halaman>
+    <!-- Halaman 285 -->
+    <halaman indeks="285"></halaman>
+    <!-- Halaman 286 -->
+    <halaman indeks="286"></halaman>
+    <!-- Halaman 287 -->
+    <halaman indeks="287"></halaman>
+    <!-- Halaman 288 -->
+    <halaman indeks="288"></halaman>
+    <!-- Halaman 289 -->
+    <halaman indeks="289"></halaman>
+    <!-- Halaman 290 -->
+    <halaman indeks="290"></halaman>
+    <!-- Halaman 291 -->
+    <halaman indeks="291"></halaman>
+    <!-- Halaman 292 -->
+    <halaman indeks="292"></halaman>
+    <!-- Halaman 293 -->
+    <halaman indeks="293"></halaman>
+    <!-- Halaman 294 -->
+    <halaman indeks="294"></halaman>
+    <!-- Halaman 295 -->
+    <halaman indeks="295"></halaman>
+    <!-- Halaman 296 -->
+    <halaman indeks="296"></halaman>
+    <!-- Halaman 297 -->
+    <halaman indeks="297"></halaman>
+    <!-- Halaman 298 -->
+    <halaman indeks="298"></halaman>
+    <!-- Halaman 299 -->
+    <halaman indeks="299"></halaman>
+    <!-- Halaman 300 -->
+    <halaman indeks="300"></halaman>
+    <!-- Halaman 301 -->
+    <halaman indeks="301"></halaman>
+    <!-- Halaman 302 -->
+    <halaman indeks="302"></halaman>
+    <!-- Halaman 303 -->
+    <halaman indeks="303"></halaman>
+    <!-- Halaman 304 -->
+    <halaman indeks="304"></halaman>
+    <!-- Halaman 305 -->
+    <halaman indeks="305"></halaman>
+    <!-- Halaman 306 -->
+    <halaman indeks="306"></halaman>
+    <!-- Halaman 307 -->
+    <halaman indeks="307"></halaman>
+    <!-- Halaman 308 -->
+    <halaman indeks="308"></halaman>
+    <!-- Halaman 309 -->
+    <halaman indeks="309"></halaman>
+    <!-- Halaman 310 -->
+    <halaman indeks="310"></halaman>
+    <!-- Halaman 311 -->
+    <halaman indeks="311"></halaman>
+    <!-- Halaman 312 -->
+    <halaman indeks="312"></halaman>
+    <!-- Halaman 313 -->
+    <halaman indeks="313"></halaman>
+    <!-- Halaman 314 -->
+    <halaman indeks="314"></halaman>
+    <!-- Halaman 315 -->
+    <halaman indeks="315"></halaman>
+    <!-- Halaman 316 -->
+    <halaman indeks="316"></halaman>
+    <!-- Halaman 317 -->
+    <halaman indeks="317"></halaman>
+    <!-- Halaman 318 -->
+    <halaman indeks="318"></halaman>
+    <!-- Halaman 319 -->
+    <halaman indeks="319"></halaman>
+    <!-- Halaman 320 -->
+    <halaman indeks="320"></halaman>
+    <!-- Halaman 321 -->
+    <halaman indeks="321"></halaman>
+    <!-- Halaman 322 -->
+    <halaman indeks="322"></halaman>
+    <!-- Halaman 323 -->
+    <halaman indeks="323"></halaman>
+    <!-- Halaman 324 -->
+    <halaman indeks="324"></halaman>
+    <!-- Halaman 325 -->
+    <halaman indeks="325"></halaman>
+    <!-- Halaman 326 -->
+    <halaman indeks="326"></halaman>
+    <!-- Halaman 327 -->
+    <halaman indeks="327"></halaman>
+    <!-- Halaman 328 -->
+    <halaman indeks="328"></halaman>
+    <!-- Halaman 329 -->
+    <halaman indeks="329"></halaman>
+    <!-- Halaman 330 -->
+    <halaman indeks="330"></halaman>
+    <!-- Halaman 331 -->
+    <halaman indeks="331"></halaman>
+    <!-- Halaman 332 -->
+    <halaman indeks="332"></halaman>
+    <!-- Halaman 333 -->
+    <halaman indeks="333"></halaman>
+    <!-- Halaman 334 -->
+    <halaman indeks="334"></halaman>
+    <!-- Halaman 335 -->
+    <halaman indeks="335"></halaman>
+    <!-- Halaman 336 -->
+    <halaman indeks="336"></halaman>
+    <!-- Halaman 337 -->
+    <halaman indeks="337"></halaman>
+    <!-- Halaman 338 -->
+    <halaman indeks="338"></halaman>
+    <!-- Halaman 339 -->
+    <halaman indeks="339"></halaman>
+    <!-- Halaman 340 -->
+    <halaman indeks="340"></halaman>
+    <!-- Halaman 341 -->
+    <halaman indeks="341"></halaman>
+    <!-- Halaman 342 -->
+    <halaman indeks="342"></halaman>
+    <!-- Halaman 343 -->
+    <halaman indeks="343"></halaman>
+    <!-- Halaman 344 -->
+    <halaman indeks="344"></halaman>
+    <!-- Halaman 345 -->
+    <halaman indeks="345"></halaman>
+    <!-- Halaman 346 -->
+    <halaman indeks="346"></halaman>
+    <!-- Halaman 347 -->
+    <halaman indeks="347"></halaman>
+    <!-- Halaman 348 -->
+    <halaman indeks="348"></halaman>
+    <!-- Halaman 349 -->
+    <halaman indeks="349"></halaman>
+    <!-- Halaman 350 -->
+    <halaman indeks="350"></halaman>
+    <!-- Halaman 351 -->
+    <halaman indeks="351"></halaman>
+    <!-- Halaman 352 -->
+    <halaman indeks="352"></halaman>
+    <!-- Halaman 353 -->
+    <halaman indeks="353"></halaman>
+    <!-- Halaman 354 -->
+    <halaman indeks="354"></halaman>
+    <!-- Halaman 355 -->
+    <halaman indeks="355"></halaman>
+    <!-- Halaman 356 -->
+    <halaman indeks="356"></halaman>
+    <!-- Halaman 357 -->
+    <halaman indeks="357"></halaman>
+    <!-- Halaman 358 -->
+    <halaman indeks="358"></halaman>
+    <!-- Halaman 359 -->
+    <halaman indeks="359"></halaman>
+    <!-- Halaman 360 -->
+    <halaman indeks="360"></halaman>
+    <!-- Halaman 361 -->
+    <halaman indeks="361"></halaman>
+    <!-- Halaman 362 -->
+    <halaman indeks="362"></halaman>
+    <!-- Halaman 363 -->
+    <halaman indeks="363"></halaman>
+    <!-- Halaman 364 -->
+    <halaman indeks="364"></halaman>
+    <!-- Halaman 365 -->
+    <halaman indeks="365"></halaman>
+    <halaman indeks="366"></halaman>
+    <halaman indeks="367"></halaman>
+    <halaman indeks="368"></halaman>
+    <halaman indeks="369"></halaman>
+    <halaman indeks="370"></halaman>
+    <halaman indeks="371"></halaman>
+    <halaman indeks="372"></halaman>
+    <halaman indeks="373"></halaman>
+    <halaman indeks="374"></halaman>
+    <halaman indeks="375"></halaman>
+    <halaman indeks="376"></halaman>
+    <halaman indeks="377"></halaman>
+    <halaman indeks="378"></halaman>
+    <halaman indeks="379"></halaman>
+    <halaman indeks="380"></halaman>
+    <halaman indeks="381"></halaman>
+    <halaman indeks="382"></halaman>
+    <halaman indeks="383"></halaman>
+    <halaman indeks="384"></halaman>
+    <halaman indeks="385"></halaman>
+    <halaman indeks="386"></halaman>
+    <halaman indeks="387"></halaman>
+    <halaman indeks="388"></halaman>
+    <halaman indeks="389"></halaman>
+    <halaman indeks="390"></halaman>
+    <halaman indeks="391"></halaman>
+    <halaman indeks="392"></halaman>
+    <halaman indeks="393"></halaman>
+    <halaman indeks="394"></halaman>
+    <halaman indeks="395"></halaman>
+    <halaman indeks="396"></halaman>
+    <halaman indeks="397"></halaman>
+    <halaman indeks="398"></halaman>
+    <halaman indeks="399"></halaman>
+    <halaman indeks="400"></halaman>
+    <halaman indeks="401"></halaman>
+    <halaman indeks="402"></halaman>
+    <halaman indeks="403"></halaman>
+    <halaman indeks="404"></halaman>
+    <halaman indeks="405"></halaman>
+    <halaman indeks="406"></halaman>
+    <halaman indeks="407"></halaman>
+    <halaman indeks="408"></halaman>
+    <halaman indeks="409"></halaman>
+    <halaman indeks="410"></halaman>
+    <halaman indeks="411"></halaman>
+    <halaman indeks="412"></halaman>
+    <halaman indeks="413"></halaman>
+    <halaman indeks="414"></halaman>
+    <halaman indeks="415"></halaman>
+    <halaman indeks="416"></halaman>
+    <halaman indeks="417"></halaman>
+    <halaman indeks="418"></halaman>
+    <halaman indeks="419"></halaman>
+    <halaman indeks="420"></halaman>
+    <halaman indeks="421"></halaman>
+    <halaman indeks="422"></halaman>
+    <halaman indeks="423"></halaman>
+    <halaman indeks="424"></halaman>
+    <halaman indeks="425"></halaman>
+    <halaman indeks="426"></halaman>
+    <halaman indeks="427"></halaman>
+    <halaman indeks="428"></halaman>
+    <halaman indeks="429"></halaman>
+    <halaman indeks="430"></halaman>
+    <halaman indeks="431"></halaman>
+    <halaman indeks="432"></halaman>
+    <halaman indeks="433"></halaman>
+    <halaman indeks="434"></halaman>
+    <halaman indeks="435"></halaman>
+    <halaman indeks="436"></halaman>
+    <halaman indeks="437"></halaman>
+    <halaman indeks="438"></halaman>
+    <halaman indeks="439"></halaman>
+    <halaman indeks="440"></halaman>
+    <halaman indeks="441"></halaman>
+    <halaman indeks="442"></halaman>
+    <halaman indeks="443"></halaman>
+    <halaman indeks="444"></halaman>
+    <halaman indeks="445"></halaman>
+    <halaman indeks="446"></halaman>
+    <halaman indeks="447"></halaman>
+    <halaman indeks="448"></halaman>
+    <halaman indeks="449"></halaman>
+    <halaman indeks="450"></halaman>
+    <halaman indeks="451"></halaman>
+    <halaman indeks="452"></halaman>
+    <halaman indeks="453"></halaman>
+    <halaman indeks="454"></halaman>
+    <halaman indeks="455"></halaman>
+    <halaman indeks="456"></halaman>
+    <halaman indeks="457"></halaman>
+    <halaman indeks="458"></halaman>
+    <halaman indeks="459"></halaman>
+    <halaman indeks="460"></halaman>
+    <halaman indeks="461"></halaman>
+    <halaman indeks="462"></halaman>
+    <halaman indeks="463"></halaman>
+    <halaman indeks="464"></halaman>
+    <halaman indeks="465"></halaman>
+    <halaman indeks="466"></halaman>
+    <halaman indeks="467"></halaman>
+    <halaman indeks="468"></halaman>
+    <halaman indeks="469"></halaman>
+    <halaman indeks="470"></halaman>
+    <halaman indeks="471"></halaman>
+    <halaman indeks="472"></halaman>
+    <halaman indeks="473"></halaman>
+    <halaman indeks="474"></halaman>
+    <halaman indeks="475"></halaman>
+    <halaman indeks="476"></halaman>
+    <halaman indeks="477"></halaman>
+    <halaman indeks="478"></halaman>
+    <halaman indeks="479"></halaman>
+    <halaman indeks="480"></halaman>
+    <halaman indeks="481"></halaman>
+    <halaman indeks="482"></halaman>
+    <halaman indeks="483"></halaman>
+    <halaman indeks="484"></halaman>
+    <halaman indeks="485"></halaman>
+    <halaman indeks="486"></halaman>
+    <halaman indeks="487"></halaman>
+    <halaman indeks="488"></halaman>
+    <halaman indeks="489"></halaman>
+    <halaman indeks="490"></halaman>
+    <halaman indeks="491"></halaman>
+    <halaman indeks="492"></halaman>
+    <halaman indeks="493"></halaman>
+    <halaman indeks="494"></halaman>
+    <halaman indeks="495"></halaman>
+    <halaman indeks="496"></halaman>
+    <halaman indeks="497"></halaman>
+    <halaman indeks="498"></halaman>
+    <halaman indeks="499"></halaman>
+    <halaman indeks="500"></halaman>
+    <halaman indeks="501"></halaman>
+    <halaman indeks="502"></halaman>
+    <halaman indeks="503"></halaman>
+    <halaman indeks="504"></halaman>
+    <halaman indeks="505"></halaman>
+    <halaman indeks="506"></halaman>
+    <halaman indeks="507"></halaman>
+    <halaman indeks="508"></halaman>
+    <halaman indeks="509"></halaman>
+    <halaman indeks="510"></halaman>
+    <halaman indeks="511"></halaman>
+    <halaman indeks="512"></halaman>
+    <halaman indeks="513"></halaman>
+    <halaman indeks="514"></halaman>
+    <halaman indeks="515"></halaman>
+    <halaman indeks="516"></halaman>
+    <halaman indeks="517"></halaman>
+    <halaman indeks="518"></halaman>
+    <halaman indeks="519"></halaman>
+    <halaman indeks="520"></halaman>
+    <halaman indeks="521"></halaman>
+    <halaman indeks="522"></halaman>
+    <halaman indeks="523"></halaman>
+    <halaman indeks="524"></halaman>
+    <halaman indeks="525"></halaman>
+    <halaman indeks="526"></halaman>
+    <halaman indeks="527"></halaman>
+    <halaman indeks="528"></halaman>
+    <halaman indeks="529"></halaman>
+    <halaman indeks="530"></halaman>
+    <halaman indeks="531"></halaman>
+    <halaman indeks="532"></halaman>
+    <halaman indeks="533"></halaman>
+    <halaman indeks="534"></halaman>
+    <halaman indeks="535"></halaman>
+    <halaman indeks="536"></halaman>
+    <halaman indeks="537"></halaman>
+    <halaman indeks="538"></halaman>
+    <halaman indeks="539"></halaman>
+    <halaman indeks="540"></halaman>
+    <halaman indeks="541"></halaman>
+    <halaman indeks="542"></halaman>
+    <halaman indeks="543"></halaman>
+    <halaman indeks="544"></halaman>
+    <halaman indeks="545"></halaman>
+    <halaman indeks="546"></halaman>
+    <halaman indeks="547"></halaman>
+    <halaman indeks="548"></halaman>
+    <halaman indeks="549"></halaman>
+    <halaman indeks="550"></halaman>
+    <halaman indeks="551"></halaman>
+    <halaman indeks="552"></halaman>
+    <halaman indeks="553"></halaman>
+    <halaman indeks="554"></halaman>
+    <halaman indeks="555"></halaman>
+    <halaman indeks="556"></halaman>
+    <halaman indeks="557"></halaman>
+    <halaman indeks="558"></halaman>
+    <halaman indeks="559"></halaman>
+    <halaman indeks="560"></halaman>
+    <halaman indeks="561"></halaman>
+    <halaman indeks="562"></halaman>
+    <halaman indeks="563"></halaman>
+    <halaman indeks="564"></halaman>
+    <halaman indeks="565"></halaman>
+    <halaman indeks="566"></halaman>
+    <halaman indeks="567"></halaman>
+    <halaman indeks="568"></halaman>
+    <halaman indeks="569"></halaman>
+    <halaman indeks="570"></halaman>
+    <halaman indeks="571"></halaman>
+    <halaman indeks="572"></halaman>
+    <halaman indeks="573"></halaman>
+    <halaman indeks="574"></halaman>
+    <halaman indeks="575"></halaman>
+    <halaman indeks="576"></halaman>
+    <halaman indeks="577"></halaman>
+    <halaman indeks="578"></halaman>
+    <halaman indeks="579"></halaman>
+    <halaman indeks="580"></halaman>
+    <halaman indeks="581"></halaman>
+    <halaman indeks="582"></halaman>
+    <halaman indeks="583"></halaman>
+    <halaman indeks="584"></halaman>
+    <halaman indeks="585"></halaman>
+    <halaman indeks="586"></halaman>
+    <halaman indeks="587"></halaman>
+    <halaman indeks="588"></halaman>
+    <halaman indeks="589"></halaman>
+    <halaman indeks="590"></halaman>
+    <halaman indeks="591"></halaman>
+    <halaman indeks="592"></halaman>
+    <halaman indeks="593"></halaman>
+    <halaman indeks="594"></halaman>
+    <halaman indeks="595"></halaman>
+    <halaman indeks="596"></halaman>
+    <halaman indeks="597"></halaman>
+    <halaman indeks="598"></halaman>
+    <halaman indeks="599"></halaman>
+    <halaman indeks="600"></halaman>
+    <halaman indeks="601"></halaman>
+    <halaman indeks="602"></halaman>
+    <halaman indeks="603"></halaman>
+    <halaman indeks="604"></halaman>
+</quran>
