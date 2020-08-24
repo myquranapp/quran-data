@@ -11,7 +11,7 @@
     <!-- Halaman 1 /
          Mula surah al-fatihah /
          Mula juz 1 -->
-    <surah indeks="1" nama="سُورَةُ الفَاتِحَةِ" namamy="Al-Fātihah">
+    <surah indeks="1" namamy="Al-Fātihah" nama="سُورَةُ الفَاتِحَةِ">
         <nomayat>[Al-Fātihah, 1:1]</nomayat>
         <nomayat>[Al-Fātihah, 1:2]</nomayat>
         <nomayat>[Al-Fātihah, 1:3]</nomayat>
@@ -22,7 +22,7 @@
     </surah>
     <!-- Halaman 2 /
          Mula surah al-baqarah -->
-    <surah indeks="2" nama="سُورَةُ البَقَرَةِ">
+    <surah indeks="2" namamy="Al-Baqarah" nama="سُورَةُ البَقَرَةِ">
         <nomayat>[Al-Baqarah, 2:1]</nomayat>
         <nomayat>[Al-Baqarah, 2:2]</nomayat>
         <nomayat>[Al-Baqarah, 2:3]</nomayat>
@@ -361,7 +361,7 @@
     </surah>
     <!-- Halaman 50 /
          Mula surah ali imran -->
-    <surah indeks="3" nama="سُورَةُ آلِ عِمۡرَانَ">
+    <surah indeks="3" namamy="Āli ‘Imrān" nama="سُورَةُ آلِ عِمۡرَانَ">
         <nomayat>[Āli ‘Imrān, 3:1]</nomayat>
         <nomayat>[Āli ‘Imrān, 3:2]</nomayat>
         <nomayat>[Āli ‘Imrān, 3:3]</nomayat>
@@ -592,7 +592,7 @@
     </surah>
     <!-- Halaman 77 /
          Mula surah an-nisa -->
-    <surah indeks="4" nama="سُورَةُ النِّسَاءِ">
+    <surah indeks="4" namamy="An-Nisā’" nama="سُورَةُ النِّسَاءِ">
         <nomayat>[An-Nisā’, 4:1]</nomayat>
         <nomayat>[An-Nisā’, 4:2]</nomayat>
         <nomayat>[An-Nisā’, 4:3]</nomayat>
@@ -803,7 +803,7 @@
     </surah>
     <!-- Halaman 106 /
          Mula surah al-maidah -->
-    <surah indeks="5" nama="سُورَةُ المَائ‍ِدَةِ">
+    <surah indeks="5" namamy="Al-Mā’idah" nama="سُورَةُ المَائ‍ِدَةِ">
         <nomayat>[Al-Mā’idah, 5:1]</nomayat>
         <nomayat>[Al-Mā’idah, 5:2]</nomayat>
         <!-- Halaman 107 -->
@@ -949,7 +949,7 @@
     </surah>
     <!-- Halaman 128 /
          Mula surah al-anam -->
-    <surah indeks="6" nama="سُورَةُ الأَنعَامِ">
+    <surah indeks="6" namamy="Al-An‘ām" nama="سُورَةُ الأَنعَامِ">
         <nomayat>[Al-An‘ām, 6:1]</nomayat>
         <nomayat>[Al-An‘ām, 6:2]</nomayat>
         <nomayat>[Al-An‘ām, 6:3]</nomayat>
@@ -1141,7 +1141,7 @@
     </surah>
     <!-- Halaman 151 /
          Mula surah al-araf -->
-    <surah indeks="7" nama="سُورَةُ الأَعۡرَافِ">
+    <surah indeks="7" namamy="Al-A‘rāf" nama="سُورَةُ الأَعۡرَافِ">
         <nomayat>[Al-A‘rāf, 7:1]</nomayat>
         <nomayat>[Al-A‘rāf, 7:2]</nomayat>
         <nomayat>[Al-A‘rāf, 7:3]</nomayat>
@@ -1351,7 +1351,7 @@
     </surah>
     <!-- Halaman 177 /
          Mula surah al-anfal -->
-    <surah indeks="8" nama="سُورَةُ الأَنفَالِ">
+    <surah indeks="8" namamy="Al-Anfāl" nama="سُورَةُ الأَنفَالِ">
         <nomayat>[Al-Anfāl, 8:1]</nomayat>
         <nomayat>[Al-Anfāl, 8:2]</nomayat>
         <nomayat>[Al-Anfāl, 8:3]</nomayat>
@@ -1430,7 +1430,7 @@
     </surah>
     <!-- Halaman 187 /
          Mula surah al-taubah -->
-    <surah indeks="9" nama="سُورَةُ التَّوۡبَةِ">
+    <surah indeks="9" namamy="At-Taubah" nama="سُورَةُ التَّوۡبَةِ">
         <nomayat>[At-Taubah, 9:1]</nomayat>
         <nomayat>[At-Taubah, 9:2]</nomayat>
         <nomayat>[At-Taubah, 9:3]</nomayat>
@@ -1563,7 +1563,7 @@
     </surah>
     <!-- Halaman 208 /
          Mula surah yunus -->
-    <surah indeks="10" nama="سُورَةُ يُونُسَ">
+    <surah indeks="10" namamy="Yūnus" nama="سُورَةُ يُونُسَ">
         <nomayat>[Yūnus, 10:1]</nomayat>
         <nomayat>[Yūnus, 10:2]</nomayat>
         <nomayat>[Yūnus, 10:3]</nomayat>
@@ -1676,7 +1676,7 @@
     </surah>
     <!-- Halaman 221 /
          Mula surah hud -->
-    <surah indeks="11" nama="سُورَةُ هُودٍ">
+    <surah indeks="11" namamy="Hūd" nama="سُورَةُ هُودٍ">
         <nomayat>[Hūd, 11:1]</nomayat>
         <nomayat>[Hūd, 11:2]</nomayat>
         <nomayat>[Hūd, 11:3]</nomayat>
@@ -1803,7 +1803,7 @@
     </surah>
     <!-- Halaman 235 /
          Mula surah yusuf -->
-    <surah indeks="12" nama="سُورَةُ يُوسُفَ">
+    <surah indeks="12" namamy="Yūsuf" nama="سُورَةُ يُوسُفَ">
         <nomayat>[Yūsuf, 12:1]</nomayat>
         <nomayat>[Yūsuf, 12:2]</nomayat>
         <nomayat>[Yūsuf, 12:3]</nomayat>
@@ -1918,7 +1918,7 @@
     </surah>
     <!-- Halaman 249 /
          Mula surah al-ra'd -->
-    <surah indeks="13" nama="سُورَةُ الرَّعۡدِ">
+    <surah indeks="13" namamy="Ar-Ra‘d" nama="سُورَةُ الرَّعۡدِ">
         <nomayat>[Ar-Ra‘d, 13:1]</nomayat>
         <nomayat>[Ar-Ra‘d, 13:2]</nomayat>
         <nomayat>[Ar-Ra‘d, 13:3]</nomayat>
@@ -1965,7 +1965,7 @@
     </surah>
     <!-- Halaman 255 /
          Mula surah ibrahim -->
-    <surah indeks="14" nama="سُورَةُ إِبۡرَاهِيمَ">
+    <surah indeks="14" namamy="Ibrāhīm" nama="سُورَةُ إِبۡرَاهِيمَ">
         <nomayat>[Ibrāhīm, 14:1]</nomayat>
         <nomayat>[Ibrāhīm, 14:2]</nomayat>
         <nomayat>[Ibrāhīm, 14:3]</nomayat>
@@ -2021,7 +2021,7 @@
     </surah>
     <!-- Halaman 262 /
          Mula surah al-hijr -->
-    <surah indeks="15" nama="سُورَةُ الحِجۡرِ">
+    <surah indeks="15" namamy="Al-Ḥijr" nama="سُورَةُ الحِجۡرِ">
         <nomayat>[Al-Ḥijr, 15:1]</nomayat>
         <nomayat>[Al-Ḥijr, 15:2]</nomayat>
         <nomayat>[Al-Ḥijr, 15:3]</nomayat>
@@ -2124,7 +2124,7 @@
     </surah>
     <!-- Halaman 267 /
          Mula surah al-nahl -->
-    <surah indeks="16" nama="سُورَةُ النَّحۡلِ">
+    <surah indeks="16" namamy="An-Naḥl" nama="سُورَةُ النَّحۡلِ">
         <nomayat>[An-Naḥl, 16:1]</nomayat>
         <nomayat>[An-Naḥl, 16:2]</nomayat>
         <nomayat>[An-Naḥl, 16:3]</nomayat>
@@ -2256,7 +2256,7 @@
     </surah>
     <!-- Halaman 282 /
          Mula surah al-isra -->
-    <surah indeks="17" nama="سُورَةُ الإِسۡرَاءِ">
+    <surah indeks="17" namamy="Al-Isrā’" nama="سُورَةُ الإِسۡرَاءِ">
         <nomayat>[Al-Isrā’, 17:1]</nomayat>
         <nomayat>[Al-Isrā’, 17:2]</nomayat>
         <nomayat>[Al-Isrā’, 17:3]</nomayat>
@@ -2371,7 +2371,7 @@
     </surah>
     <!-- Halaman 293 /
          Mula surah al-kahfi -->
-    <surah indeks="18" nama="سُورَةُ الكَهۡفِ">
+    <surah indeks="18" namamy="Al-Kahfi" nama="سُورَةُ الكَهۡفِ">
         <nomayat>[Al-Kahfi, 18:1]</nomayat>
         <nomayat>[Al-Kahfi, 18:2]</nomayat>
         <nomayat>[Al-Kahfi, 18:3]</nomayat>
@@ -2485,7 +2485,7 @@
     </surah>
     <!-- Halaman 305 /
          Mula surah maryam -->
-    <surah indeks="19" nama="سُورَةُ مَرۡيَمَ">
+    <surah indeks="19" namamy="Maryam" nama="سُورَةُ مَرۡيَمَ">
         <nomayat>[Maryam, 19:1]</nomayat>
         <nomayat>[Maryam, 19:2]</nomayat>
         <nomayat>[Maryam, 19:3]</nomayat>
@@ -2587,7 +2587,7 @@
     </surah>
     <!-- Halaman 312 /
          Mula surah taha -->
-    <surah indeks="20" nama="سُورَةُ طه">
+    <surah indeks="20" namamy="Ṭā Hā" nama="سُورَةُ طه">
         <nomayat>[Ṭā Hā, 20:1]</nomayat>
         <nomayat>[Ṭā Hā, 20:2]</nomayat>
         <nomayat>[Ṭā Hā, 20:3]</nomayat>
@@ -2726,7 +2726,7 @@
     </surah>
     <!-- Halaman 322 /
          Mula surah al-anbiya -->
-    <surah indeks="21" nama="سُورَةُ الأَنبيَاءِ">
+    <surah indeks="21" namamy="Al-Anbiyā’" nama="سُورَةُ الأَنبيَاءِ">
         <nomayat>[Al-Anbiyā’, 21:1]</nomayat>
         <nomayat>[Al-Anbiyā’, 21:2]</nomayat>
         <nomayat>[Al-Anbiyā’, 21:3]</nomayat>
@@ -2842,7 +2842,7 @@
     </surah>
     <!-- Halaman 332 /
          Mula surah al-hajj -->
-    <surah indeks="22" nama="سُورَةُ الحَجِّ">
+    <surah indeks="22" namamy="Al-Ḥajj" nama="سُورَةُ الحَجِّ">
         <nomayat>[Al-Ḥajj, 22:1]</nomayat>
         <nomayat>[Al-Ḥajj, 22:2]</nomayat>
         <nomayat>[Al-Ḥajj, 22:3]</nomayat>
@@ -2924,7 +2924,7 @@
     </surah>
     <!-- Halaman 342 /
          Mula surah al-mukminun -->
-    <surah indeks="23" nama="سُورَةُ المُؤۡمِنُونَ">
+    <surah indeks="23" namamy="Al-Mu’minūn" nama="سُورَةُ المُؤۡمِنُونَ">
         <nomayat>[Al-Mu’minūn, 23:1]</nomayat>
         <nomayat>[Al-Mu’minūn, 23:2]</nomayat>
         <nomayat>[Al-Mu’minūn, 23:3]</nomayat>
@@ -3046,7 +3046,7 @@
     </surah>
     <!-- Halaman 350 /
          Mula surah al-nur -->
-    <surah indeks="24" nama="سُورَةُ النُّورِ">
+    <surah indeks="24" namamy="An-Nūr" nama="سُورَةُ النُّورِ">
         <nomayat>[An-Nūr, 24:1]</nomayat>
         <nomayat>[An-Nūr, 24:2]</nomayat>
         <nomayat>[An-Nūr, 24:3]</nomayat>
@@ -3114,7 +3114,7 @@
     </surah>
     <!-- Halaman 359 /
          Mula surah al-furqan -->
-    <surah indeks="25" nama="سُورَةُ الفُرۡقَانِ">
+    <surah indeks="25" namamy="Al-Furqān" nama="سُورَةُ الفُرۡقَانِ">
         <nomayat>[Al-Furqān, 25:1]</nomayat>
         <nomayat>[Al-Furqān, 25:2]</nomayat>
         <nomayat>[Al-Furqān, 25:3]</nomayat>
@@ -3195,7 +3195,7 @@
     </surah>
     <!-- Halaman 367 /
          Mula surah al-shuara -->
-    <surah indeks="26" nama="سُورَةُ الشُّعَرَاءِ">
+    <surah indeks="26" namamy="Ash-Shu‘arā’" nama="سُورَةُ الشُّعَرَاءِ">
         <nomayat>[Ash-Shu‘arā’, 26:1]</nomayat>
         <nomayat>[Ash-Shu‘arā’, 26:2]</nomayat>
         <nomayat>[Ash-Shu‘arā’, 26:3]</nomayat>
@@ -3426,7 +3426,7 @@
     </surah>
     <!-- Halaman 377 /
          Mula surah al-naml -->
-    <surah indeks="27" nama="سُورَةُ النَّمۡلِ">
+    <surah indeks="27" namamy="An-Naml" nama="سُورَةُ النَّمۡلِ">
         <nomayat>[An-Naml, 27:1]</nomayat>
         <nomayat>[An-Naml, 27:2]</nomayat>
         <nomayat>[An-Naml, 27:3]</nomayat>
@@ -3523,7 +3523,7 @@
     </surah>
     <!-- Halaman 385 /
          Mula surah al-qasas -->
-    <surah indeks="28" nama="سُورَةُ القَصَصِ">
+    <surah indeks="28" namamy="Al-Qasas" nama="سُورَةُ القَصَصِ">
         <nomayat>[Al-Qasas, 28:1]</nomayat>
         <nomayat>[Al-Qasas, 28:2]</nomayat>
         <nomayat>[Al-Qasas, 28:3]</nomayat>
@@ -3615,7 +3615,7 @@
     </surah>
     <!-- Halaman 396 /
          Mula surah al-ankabut -->
-    <surah indeks="29" nama="سُورَةُ العَنكَبُوتِ">
+    <surah indeks="29" namamy="Al-‘Ankabūt" nama="سُورَةُ العَنكَبُوتِ">
         <nomayat>[Al-‘Ankabūt, 29:1]</nomayat>
         <nomayat>[Al-‘Ankabūt, 29:2]</nomayat>
         <nomayat>[Al-‘Ankabūt, 29:3]</nomayat>
@@ -3688,7 +3688,7 @@
     </surah>
     <!-- Halaman 404 /
          Mula surah al-rum -->
-    <surah indeks="30" nama="سُورَةُ الرُّومِ">
+    <surah indeks="30" namamy="Ar-Rūm" nama="سُورَةُ الرُّومِ">
         <nomayat>[Ar-Rūm, 30:1]</nomayat>
         <nomayat>[Ar-Rūm, 30:2]</nomayat>
         <nomayat>[Ar-Rūm, 30:3]</nomayat>
@@ -3752,7 +3752,7 @@
     </surah>
     <!-- Halaman 411 /
          Mula surah luqman -->
-    <surah indeks="31" nama="سُورَةُ لُقۡمَانَ">
+    <surah indeks="31" namamy="Luqmān" nama="سُورَةُ لُقۡمَانَ">
         <nomayat>[Luqmān, 31:1]</nomayat>
         <nomayat>[Luqmān, 31:2]</nomayat>
         <nomayat>[Luqmān, 31:3]</nomayat>
@@ -3790,7 +3790,7 @@
     </surah>
     <!-- Halaman 415 /
          Mula surah al-sajdah -->
-    <surah indeks="32" nama="سُورَةُ السَّجۡدَةِ">
+    <surah indeks="32" namamy="As-Sajdah" nama="سُورَةُ السَّجۡدَةِ">
         <nomayat>[As-Sajdah, 32:1]</nomayat>
         <nomayat>[As-Sajdah, 32:2]</nomayat>
         <nomayat>[As-Sajdah, 32:3]</nomayat>
@@ -3824,7 +3824,7 @@
     </surah>
     <!-- Halaman 418 /
          Mula surah al-ahzab -->
-    <surah indeks="33" nama="سُورَةُ الأَحۡزَابِ">
+    <surah indeks="33" namamy="Al-Aḥzāb" nama="سُورَةُ الأَحۡزَابِ">
         <nomayat>[Al-Aḥzāb, 33:1]</nomayat>
         <nomayat>[Al-Aḥzāb, 33:2]</nomayat>
         <nomayat>[Al-Aḥzāb, 33:3]</nomayat>
@@ -3901,7 +3901,7 @@
     </surah>
     <!-- Halaman 428 /
          Mula surah saba -->
-    <surah indeks="34" nama="سُورَةُ سَبَإٍ">
+    <surah indeks="34" namamy="Sabā’" nama="سُورَةُ سَبَإٍ">
         <nomayat>[Sabā’, 34:1]</nomayat>
         <nomayat>[Sabā’, 34:3]</nomayat>
         <nomayat>[Sabā’, 34:3]</nomayat>
@@ -3959,7 +3959,7 @@
     </surah>
     <!-- Halaman 434 /
          Mula surah fatir -->
-    <surah indeks="35" nama="سُورَةُ فَاطِرٍ">
+    <surah indeks="35" namamy="Fāṭir" nama="سُورَةُ فَاطِرٍ">
         <nomayat>[Fāṭir, 35:1]</nomayat>
         <nomayat>[Fāṭir, 35:2]</nomayat>
         <nomayat>[Fāṭir, 35:3]</nomayat>
@@ -4008,7 +4008,7 @@
     </surah>
     <!-- Halaman 440 /
          Mula surah yasin -->
-    <surah indeks="36" nama="سُورَةُ يسٓ">
+    <surah indeks="36" namamy="Yāsīn" nama="سُورَةُ يسٓ">
         <nomayat>[Yāsīn, 36:1]</nomayat>
         <nomayat>[Yāsīn, 36:2]</nomayat>
         <nomayat>[Yāsīn, 36:3]</nomayat>
@@ -4095,7 +4095,7 @@
     </surah>
     <!-- Halaman 446 /
          Mula surah al-saffat -->
-    <surah indeks="37" nama="سُورَةُ الصَّافَّاتِ">
+    <surah indeks="37" namamy="Aṣ-Ṣāffāt" nama="سُورَةُ الصَّافَّاتِ">
         <nomayat>[Aṣ-Ṣāffāt, 37:1]</nomayat>
         <nomayat>[Aṣ-Ṣāffāt, 37:2]</nomayat>
         <nomayat>[Aṣ-Ṣāffāt, 37:3]</nomayat>
@@ -4281,7 +4281,7 @@
     </surah>
     <!-- Halaman 453 /
          Mula surah sad -->
-    <surah indeks="38" nama="سُورَةُ صٓ">
+    <surah indeks="38" namamy="Ṣād" nama="سُورَةُ صٓ">
         <nomayat>[Ṣād, 38:1]</nomayat>
         <nomayat>[Ṣād, 38:2]</nomayat>
         <nomayat>[Ṣād, 38:3]</nomayat>
@@ -4373,7 +4373,7 @@
     </surah>
     <!-- Halaman 458 /
          Mula surah al-zumar -->
-    <surah indeks="39" nama="سُورَةُ الزُّمَرِ">
+    <surah indeks="39" namamy="Az-Zumar" nama="سُورَةُ الزُّمَرِ">
         <nomayat>[Az-Zumar, 39:1]</nomayat>
         <nomayat>[Az-Zumar, 39:2]</nomayat>
         <nomayat>[Az-Zumar, 39:3]</nomayat>
@@ -4452,7 +4452,7 @@
     </surah>
     <!-- Halaman 467 /
          Mula surah ghafir -->
-    <surah indeks="40" nama="سُورَةُ غَافِرٍ">
+    <surah indeks="40" namamy="Ghāfir" nama="سُورَةُ غَافِرٍ">
         <nomayat>[Ghāfir, 40:1]</nomayat>
         <nomayat>[Ghāfir, 40:2]</nomayat>
         <nomayat>[Ghāfir, 40:3]</nomayat>
@@ -4541,7 +4541,7 @@
     </surah>
     <!-- Halaman 477 /
          Mula surah fussilat -->
-    <surah indeks="41" nama="سُورَةُ فُصِّلَتۡ">
+    <surah indeks="41" namamy="Fuṣṣilat" nama="سُورَةُ فُصِّلَتۡ">
         <nomayat>[Fuṣṣilat, 41:1]</nomayat>
         <nomayat>[Fuṣṣilat, 41:2]</nomayat>
         <nomayat>[Fuṣṣilat, 41:3]</nomayat>
@@ -4599,7 +4599,7 @@
     </surah>
     <!-- Halaman 483 /
          Mula surah al-shura -->
-    <surah indeks="42" nama="سُورَةُ الشُّورَىٰ">
+    <surah indeks="42" namamy="Ash-Shūrā" nama="سُورَةُ الشُّورَىٰ">
         <nomayat>[Ash-Shūrā, 42:1]</nomayat>
         <nomayat>[Ash-Shūrā, 42:2]</nomayat>
         <nomayat>[Ash-Shūrā, 42:3]</nomayat>
@@ -4656,7 +4656,7 @@
     </surah>
     <!-- Halaman 489 /
          Mula surah al-zukhruf -->
-    <surah indeks="43" nama="سُورَةُ الزُّخۡرُفِ">
+    <surah indeks="43" namamy="Az-Zukhruf" nama="سُورَةُ الزُّخۡرُفِ">
         <nomayat>[Az-Zukhruf, 43:1]</nomayat>
         <nomayat>[Az-Zukhruf, 43:2]</nomayat>
         <nomayat>[Az-Zukhruf, 43:3]</nomayat>
@@ -4749,7 +4749,7 @@
     </surah>
     <!-- Halaman 496 /
          Mula surah al-dukhan -->
-    <surah indeks="44" nama="سُورَةُ الدُّخَانِ">
+    <surah indeks="44" namamy="Ad-Dukhān" nama="سُورَةُ الدُّخَانِ">
         <nomayat>[Ad-Dukhān, 44:1]</nomayat>
         <nomayat>[Ad-Dukhān, 44:2]</nomayat>
         <nomayat>[Ad-Dukhān, 44:3]</nomayat>
@@ -4812,7 +4812,7 @@
     </surah>
     <!-- Halaman 499 /
          Mula surah al-jathiyah -->
-    <surah indeks="45" nama="سُورَةُ الجَاثِيةِ">
+    <surah indeks="45" namamy="Al-Jāthiyah" nama="سُورَةُ الجَاثِيةِ">
         <nomayat>[Al-Jāthiyah, 45:1]</nomayat>
         <nomayat>[Al-Jāthiyah, 45:2]</nomayat>
         <nomayat>[Al-Jāthiyah, 45:3]</nomayat>
@@ -4853,7 +4853,7 @@
     </surah>
     <!-- Halaman 502 /
          Mula surah al-ahqaf -->
-    <surah indeks="46" nama="سُورَةُ الأَحۡقَافِ">
+    <surah indeks="46" namamy="Al-Aḥqāf" nama="سُورَةُ الأَحۡقَافِ">
         <nomayat>[Al-Aḥqāf, 46:1]</nomayat>
         <nomayat>[Al-Aḥqāf, 46:2]</nomayat>
         <nomayat>[Al-Aḥqāf, 46:3]</nomayat>
@@ -4892,7 +4892,7 @@
     </surah>
     <!-- Halaman 507 /
          Mula surah muhammad -->
-    <surah indeks="47" nama="سُورَةُ مُحَمَّدٍ">
+    <surah indeks="47" namamy="Muḥammad" nama="سُورَةُ مُحَمَّدٍ">
         <nomayat>[Muḥammad, 47:1]</nomayat>
         <nomayat>[Muḥammad, 47:2]</nomayat>
         <nomayat>[Muḥammad, 47:3]</nomayat>
@@ -4934,7 +4934,7 @@
     </surah>
     <!-- Halaman 511 /
          Mula surah al-fath -->
-    <surah indeks="48" nama="سُورَةُ الفَتۡحِ">
+    <surah indeks="48" namamy="Al-Fatḥ" nama="سُورَةُ الفَتۡحِ">
         <nomayat>[Al-Fatḥ, 48:1]</nomayat>
         <nomayat>[Al-Fatḥ, 48:2]</nomayat>
         <nomayat>[Al-Fatḥ, 48:3]</nomayat>
@@ -4967,7 +4967,7 @@
     </surah>
     <!-- Halaman 515 /
          Mula surah al-hujurat -->
-    <surah indeks="49" nama="سُورَةُ الحُجُرَاتِ">
+    <surah indeks="49" namamy="Al-Ḥujurāt" nama="سُورَةُ الحُجُرَاتِ">
         <nomayat>[Al-Ḥujurāt, 49:1]</nomayat>
         <nomayat>[Al-Ḥujurāt, 49:2]</nomayat>
         <nomayat>[Al-Ḥujurāt, 49:3]</nomayat>
@@ -4989,7 +4989,7 @@
     </surah>
     <!-- Halaman 518 /
          Mula surah qaf -->
-    <surah indeks="50" nama="سُورَةُ قٓ">
+    <surah indeks="50" namamy="Qāf" nama="سُورَةُ قٓ">
         <nomayat>[Qāf, 50:1]</nomayat>
         <nomayat>[Qāf, 50:2]</nomayat>
         <nomayat>[Qāf, 50:3]</nomayat>
@@ -5038,7 +5038,7 @@
     </surah>
     <!-- Halaman 520 /
          Mula surah al-dhariat -->
-    <surah indeks="51" nama="سُورَةُ الذَّارِيَاتِ">
+    <surah indeks="51" namamy="Adh-Dhāriyāt" nama="سُورَةُ الذَّارِيَاتِ">
         <nomayat>[Adh-Dhāriyāt, 51:1]</nomayat>
         <nomayat>[Adh-Dhāriyāt, 51:2]</nomayat>
         <nomayat>[Adh-Dhāriyāt, 51:3]</nomayat>
@@ -5102,7 +5102,7 @@
     </surah>
     <!-- Halaman 523 /
          Mula surah al-tur -->
-    <surah indeks="52" nama="سُورَةُ الطُّورِ">
+    <surah indeks="52" namamy="Aṭ-Ṭūr" nama="سُورَةُ الطُّورِ">
         <nomayat>[Aṭ-Ṭūr, 52:1]</nomayat>
         <nomayat>[Aṭ-Ṭūr, 52:2]</nomayat>
         <nomayat>[Aṭ-Ṭūr, 52:3]</nomayat>
@@ -5155,7 +5155,7 @@
     </surah>
     <!-- Halaman 526 /
          Mula surah al-najm -->
-    <surah indeks="53" nama="سُورَةُ النَّجۡمِ">
+    <surah indeks="53" namamy="An-Najm" nama="سُورَةُ النَّجۡمِ">
         <nomayat>[An-Najm, 53:1]</nomayat>
         <nomayat>[An-Najm, 53:2]</nomayat>
         <nomayat>[An-Najm, 53:3]</nomayat>
@@ -5221,7 +5221,7 @@
     </surah>
     <!-- Halaman 528 /
          Mula surah al-qamar -->
-    <surah indeks="54" nama="سُورَةُ القَمَرِ">
+    <surah indeks="54" namamy="Al-Qamar" nama="سُورَةُ القَمَرِ">
         <nomayat>[Al-Qamar, 54:1]</nomayat>
         <nomayat>[Al-Qamar, 54:2]</nomayat>
         <nomayat>[Al-Qamar, 54:3]</nomayat>
@@ -5278,7 +5278,7 @@
         <nomayat>[Al-Qamar, 54:54]</nomayat>
         <nomayat>[Al-Qamar, 54:55]</nomayat>
     </surah>
-    <surah indeks="55" nama="سُورَةُ الرَّحۡمَٰن">
+    <surah indeks="55" namamy="Ar-Rahmān" nama="سُورَةُ الرَّحۡمَٰن">
         <nomayat>[Ar-Rahmān, 55:1]</nomayat>
         <nomayat>[Ar-Rahmān, 55:2]</nomayat>
         <nomayat>[Ar-Rahmān, 55:3]</nomayat>
@@ -5360,7 +5360,7 @@
     </surah>
     <!-- Halaman 534 /
          Mula surah al-waqiah -->
-    <surah indeks="56" nama="سُورَةُ الوَاقِعَةِ">
+    <surah indeks="56" namamy="Al-Wāqi‘ah" nama="سُورَةُ الوَاقِعَةِ">
         <nomayat>[Al-Wāqi‘ah, 56:1]</nomayat>
         <nomayat>[Al-Wāqi‘ah, 56:2]</nomayat>
         <nomayat>[Al-Wāqi‘ah, 56:3]</nomayat>
@@ -5460,7 +5460,7 @@
     </surah>
     <!-- Halaman 537 /
          Mula surah al-hadid -->
-    <surah indeks="57" nama="سُورَةُ الحَدِيدِ">
+    <surah indeks="57" namamy="Al-Ḥadīd" nama="سُورَةُ الحَدِيدِ">
         <nomayat>[Al-Ḥadīd, 57:1]</nomayat>
         <nomayat>[Al-Ḥadīd, 57:2]</nomayat>
         <nomayat>[Al-Ḥadīd, 57:3]</nomayat>
@@ -5493,7 +5493,7 @@
     </surah>
     <!-- Halaman 542
          Mula surah al-mujadilah -->
-    <surah indeks="58" nama="سُورَةُ المُجَادلَةِ">
+    <surah indeks="58" namamy="Al-Mujādilah" nama="سُورَةُ المُجَادلَةِ">
         <nomayat>[Al-Mujādilah, 58:1]</nomayat>
         <nomayat>[Al-Mujādilah, 58:2]</nomayat>
         <nomayat>[Al-Mujādilah, 58:3]</nomayat>
@@ -5519,7 +5519,7 @@
     </surah>
     <!-- Halaman 545
          Mula surah al-hashr -->
-    <surah indeks="59" nama="سُورَةُ الحَشۡرِ">
+    <surah indeks="59" namamy="Al-Ḥashr" nama="سُورَةُ الحَشۡرِ">
         <nomayat>[Al-Ḥashr, 59:1]</nomayat>
         <nomayat>[Al-Ḥashr, 59:2]</nomayat>
         <nomayat>[Al-Ḥashr, 59:3]</nomayat>
@@ -5547,7 +5547,7 @@
     </surah>
     <!-- Halaman 549
          Mula surah al-mumtahanah -->
-    <surah indeks="60" nama="سُورَةُ المُمۡتَحنَةِ">
+    <surah indeks="60" namamy="Al-Mumtaḥanah" nama="سُورَةُ المُمۡتَحنَةِ">
         <nomayat>[Al-Mumtaḥanah, 60:1]</nomayat>
         <nomayat>[Al-Mumtaḥanah, 60:2]</nomayat>
         <nomayat>[Al-Mumtaḥanah, 60:3]</nomayat>
@@ -5564,7 +5564,7 @@
     </surah>
     <!-- Halaman 551
          Mula surah al-saff -->
-    <surah indeks="61" nama="سُورَةُ الصَّفِّ">
+    <surah indeks="61" namamy="Aṣ-Ṣaff" nama="سُورَةُ الصَّفِّ">
         <nomayat>[Aṣ-Ṣaff, 61:1]</nomayat>
         <nomayat>[Aṣ-Ṣaff, 61:2]</nomayat>
         <nomayat>[Aṣ-Ṣaff, 61:3]</nomayat>
@@ -5582,7 +5582,7 @@
     </surah>
     <!-- Halaman 553
          Mula surah al-jumu'ah -->
-    <surah indeks="62" nama="سُورَةُ الجُمُعَةِ">
+    <surah indeks="62" namamy="Al-Jumu‘ah" nama="سُورَةُ الجُمُعَةِ">
         <nomayat>[Al-Jumu‘ah, 62:1]</nomayat>
         <nomayat>[Al-Jumu‘ah, 62:2]</nomayat>
         <nomayat>[Al-Jumu‘ah, 62:3]</nomayat>
@@ -5597,7 +5597,7 @@
     </surah>
     <!-- Halaman 554
          Mula surah al-munafiqun -->
-    <surah indeks="63" nama="سُورَةُ المُنَافِقُونَ">
+    <surah indeks="63" namamy="Al-Munāfiqūn" nama="سُورَةُ المُنَافِقُونَ">
         <nomayat>[Al-Munāfiqūn, 63:1]</nomayat>
         <nomayat>[Al-Munāfiqūn, 63:2]</nomayat>
         <nomayat>[Al-Munāfiqūn, 63:3]</nomayat>
@@ -5612,7 +5612,7 @@
     </surah>
     <!-- Halaman 556
          Mula surah al-taghabun -->
-    <surah indeks="64" nama="سُورَةُ التَّغَابُنِ">
+    <surah indeks="64" namamy="At-Taghābun" nama="سُورَةُ التَّغَابُنِ">
         <nomayat>[At-Taghābun, 64:1]</nomayat>
         <nomayat>[At-Taghābun, 64:2]</nomayat>
         <nomayat>[At-Taghābun, 64:3]</nomayat>
@@ -5634,7 +5634,7 @@
     </surah>
     <!-- Halaman 558
          Mula surah at-talaq -->
-    <surah indeks="65" nama="سُورَةُ الطَّلَاقِ">
+    <surah indeks="65" namamy="Aṭ-Ṭalāq" nama="سُورَةُ الطَّلَاقِ">
         <nomayat>[Aṭ-Ṭalāq, 65:1]</nomayat>
         <nomayat>[Aṭ-Ṭalāq, 65:2]</nomayat>
         <nomayat>[Aṭ-Ṭalāq, 65:3]</nomayat>
@@ -5650,7 +5650,7 @@
     </surah>
     <!-- Halaman 560
          Mula surah al-tahrim -->
-    <surah indeks="66" nama="سُورَةُ التَّحۡرِيمِ">
+    <surah indeks="66" namamy="At-Taḥrīm" nama="سُورَةُ التَّحۡرِيمِ">
         <nomayat>[At-Taḥrīm, 66:1]</nomayat>
         <nomayat>[At-Taḥrīm, 66:2]</nomayat>
         <nomayat>[At-Taḥrīm, 66:3]</nomayat>
@@ -5666,7 +5666,7 @@
     </surah>
     <!-- Halaman 562
          Mula surah al-mulk -->
-    <surah indeks="67" nama="سُورَةُ المُلۡكِ">
+    <surah indeks="67" namamy="Al-Mulk" nama="سُورَةُ المُلۡكِ">
         <nomayat>[Al-Mulk, 67:1]</nomayat>
         <nomayat>[Al-Mulk, 67:2]</nomayat>
         <nomayat>[Al-Mulk, 67:3]</nomayat>
@@ -5700,7 +5700,7 @@
     </surah>
     <!-- Halaman 564
          Mula surah al-qalam -->
-    <surah indeks="68" nama="سُورَةُ القَلَمِ">
+    <surah indeks="68" namamy="Al-Qalam" nama="سُورَةُ القَلَمِ">
         <nomayat>[Al-Qalam, 68:1]</nomayat>
         <nomayat>[Al-Qalam, 68:2]</nomayat>
         <nomayat>[Al-Qalam, 68:3]</nomayat>
@@ -5756,7 +5756,7 @@
     </surah>
     <!-- Halaman 566
          Mula surah al-haqqah -->
-    <surah indeks="69" nama="سُورَةُ الحَاقَّةِ">
+    <surah indeks="69" namamy="Al-Ḥāqqah" nama="سُورَةُ الحَاقَّةِ">
         <nomayat>[Al-Ḥāqqah, 69:1]</nomayat>
         <nomayat>[Al-Ḥāqqah, 69:2]</nomayat>
         <nomayat>[Al-Ḥāqqah, 69:3]</nomayat>
@@ -5812,7 +5812,7 @@
     </surah>
     <!-- Halaman 568
          Mula surah al-ma'arij -->
-    <surah indeks="70" nama="سُورَةُ المَعَارِجِ">
+    <surah indeks="70" namamy="Al-Ma‘ārij" nama="سُورَةُ المَعَارِجِ">
         <nomayat>[Al-Ma‘ārij, 70:1]</nomayat>
         <nomayat>[Al-Ma‘ārij, 70:2]</nomayat>
         <nomayat>[Al-Ma‘ārij, 70:3]</nomayat>
@@ -5860,7 +5860,7 @@
     </surah>
     <!-- Halaman 570
          Mula surah nuh -->
-    <surah indeks="71" nama="سُورَةُ نُوحٍ">
+    <surah indeks="71" namamy="Nūḥ" nama="سُورَةُ نُوحٍ">
         <nomayat>[Nūḥ, 71:1]</nomayat>
         <nomayat>[Nūḥ, 71:2]</nomayat>
         <nomayat>[Nūḥ, 71:3]</nomayat>
@@ -5892,7 +5892,7 @@
     </surah>
     <!-- Halaman 572
          Mula surah al-jin -->
-    <surah indeks="72" nama="سُورَةُ الجِنِّ">
+    <surah indeks="72" namamy="Al-Jinn" nama="سُورَةُ الجِنِّ">
         <nomayat>[Al-Jinn, 72:1]</nomayat>
         <nomayat>[Al-Jinn, 72:2]</nomayat>
         <nomayat>[Al-Jinn, 72:3]</nomayat>
@@ -5924,7 +5924,7 @@
     </surah>
     <!-- Halaman 574
          Mula surah al-muzzammil -->
-    <surah indeks="73" nama="سُورَةُ المُزَّمِّلِ">
+    <surah indeks="73" namamy="Al-Muzzammil" nama="سُورَةُ المُزَّمِّلِ">
         <nomayat>[Al-Muzzammil, 73:1]</nomayat>
         <nomayat>[Al-Muzzammil, 73:2]</nomayat>
         <nomayat>[Al-Muzzammil, 73:3]</nomayat>
@@ -5948,7 +5948,7 @@
     </surah>
     <!-- Halaman 575
          Mula surah al-muddaththir -->
-    <surah indeks="74" nama="سُورَةُ المُدَّثِّرِ">
+    <surah indeks="74" namamy="Al-Muddaththir" nama="سُورَةُ المُدَّثِّرِ">
         <nomayat>[Al-Muddaththir, 74:1]</nomayat>
         <nomayat>[Al-Muddaththir, 74:2]</nomayat>
         <nomayat>[Al-Muddaththir, 74:3]</nomayat>
@@ -6008,7 +6008,7 @@
     </surah>
     <!-- Halaman 577
          Mula surah al-qiyamah -->
-    <surah indeks="75" nama="سُورَةُ القِيَامَةِ">
+    <surah indeks="75" namamy="Al-Qiyāmah" nama="سُورَةُ القِيَامَةِ">
         <nomayat>[Al-Qiyāmah, 75:1]</nomayat>
         <nomayat>[Al-Qiyāmah, 75:2]</nomayat>
         <nomayat>[Al-Qiyāmah, 75:3]</nomayat>
@@ -6052,7 +6052,7 @@
     </surah>
     <!-- Halaman 578
          Mula surah al-insan -->
-    <surah indeks="76" nama="سُورَةُ الإِنسَانِ">
+    <surah indeks="76" namamy="Al-Insān" nama="سُورَةُ الإِنسَانِ">
         <nomayat>[Al-Insān, 76:1]</nomayat>
         <nomayat>[Al-Insān, 76:2]</nomayat>
         <nomayat>[Al-Insān, 76:3]</nomayat>
@@ -6087,7 +6087,7 @@
     </surah>
     <!-- Halaman 580
          Mula surah al-mursalah -->
-    <surah indeks="77" nama="سُورَةُ المُرۡسَلَاتِ">
+    <surah indeks="77" namamy="Al-Mursalāt" nama="سُورَةُ المُرۡسَلَاتِ">
         <nomayat>[Al-Mursalāt, 77:1]</nomayat>
         <nomayat>[Al-Mursalāt, 77:2]</nomayat>
         <nomayat>[Al-Mursalāt, 77:3]</nomayat>
@@ -6141,7 +6141,7 @@
     </surah>
     <!-- Halaman 582
          Mula surah al-naba' -->
-    <surah indeks="78" nama="سُورَةُ النَّبَإِ">
+    <surah indeks="78" namamy="An-Nabā’" nama="سُورَةُ النَّبَإِ">
         <nomayat>[An-Nabā’, 78:1]</nomayat>
         <nomayat>[An-Nabā’, 78:2]</nomayat>
         <nomayat>[An-Nabā’, 78:3]</nomayat>
@@ -6185,7 +6185,7 @@
     </surah>
     <!-- Halaman 583
          Mula surah al-nazi'at -->
-    <surah indeks="79" nama="سُورَةُ النَّازِعَاتِ">
+    <surah indeks="79" namamy="An-Nāzi‘āt" nama="سُورَةُ النَّازِعَاتِ">
         <nomayat>[An-Nāzi‘āt, 79:1]</nomayat>
         <nomayat>[An-Nāzi‘āt, 79:2]</nomayat>
         <nomayat>[An-Nāzi‘āt, 79:3]</nomayat>
@@ -6235,7 +6235,7 @@
     </surah>
     <!-- Halaman 585
          Mula surah abasa -->
-    <surah indeks="80" nama="سُورَةُ عَبَسَ">
+    <surah indeks="80" namamy="‘Abasa" nama="سُورَةُ عَبَسَ">
         <nomayat>[‘Abasa, 80:1]</nomayat>
         <nomayat>[‘Abasa, 80:2]</nomayat>
         <nomayat>[‘Abasa, 80:3]</nomayat>
@@ -6281,7 +6281,7 @@
     </surah>
     <!-- Halaman 586
          Mula surah al-takwir -->
-    <surah indeks="81" nama="سُورَةُ التَّكۡوِيرِ">
+    <surah indeks="81" namamy="At-Takwīr" nama="سُورَةُ التَّكۡوِيرِ">
         <nomayat>[At-Takwīr, 81:1]</nomayat>
         <nomayat>[At-Takwīr, 81:2]</nomayat>
         <nomayat>[At-Takwīr, 81:3]</nomayat>
@@ -6314,7 +6314,7 @@
     </surah>
     <!-- Halaman 587
          Mula surah al-infitar -->
-    <surah indeks="82" nama="سُورَةُ الانفِطَارِ">
+    <surah indeks="82" namamy="Al-Infiṭār" nama="سُورَةُ الانفِطَارِ">
         <nomayat>[Al-Infiṭār, 82:1]</nomayat>
         <nomayat>[Al-Infiṭār, 82:2]</nomayat>
         <nomayat>[Al-Infiṭār, 82:3]</nomayat>
@@ -6336,7 +6336,7 @@
         <nomayat>[Al-Infiṭār, 82:19]</nomayat>
     </surah>
     <!-- Mula surah al-mutaffifin -->
-    <surah indeks="83" nama="سُورَةُ المُطَفِّفِينَ">
+    <surah indeks="83" namamy="Al-Muṭaffifīn" nama="سُورَةُ المُطَفِّفِينَ">
         <nomayat>[Al-Muṭaffifīn, 83:1]</nomayat>
         <nomayat>[Al-Muṭaffifīn, 83:2]</nomayat>
         <nomayat>[Al-Muṭaffifīn, 83:3]</nomayat>
@@ -6375,7 +6375,7 @@
         <nomayat>[Al-Muṭaffifīn, 83:36]</nomayat>
     </surah>
     <!-- Mula surah al-inshiqaq -->
-    <surah indeks="84" nama="سُورَةُ الانشِقَاقِ">
+    <surah indeks="84" namamy="Al-Inshiqāq" nama="سُورَةُ الانشِقَاقِ">
         <nomayat>[Al-Inshiqāq, 84:1]</nomayat>
         <nomayat>[Al-Inshiqāq, 84:2]</nomayat>
         <nomayat>[Al-Inshiqāq, 84:3]</nomayat>
@@ -6404,7 +6404,7 @@
         <nomayat>[Al-Inshiqāq, 84:25]</nomayat>
     </surah>
     <!-- Mula surah al-buruj -->
-    <surah indeks="85" nama="سُورَةُ البُرُوجِ">
+    <surah indeks="85" namamy="Al-Burūj" nama="سُورَةُ البُرُوجِ">
         <nomayat>[Al-Burūj, 85:1]</nomayat>
         <nomayat>[Al-Burūj, 85:2]</nomayat>
         <nomayat>[Al-Burūj, 85:3]</nomayat>
@@ -6430,7 +6430,7 @@
     </surah>
     <!-- Mula surah al-tariq
          Halaman 591 -->
-    <surah indeks="86" nama="سُورَةُ الطَّارِقِ">
+    <surah indeks="86" namamy="Aṭ-Ṭāriq" nama="سُورَةُ الطَّارِقِ">
         <nomayat>[Aṭ-Ṭāriq, 86:1]</nomayat>
         <nomayat>[Aṭ-Ṭāriq, 86:2]</nomayat>
         <nomayat>[Aṭ-Ṭāriq, 86:3]</nomayat>
@@ -6450,7 +6450,7 @@
         <nomayat>[Aṭ-Ṭāriq, 86:17]</nomayat>
     </surah>
     <!-- Mula surah al-a'la -->
-    <surah indeks="87" nama="سُورَةُ الأَعۡلَىٰ">
+    <surah indeks="87" namamy="Al-A‘lā" nama="سُورَةُ الأَعۡلَىٰ">
         <nomayat>[Al-A‘lā, 87:1]</nomayat>
         <nomayat>[Al-A‘lā, 87:2]</nomayat>
         <nomayat>[Al-A‘lā, 87:3]</nomayat>
@@ -6473,7 +6473,7 @@
         <nomayat>[Al-A‘lā, 87:19]</nomayat>
     </surah>
     <!-- Mula surah al-ghashiah -->
-    <surah indeks="88" nama="سُورَةُ الغَاشِيَةِ">
+    <surah indeks="88" namamy="Al-Ghāshiyah" nama="سُورَةُ الغَاشِيَةِ">
         <nomayat>[Al-Ghāshiyah, 88:1]</nomayat>
         <nomayat>[Al-Ghāshiyah, 88:2]</nomayat>
         <nomayat>[Al-Ghāshiyah, 88:3]</nomayat>
@@ -6503,7 +6503,7 @@
         <nomayat>[Al-Ghāshiyah, 88:26]</nomayat>
     </surah>
     <!-- Mula surah al-fajr -->
-    <surah indeks="89" nama="سُورَةُ الفَجۡرِ">
+    <surah indeks="89" namamy="Al-Fajr" nama="سُورَةُ الفَجۡرِ">
         <nomayat>[Al-Fajr, 89:1]</nomayat>
         <nomayat>[Al-Fajr, 89:2]</nomayat>
         <nomayat>[Al-Fajr, 89:3]</nomayat>
@@ -6537,7 +6537,7 @@
         <nomayat>[Al-Fajr, 89:30]</nomayat>
     </surah>
     <!-- Mula surah al-balad -->
-    <surah indeks="90" nama="سُورَةُ البَلَدِ">
+    <surah indeks="90" namamy="Al-Balad" nama="سُورَةُ البَلَدِ">
         <nomayat>[Al-Balad, 90:1]</nomayat>
         <nomayat>[Al-Balad, 90:2]</nomayat>
         <nomayat>[Al-Balad, 90:3]</nomayat>
@@ -6561,7 +6561,7 @@
         <nomayat>[Al-Balad, 90:20]</nomayat>
     </surah>
     <!-- Mula surah al-shams -->
-    <surah indeks="91" nama="سُورَةُ الشَّمۡسِ">
+    <surah indeks="91" namamy="Ash-Shams" nama="سُورَةُ الشَّمۡسِ">
         <nomayat>[Ash-Shams, 91:1]</nomayat>
         <nomayat>[Ash-Shams, 91:2]</nomayat>
         <nomayat>[Ash-Shams, 91:3]</nomayat>
@@ -6579,7 +6579,7 @@
         <nomayat>[Ash-Shams, 91:15]</nomayat>
     </surah>
     <!-- Mula surah al-lail -->
-    <surah indeks="92" nama="سُورَةُ اللَّيۡلِ">
+    <surah indeks="92" namamy="Al-Layl" nama="سُورَةُ اللَّيۡلِ">
         <nomayat>[Al-Layl, 92:1]</nomayat>
         <nomayat>[Al-Layl, 92:2]</nomayat>
         <nomayat>[Al-Layl, 92:3]</nomayat>
@@ -6604,7 +6604,7 @@
         <nomayat>[Al-Layl, 92:21]</nomayat>
     </surah>
     <!-- Mula surah al-dhuha -->
-    <surah indeks="93" nama="سُورَةُ الضُّحَىٰ">
+    <surah indeks="93" namamy="Aḍ-Ḍuḥā" nama="سُورَةُ الضُّحَىٰ">
         <nomayat>[Aḍ-Ḍuḥā, 93:1]</nomayat>
         <nomayat>[Aḍ-Ḍuḥā, 93:2]</nomayat>
         <nomayat>[Aḍ-Ḍuḥā, 93:3]</nomayat>
@@ -6618,7 +6618,7 @@
         <nomayat>[Aḍ-Ḍuḥā, 93:11]</nomayat>
     </surah>
     <!-- Mula surah al-sharh -->
-    <surah indeks="94" nama="سُورَةُ الشَّرۡحِ">
+    <surah indeks="94" namamy="[Ash-Sharḥ" nama="سُورَةُ الشَّرۡحِ">
         <nomayat>[Ash-Sharḥ, 94:1]</nomayat>
         <nomayat>[Ash-Sharḥ, 94:2]</nomayat>
         <!-- Halaman 597 -->
@@ -6630,7 +6630,7 @@
         <nomayat>[Ash-Sharḥ, 94:8]</nomayat>
     </surah>
     <!-- Mula surah al-tin -->
-    <surah indeks="95" nama="سُورَةُ التِّينِ">
+    <surah indeks="95" namamy="At-Tīn" nama="سُورَةُ التِّينِ">
         <nomayat>[At-Tīn, 95:1]</nomayat>
         <nomayat>[At-Tīn, 95:2]</nomayat>
         <nomayat>[At-Tīn, 95:3]</nomayat>
@@ -6641,7 +6641,7 @@
         <nomayat>[At-Tīn, 95:8]</nomayat>
     </surah>
     <!-- Mula surah al-alaq -->
-    <surah indeks="96" nama="سُورَةُ العَلَقِ">
+    <surah indeks="96" namamy="Al-‘Alaq" nama="سُورَةُ العَلَقِ">
         <nomayat>[Al-‘Alaq, 96:1]</nomayat>
         <nomayat>[Al-‘Alaq, 96:2]</nomayat>
         <nomayat>[Al-‘Alaq, 96:3]</nomayat>
@@ -6664,7 +6664,7 @@
         <nomayat>[Al-‘Alaq, 96:19]</nomayat>
     </surah>
     <!-- Mula surah al-qadr -->
-    <surah indeks="97" nama="سُورَةُ القَدۡرِ">
+    <surah indeks="97" namamy="Al-Qadr" nama="سُورَةُ القَدۡرِ">
         <nomayat>[Al-Qadr, 97:1]</nomayat>
         <nomayat>[Al-Qadr, 97:2]</nomayat>
         <nomayat>[Al-Qadr, 97:3]</nomayat>
@@ -6672,7 +6672,7 @@
         <nomayat>[Al-Qadr, 97:5]</nomayat>
     </surah>
     <!-- Mula surah al-bayyinah -->
-    <surah indeks="98" nama="سُورَةُ البَيِّنَةِ">
+    <surah indeks="98" namamy="Al-Bayyinah" nama="سُورَةُ البَيِّنَةِ">
         <nomayat>[Al-Bayyinah, 98:1]</nomayat>
         <nomayat>[Al-Bayyinah, 98:2]</nomayat>
         <nomayat>[Al-Bayyinah, 98:3]</nomayat>
@@ -6684,7 +6684,7 @@
         <nomayat>[Al-Bayyinah, 98:8]</nomayat>
     </surah>
     <!-- Mula surah al-zalzalah -->
-    <surah indeks="99" nama="سُورَةُ الزَّلۡزَلَةِ">
+    <surah indeks="99" namamy="Az-Zalzalah" nama="سُورَةُ الزَّلۡزَلَةِ">
         <nomayat>[Az-Zalzalah, 99:1]</nomayat>
         <nomayat>[Az-Zalzalah, 99:2]</nomayat>
         <nomayat>[Az-Zalzalah, 99:3]</nomayat>
@@ -6695,7 +6695,7 @@
         <nomayat>[Az-Zalzalah, 99:8]</nomayat>
     </surah>
     <!-- Mula surah al-adiyat -->
-    <surah indeks="100" nama="سُورَةُ العَادِيَاتِ">
+    <surah indeks="100" namamy="Al-‘Ādiyāt" nama="سُورَةُ العَادِيَاتِ">
         <nomayat>[Al-‘Ādiyāt, 100:1]</nomayat>
         <nomayat>[Al-‘Ādiyāt, 100:2]</nomayat>
         <nomayat>[Al-‘Ādiyāt, 100:3]</nomayat>
@@ -6710,7 +6710,7 @@
         <nomayat>[Al-‘Ādiyāt, 100:11]</nomayat>
     </surah>
     <!-- Mula surah al-qari'ah -->
-    <surah indeks="101" nama="سُورَةُ القَارِعَةِ">
+    <surah indeks="101" namamy="Al-Qāri‘ah" nama="سُورَةُ القَارِعَةِ">
         <nomayat>[Al-Qāri‘ah, 101:1]</nomayat>
         <nomayat>[Al-Qāri‘ah, 101:2]</nomayat>
         <nomayat>[Al-Qāri‘ah, 101:3]</nomayat>
@@ -6724,7 +6724,7 @@
         <nomayat>[Al-Qāri‘ah, 101:11]</nomayat>
     </surah>
     <!-- Mula surah al-takathur -->
-    <surah indeks="102" nama="سُورَةُ التَّكَاثُرِ">
+    <surah indeks="102" namamy="At-Takāthur" nama="سُورَةُ التَّكَاثُرِ">
         <nomayat>[At-Takāthur, 102:1]</nomayat>
         <nomayat>[At-Takāthur, 102:2]</nomayat>
         <nomayat>[At-Takāthur, 102:3]</nomayat>
@@ -6736,13 +6736,13 @@
     </surah>
     <!-- Halaman 601
          Mula surah al-asr -->
-    <surah indeks="103" nama="سُورَةُ العَصۡرِ">
+    <surah indeks="103" namamy="Al-‘Aṣr" nama="سُورَةُ العَصۡرِ">
         <nomayat>[Al-‘Aṣr, 103:1]</nomayat>
         <nomayat>[Al-‘Aṣr, 103:2]</nomayat>
         <nomayat>[Al-‘Aṣr, 103:3]</nomayat>
     </surah>
     <!-- Mula surah al-humazah -->
-    <surah indeks="104" nama="سُورَةُ الهُمَزَةِ">
+    <surah indeks="104" namamy="Al-Humazah" nama="سُورَةُ الهُمَزَةِ">
         <nomayat>[Al-Humazah, 104:1]</nomayat>
         <nomayat>[Al-Humazah, 104:2]</nomayat>
         <nomayat>[Al-Humazah, 104:3]</nomayat>
@@ -6754,7 +6754,7 @@
         <nomayat>[Al-Humazah, 104:9]</nomayat>
     </surah>
     <!-- Mula surah al-fil -->
-    <surah indeks="105" nama="سُورَةُ الفِيلِ">
+    <surah indeks="105" namamy="Al-Fīl" nama="سُورَةُ الفِيلِ">
         <nomayat>[Al-Fīl, 105:1]</nomayat>
         <nomayat>[Al-Fīl, 105:2]</nomayat>
         <nomayat>[Al-Fīl, 105:3]</nomayat>
@@ -6763,14 +6763,14 @@
     </surah>
     <!-- Halaman 602
          Mula surah quraish -->
-    <surah indeks="106" nama="سُورَةُ قُرَيۡشٍ">
+    <surah indeks="106" namamy="Quraysh" nama="سُورَةُ قُرَيۡشٍ">
         <nomayat>[Quraysh, 106:1]</nomayat>
         <nomayat>[Quraysh, 106:2]</nomayat>
         <nomayat>[Quraysh, 106:3]</nomayat>
         <nomayat>[Quraysh, 106:4]</nomayat>
     </surah>
     <!-- Mula surah al-ma'un -->
-    <surah indeks="107" nama="سُورَةُ المَاعُونِ">
+    <surah indeks="107" namamy="Al-Mā‘ūn" nama="سُورَةُ المَاعُونِ">
         <nomayat>[Al-Mā‘ūn, 107:1]</nomayat>
         <nomayat>[Al-Mā‘ūn, 107:2]</nomayat>
         <nomayat>[Al-Mā‘ūn, 107:3]</nomayat>
@@ -6780,14 +6780,14 @@
         <nomayat>[Al-Mā‘ūn, 107:7]</nomayat>
     </surah>
     <!-- Mula surah al-kauthar -->
-    <surah indeks="108" nama="سُورَةُ الكَوثَرِ">
+    <surah indeks="108" namamy="Al-Kauthar" nama="سُورَةُ الكَوثَرِ">
         <nomayat>[Al-Kauthar, 108:1]</nomayat>
         <nomayat>[Al-Kauthar, 108:2]</nomayat>
         <nomayat>[Al-Kauthar, 108:3]</nomayat>
     </surah>
     <!-- Halaman 603
          Mula surah al-kafirun -->
-    <surah indeks="109" nama="سُورَةُ الكَافِرُونَ">
+    <surah indeks="109" namamy="Al-Kāfirūn" nama="سُورَةُ الكَافِرُونَ">
         <nomayat>[Al-Kāfirūn, 109:1]</nomayat>
         <nomayat>[Al-Kāfirūn, 109:2]</nomayat>
         <nomayat>[Al-Kāfirūn, 109:3]</nomayat>
@@ -6796,13 +6796,13 @@
         <nomayat>[Al-Kāfirūn, 109:6]</nomayat>
     </surah>
     <!-- Mula surah al-nasr -->
-    <surah indeks="110" nama="سُورَةُ النَّصۡرِ">
+    <surah indeks="110" namamy="An-Naṣr" nama="سُورَةُ النَّصۡرِ">
         <nomayat>[An-Naṣr, 110:1]</nomayat>
         <nomayat>[An-Naṣr, 110:2]</nomayat>
         <nomayat>[An-Naṣr, 110:3]</nomayat>
     </surah>
     <!-- Mula surah al-masad -->
-    <surah indeks="111" nama="سُورَةُ المَسَدِ">
+    <surah indeks="111" namamy="Al-Masad" nama="سُورَةُ المَسَدِ">
         <nomayat>[Al-Masad, 111:1]</nomayat>
         <nomayat>[Al-Masad, 111:2]</nomayat>
         <nomayat>[Al-Masad, 111:3]</nomayat>
@@ -6811,14 +6811,14 @@
     </surah>
     <!-- Halaman 604
          Mula surah al-ikhlas -->
-    <surah indeks="112" nama="سُورَةُ الإِخۡلَاصِ">
+    <surah indeks="112" namamy="Al-Ikhlāṣ" nama="سُورَةُ الإِخۡلَاصِ">
         <nomayat>[Al-Ikhlāṣ, 112:1]</nomayat>
         <nomayat>[Al-Ikhlāṣ, 112:2]</nomayat>
         <nomayat>[Al-Ikhlāṣ, 112:3]</nomayat>
         <nomayat>[Al-Ikhlāṣ, 112:4]</nomayat>
     </surah>
     <!-- Mula surah al-falaq -->
-    <surah indeks="113" nama="سُورَةُ الفَلَقِ">
+    <surah indeks="113" namamy="Al-Falaq" nama="سُورَةُ الفَلَقِ">
         <nomayat>[Al-Falaq, 113:1]</nomayat>
         <nomayat>[Al-Falaq, 113:2]</nomayat>
         <nomayat>[Al-Falaq, 113:3]</nomayat>
@@ -6826,7 +6826,7 @@
         <nomayat>[Al-Falaq, 113:5]</nomayat>
     </surah>
     <!-- Mula surah al-nas -->
-    <surah indeks="114" nama="سُورَةُ النَّاسِ">
+    <surah indeks="114" namamy="An-Nās" nama="سُورَةُ النَّاسِ">
         <nomayat>[An-Nās, 114:1]</nomayat>
         <nomayat>[An-Nās, 114:2]</nomayat>
         <nomayat>[An-Nās, 114:3]</nomayat>
