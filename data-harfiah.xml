@@ -12,7 +12,7 @@
     <surah indeks="1" nama="سُورَةُ الفَاتِحَةِ">
         <!--<ayat indeks="1">بِسۡمِ ٱللَّهِ ٱلرَّحۡمَٰنِ ٱلرَّحِيمِ</ayat>-->
         <ayat indeks="1">
-            <![CDATA[بِ&zwj;]]>]>
+            <![CDATA[بِ&zwj;]]>
         </ayat>
         <!-- <ayat indeks="1">
             <penggal indeks="1" my="Dengan">بِـ</penggal>
