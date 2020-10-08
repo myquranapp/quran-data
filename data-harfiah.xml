@@ -11,13 +11,13 @@
 <!-- Muka surat 1 / Mula surah al-fatihah -->
     <surah indeks="1" nama="سُورَةُ الفَاتِحَةِ">
         <!--<ayat indeks="1">بِسۡمِ ٱللَّهِ ٱلرَّحۡمَٰنِ ٱلرَّحِيمِ</ayat>-->
-        <ayat indeks="1" dir="ltr">
+        <ayat indeks="1">
         <![CDATA[
         بِـ : Dengan
-        إِسۡمِ : nama (bagi)
+        إِسۡمِ : nama [bagi]
         ٱللَّهِ : Allah
-        ٱلرَّحۡمَٰنِ : (yang) Maha Pemurah
-        ٱلرَّحِيمِ : (yang) Maha Penyayang
+        ٱلرَّحۡمَٰنِ : [yang] Maha Pemurah
+        ٱلرَّحِيمِ : [yang] Maha Penyayang
         ]]>
         </ayat>
         <ayat indeks="2">ٱلۡحَمۡدُ لِلَّهِ رَبِّ ٱلۡعَٰلَمِينَ</ayat>
