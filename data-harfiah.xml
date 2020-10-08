@@ -11,7 +11,7 @@
 <!-- Muka surat 1 / Mula surah al-fatihah -->
     <surah indeks="1" nama="سُورَةُ الفَاتِحَةِ">
         <!--<ayat indeks="1">بِسۡمِ ٱللَّهِ ٱلرَّحۡمَٰنِ ٱلرَّحِيمِ</ayat>-->
-        <ayat indeks="1">
+        <ayat indeks="1" dir="ltr">
         <![CDATA[
         بِـ : Dengan
         إِسۡمِ : nama (bagi)
