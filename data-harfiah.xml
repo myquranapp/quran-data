@@ -12,12 +12,15 @@
     <surah indeks="1" nama="سُورَةُ الفَاتِحَةِ">
         <!--<ayat indeks="1">بِسۡمِ ٱللَّهِ ٱلرَّحۡمَٰنِ ٱلرَّحِيمِ</ayat>-->
         <ayat indeks="1">
+            <![CDATA[بِ&zwj;]]>]>
+        </ayat>
+        <!-- <ayat indeks="1">
             <penggal indeks="1" my="Dengan">بِـ</penggal>
             <penggal indeks="2" my="nama (bagi)">إِسۡمِ</penggal>
             <penggal indeks="3" my="Allah">ٱللَّهِ</penggal>
             <penggal indeks="4" my="(yang) Maha Pemurah">ٱلرَّحۡمَٰنِ</penggal>
             <penggal indeks="5" my="(yang) Maha Penyayang">ٱلرَّحِيمِ</penggal>
-        </ayat>
+        </ayat> -->
         <ayat indeks="2">ٱلۡحَمۡدُ لِلَّهِ رَبِّ ٱلۡعَٰلَمِينَ</ayat>
         <ayat indeks="3">ٱلرَّحۡمَٰنِ ٱلرَّحِيمِ</ayat>
         <ayat indeks="4">مَٰلِكِ يَوۡمِ ٱلدِّينِ</ayat>
