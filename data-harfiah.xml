@@ -10,7 +10,7 @@
 <quran>
 <!-- Muka surat 1 / Mula surah al-fatihah -->
     <surah indeks="1" nama="سُورَةُ الفَاتِحَةِ">
-        <ayat indeks="1" my="Dengan / nama / (bagi) Allah / (yang) Maha Pemurah / (yang) Maha Penyayang"> بِـ  \  إِسۡمِ  \  ٱللَّهِ  \  ٱلرَّحۡمَٰنِ  \  ٱلرَّحِيمِ</ayat>
+        <ayat indeks="1" my="Dengan  /  nama  /  (bagi) Allah  /  (yang) Maha Pemurah  /  (yang) Maha Penyayang"> بِـ  \  إِسۡمِ  \  ٱللَّهِ  \  ٱلرَّحۡمَٰنِ  \  ٱلرَّحِيمِ</ayat>
         <!-- <ayat indeks="1">
             <![CDATA[
             بِـ : Dengan
