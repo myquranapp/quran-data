@@ -12,13 +12,7 @@
     <surah indeks="1" nama="سُورَةُ الفَاتِحَةِ">
         <!-- <ayat indeks="1" my="1. Dengan / 2. nama / 3. (bagi) Allah / 4. (yang) Maha Pemurah / 5. (yang) Maha Penyayang">١- بِـ \ ٢- إِسۡمِ \ ٣- ٱللَّهِ \ ٤- ٱلرَّحۡمَٰنِ \ ٥- ٱلرَّحِيمِ</ayat> -->
         <ayat indeks="1" my="1. Dengan / 2. nama / 3. (bagi) Allah / 4. (yang) Maha Pemurah / 5. (yang) Maha Penyayang">
-            <![CDATA[
-            1. بِـ
-            2. إِسۡمِ
-            3. ٱللَّهِ
-            4. ٱلرَّحۡمَٰنِ
-            5. ٱلرَّحِيمِ
-            ]]>
+            <![CDATA[بِـ / إِسۡمِ / ٱللَّهِ / ٱلرَّحۡمَٰنِ / ٱلرَّحِيمِ]]>
         </ayat>
         <!-- <ayat indeks="1">
             <penggal indeks="1" my="Dengan">بِـ</penggal>
