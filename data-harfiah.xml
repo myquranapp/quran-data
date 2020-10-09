@@ -10,7 +10,7 @@
 <quran>
 <!-- Muka surat 1 / Mula surah al-fatihah -->
     <surah indeks="1" nama="سُورَةُ الفَاتِحَةِ">
-        <ayat indeks="1" my="Dengan  ·  nama  ·  (bagi) Allah  ·  (yang) Maha Pemurah  ·  (yang) Maha Penyayang"> بِـ  ·  إِسۡمِ  ·  ٱللَّهِ  ·  ٱلرَّحۡمَٰنِ  ·  ٱلرَّحِيمِ</ayat>
+        <ayat indeks="1" my="Dengan  ۞  nama  ۞  (bagi) Allah  ۞  (yang) Maha Pemurah  ۞  (yang) Maha Penyayang"> بِـ  ۞  إِسۡمِ  ۞  ٱللَّهِ  ۞  ٱلرَّحۡمَٰنِ  ۞  ٱلرَّحِيمِ</ayat>
         <!-- <ayat indeks="1">
             <![CDATA[
             بِـ : Dengan
@@ -27,21 +27,21 @@
             <penggal indeks="4" my="(yang) Maha Pemurah">ٱلرَّحۡمَٰنِ</penggal>
             <penggal indeks="5" my="(yang) Maha Penyayang">ٱلرَّحِيمِ</penggal>
         </ayat> -->
-        <ayat indeks="2" my="Segala pujian kesyukuran itu  ·  bagi  ·  Allah  ·  (yang) mencipta dan memerintah  ·  (bagi) sekalian alam">ٱلۡحَمۡدُ  ·  لِـ  ·  ٱللَّهِ  ·  رَبِّ  ·  ٱلۡعَٰلَمِينَ</ayat>
-        <ayat indeks="3" my="(Yang) Maha Pemurah  ·  (yang) Maha Penyayang">ٱلرَّحۡمَٰنِ  ·  ٱلرَّحِيمِ</ayat>
-        <ayat indeks="4" my="(Yang) menguasai  ·  (pada) hari  ·  (bagi) pembalasan">مَٰلِكِ  ·  يَوۡمِ  ·  ٱلدِّينِ</ayat>
-        <ayat indeks="5" my="Hanya kepada  ·  Engkau  ·  kami mengabdikan diri  ·  dan  ·  hanya kepada  ·  Engkau  · kami memohon pertolongan">إِيَّا  ·  كَ  ·  نَعۡبُدُ  ·  وَ  ·  إِيَّا  ·  كَ  ·  نَسۡتَعِينُ</ayat>
-        <ayat indeks="6" my="Tunjukilah (oleh) Engkau  ·  (akan) kami  ·  (akan) jalan  ·  (yang) lurus">ٱهۡدِ  ·  نَا  ·  ٱلصِّرَٰطَ  ·  ٱلۡمُسۡتَقِيمَ</ayat>
-        <ayat indeks="7" my="(iaitu) jalan  ·  (bagi) orang-orang yang  ·  telah memberi nikmat (oleh) Engkau  ·  ke atas  ·  mereka  ·  bukan  ·  (daripada) yang dimurkai  ·  ke atas  ·  mereka  ·  dan  ·  tidak  ·  sekalian yang sesat">صِرَٰطَ  ·  ٱلَّذِينَ  ·  أَنۡعَمۡتَ  ·  عَلَيۡ  ·  هِمۡ  ·  غَيۡرِ  ·  ٱلۡمَغۡضُوبِ  ·  عَلَيۡ  ·  هِمۡ  ·   وَ  ·  لَا  ·  ٱلضَّآلِّينَ</ayat>
+        <ayat indeks="2" my="Segala pujian kesyukuran itu  ۞  bagi  ۞  Allah  ۞  (yang) mencipta dan memerintah  ۞  (bagi) sekalian alam">ٱلۡحَمۡدُ  ۞  لِـ  ۞  ٱللَّهِ  ۞  رَبِّ  ۞  ٱلۡعَٰلَمِينَ</ayat>
+        <ayat indeks="3" my="(Yang) Maha Pemurah  ۞  (yang) Maha Penyayang">ٱلرَّحۡمَٰنِ  ۞  ٱلرَّحِيمِ</ayat>
+        <ayat indeks="4" my="(Yang) menguasai  ۞  (pada) hari  ۞  (bagi) pembalasan">مَٰلِكِ  ۞  يَوۡمِ  ۞  ٱلدِّينِ</ayat>
+        <ayat indeks="5" my="Hanya kepada  ۞  Engkau  ۞  kami mengabdikan diri  ۞  dan  ۞  hanya kepada  ۞  Engkau  ۞ kami memohon pertolongan">إِيَّا  ۞  كَ  ۞  نَعۡبُدُ  ۞  وَ  ۞  إِيَّا  ۞  كَ  ۞  نَسۡتَعِينُ</ayat>
+        <ayat indeks="6" my="Tunjukilah (oleh) Engkau  ۞  (akan) kami  ۞  (akan) jalan  ۞  (yang) lurus">ٱهۡدِ  ۞  نَا  ۞  ٱلصِّرَٰطَ  ۞  ٱلۡمُسۡتَقِيمَ</ayat>
+        <ayat indeks="7" my="(iaitu) jalan  ۞  (bagi) orang-orang yang  ۞  telah memberi nikmat (oleh) Engkau  ۞  ke atas  ۞  mereka  ۞  bukan  ۞  (daripada) yang dimurkai  ۞  ke atas  ۞  mereka  ۞  dan  ۞  tidak  ۞  sekalian yang sesat">صِرَٰطَ  ۞  ٱلَّذِينَ  ۞  أَنۡعَمۡتَ  ۞  عَلَيۡ  ۞  هِمۡ  ۞  غَيۡرِ  ۞  ٱلۡمَغۡضُوبِ  ۞  عَلَيۡ  ۞  هِمۡ  ۞   وَ  ۞  لَا  ۞  ٱلضَّآلِّينَ</ayat>
     </surah>
 
     <!-- Muka surat 2 / Mula surah al-baqarah -->
     <surah indeks="2" nama="سُورَةُ البَقَرَةِ">
         <ayat indeks="1" my="Tiada yang mengetahui ta’wilnya melainkan Allah (3:7)">الٓمٓ</ayat>
-        <ayat indeks="2" my="Itu  ·  (iaitu) al-Qur’ān  ·  tiada  ·  (sebarang) keraguan  ·  pada  ·  nya  ·  petunjuk  ·  bagi  ·  orang-orang yang bertaqwa">ذَٰلِكَ  ·  ٱلۡكِتَٰبُ  ·  لَا  ·  رَيۡبَۛ  ·  فِي  ·  هِۛ  ·  هُدٗى  ·  لِّـ  ·  ٱلۡمُتَّقِينَ</ayat>
-        <ayat indeks="3" my="(Iaitu) orang-orang yang  ·  mereka beriman  ·  kepada  ·  yang ghaib  ·  dan  ·  mereka mendirikan  ·  (akan) solat  ·  dan  ·  daripada  ·  apa yang  ·  telah memberi rezeki (oleh) Kami  ·  (akan) mereka  ·  mereka belanjakan">ٱلَّذِينَ  ·  يُؤۡمِنُونَ  ·  بِـ  ·  ٱلۡغَيۡبِ  ·  وَ  ·  يُقِيمُونَ  ·  ٱلصَّلَوٰةَ  ·  وَ  ·  مِنۡ  ·  مَا  ·  رَزَقۡنَا  ·  هُمۡ  ·  يُنفِقُونَ</ayat>
-        <ayat indeks="4" my="dan  ·  orang-orang yang  ·  mereka beriman  ·  kepada  ·  apa yang  ·  telah diturunkan ia  ·  kepada  ·  engkau  ·  dan  ·  apa yang  ·  telah diturunkan ia  ·  daripada  ·  sebelum  ·  (daripada) engkau  ·  dan  ·  kepada  ·  Hari Akhirat  ·  mereka  ·  mereka yakin.">وَ  ·  ٱلَّذِينَ  ·  يُؤۡمِنُونَ  ·  بِـ  ·  مَآ  ·  أُنزِلَ  ·  إِلَيۡ  ·  كَ  ·  وَ  ·  مَآ  ·  أُنزِلَ  ·  مِن  ·  قَبۡلِ  ·  كَ  ·  وَ  ·  بِـ  ·  ٱلۡأٓخِرَةِ  ·  هُمۡ  ·  يُوقِنُونَ</ayat>
-        <ayat indeks="5" my="Mereka itu  ·  ke atas  · petunjuk  · daripada  ·  Tuhan  ·  (bagi) mereka  ·  dan  ·  mereka itu  ·  mereka  ·  (adalah) orang-orang yang beroleh kejayaan">أُوْلَٰٓئِكَ  ·  عَلَىٰ  ·  هُدٗى  ·  مِّن  ·  رَّبِّ  ·  هِمۡۖ  ·  وَ  ·  أُوْلَٰٓئِكَ  ·  هُمُ  ·  ٱلۡمُفۡلِحُونَ</ayat>
-        <ayat indeks="6" my="Sesungguhnya  ·  orang-orang yang  ·  telah ingkar (oleh) mereka  ·  sama sahaja  ·  ke atas  ·  mereka  · adakah  ·  telah mengancam (oleh) engkau  ·  (akan) mereka  ·  atau  tidak  ·  engkau mengancam  ·  (akan) mereka  · tidak  ·  mereka beriman">إِنَّ  ·  ٱلَّذِينَ  ·  كَفَرُواْ  ·  سَوَآءٌ  ·  عَلَيۡ  ·  هِمۡ  ·  ءَ  ·  أَنذَرۡتَ  ·  هُمۡ  ·  أَمۡ  ·  لَمۡ  ·  تُنذِرۡ  ·  هُمۡ  ·  لَا  ·  يُؤۡمِنُونَ</ayat>
+        <ayat indeks="2" my="Itu  ۞  (iaitu) al-Qur’ān  ۞  tiada  ۞  (sebarang) keraguan  ۞  pada  ۞  nya  ۞  petunjuk  ۞  bagi  ۞  orang-orang yang bertaqwa">ذَٰلِكَ  ۞  ٱلۡكِتَٰبُ  ۞  لَا  ۞  رَيۡبَۛ  ۞  فِي  ۞  هِۛ  ۞  هُدٗى  ۞  لِّـ  ۞  ٱلۡمُتَّقِينَ</ayat>
+        <ayat indeks="3" my="(Iaitu) orang-orang yang  ۞  mereka beriman  ۞  kepada  ۞  yang ghaib  ۞  dan  ۞  mereka mendirikan  ۞  (akan) solat  ۞  dan  ۞  daripada  ۞  apa yang  ۞  telah memberi rezeki (oleh) Kami  ۞  (akan) mereka  ۞  mereka belanjakan">ٱلَّذِينَ  ۞  يُؤۡمِنُونَ  ۞  بِـ  ۞  ٱلۡغَيۡبِ  ۞  وَ  ۞  يُقِيمُونَ  ۞  ٱلصَّلَوٰةَ  ۞  وَ  ۞  مِنۡ  ۞  مَا  ۞  رَزَقۡنَا  ۞  هُمۡ  ۞  يُنفِقُونَ</ayat>
+        <ayat indeks="4" my="dan  ۞  orang-orang yang  ۞  mereka beriman  ۞  kepada  ۞  apa yang  ۞  telah diturunkan ia  ۞  kepada  ۞  engkau  ۞  dan  ۞  apa yang  ۞  telah diturunkan ia  ۞  daripada  ۞  sebelum  ۞  (daripada) engkau  ۞  dan  ۞  kepada  ۞  Hari Akhirat  ۞  mereka  ۞  mereka yakin.">وَ  ۞  ٱلَّذِينَ  ۞  يُؤۡمِنُونَ  ۞  بِـ  ۞  مَآ  ۞  أُنزِلَ  ۞  إِلَيۡ  ۞  كَ  ۞  وَ  ۞  مَآ  ۞  أُنزِلَ  ۞  مِن  ۞  قَبۡلِ  ۞  كَ  ۞  وَ  ۞  بِـ  ۞  ٱلۡأٓخِرَةِ  ۞  هُمۡ  ۞  يُوقِنُونَ</ayat>
+        <ayat indeks="5" my="Mereka itu  ۞  ke atas  ۞ petunjuk  ۞ daripada  ۞  Tuhan  ۞  (bagi) mereka  ۞  dan  ۞  mereka itu  ۞  mereka  ۞  (adalah) orang-orang yang beroleh kejayaan">أُوْلَٰٓئِكَ  ۞  عَلَىٰ  ۞  هُدٗى  ۞  مِّن  ۞  رَّبِّ  ۞  هِمۡۖ  ۞  وَ  ۞  أُوْلَٰٓئِكَ  ۞  هُمُ  ۞  ٱلۡمُفۡلِحُونَ</ayat>
+        <ayat indeks="6" my="Sesungguhnya  ۞  orang-orang yang  ۞  telah ingkar (oleh) mereka  ۞  sama sahaja  ۞  ke atas  ۞  mereka  ۞ adakah  ۞  telah mengancam (oleh) engkau  ۞  (akan) mereka  ۞  atau  tidak  ۞  engkau mengancam  ۞  (akan) mereka  ۞ tidak  ۞  mereka beriman">إِنَّ  ۞  ٱلَّذِينَ  ۞  كَفَرُواْ  ۞  سَوَآءٌ  ۞  عَلَيۡ  ۞  هِمۡ  ۞  ءَ  ۞  أَنذَرۡتَ  ۞  هُمۡ  ۞  أَمۡ  ۞  لَمۡ  ۞  تُنذِرۡ  ۞  هُمۡ  ۞  لَا  ۞  يُؤۡمِنُونَ</ayat>
     </surah>
 </quran>
