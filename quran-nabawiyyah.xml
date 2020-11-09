@@ -1,19 +1,27 @@
 <?xml version="1.0" encoding="utf-8" ?>
+<!--
+
+# PLEASE DO NOT REMOVE OR CHANGE THIS COPYRIGHT BLOCK
+#====================================================================
+#
+#====================================================================
+	
+-->
 <quran>
     <!-- Lafadh isti'adhah -->
     <istiazah>أَعُوذُ بِٱللَّهِ مِنَ ٱلشَّيۡطَٰنِ ٱلرَّجِيمِ</istiazah>
     <!-- Lafadh basmalLah (Kecuali pada surah at-taubah, 9) -->
-    <bism>بِسۡمِ ٱللَّهِ ٱلرَّحۡمَٰنِ ٱلرَّحِيمِ</bism>
-    <simbism>﷽</simbism>
+    <basmalah>بِسۡمِ ٱللَّهِ ٱلرَّحۡمَٰنِ ٱلرَّحِيمِ</basmalah>
+    <simbasmalah>﷽</simbasmalah>
     <!-- Muka surat 1 / Mula surah al-fatihah -->
     <surah indeks="1" nama="سُورَةُ الفَاتِحَةِ" namatranslit="Sūrah al-Fātiḥah" juz="1" jumlat="7" kronologi="5" origin="Makkiyyah" hal="1">
-        <ayat indeks="1">بِسۡمِ ٱللَّهِ ٱلرَّحۡمَٰنِ ٱلرَّحِيمِ</ayat>
-        <ayat indeks="2">ٱلۡحَمۡدُ لِلَّهِ رَبِّ ٱلۡعَٰلَمِينَ</ayat>
-        <ayat indeks="3">ٱلرَّحۡمَٰنِ ٱلرَّحِيمِ</ayat>
-        <ayat indeks="4">مَٰلِكِ يَوۡمِ ٱلدِّينِ</ayat>
-        <ayat indeks="5">إِيَّاكَ نَعۡبُدُ وَإِيَّاكَ نَسۡتَعِينُ</ayat>
-        <ayat indeks="6">ٱهۡدِنَا ٱلصِّرَٰطَ ٱلۡمُسۡتَقِيمَ</ayat>
-        <ayat indeks="7">صِرَٰطَ ٱلَّذِينَ أَنۡعَمۡتَ عَلَيۡهِمۡ غَيۡرِ ٱلۡمَغۡضُوبِ عَلَيۡهِمۡ وَلَا ٱلضَّآلِّينَ</ayat>
+        <ayat indeks="1">بِسۡمِ ٱللَّهِ ٱلرَّحۡمَٰنِ ٱلرَّحِيمِ</ayat>
+        <ayat indeks="2">ٱلۡحَمۡدُ لِلَّهِ رَبِّ ٱلۡعَٰلَمِينَ</ayat>
+        <ayat indeks="3">ٱلرَّحۡمَٰنِ ٱلرَّحِيمِ</ayat>
+        <ayat indeks="4">مَٰلِكِ يَوۡمِ ٱلدِّينِ</ayat>
+        <ayat indeks="5">إِيَّاكَ نَعۡبُدُ وَإِيَّاكَ نَسۡتَعِينُ</ayat>
+        <ayat indeks="6">ٱهۡدِنَا ٱلصِّرَٰطَ ٱلۡمُسۡتَقِيمَ</ayat>
+        <ayat indeks="7">صِرَٰطَ ٱلَّذِينَ أَنۡعَمۡتَ عَلَيۡهِمۡ غَيۡرِ ٱلۡمَغۡضُوبِ عَلَيۡهِمۡ وَلَا ٱلضَّآلِّينَ</ayat>
     </surah>
 
     <!-- Muka surat 2 / Mula surah al-baqarah -->
