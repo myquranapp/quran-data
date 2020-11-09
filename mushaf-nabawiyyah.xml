@@ -563,11 +563,13 @@
         <ayat indeks="6">مِنَ ٱلۡجِنَّةِ وَٱلنَّاسِ</ayat>
     </surah>
 
-    <!-- Lafadh isti'adhah -->
-    <istiazah>أَعُوذُ بِٱللَّهِ مِنَ ٱلشَّيۡطَٰنِ ٱلرَّجِيمِ</istiazah>
-    <!-- Lafadh basmalLah (Kecuali pada surah at-taubah, 9) -->
-    <basmalah>بِسۡمِ ٱللَّهِ ٱلرَّحۡمَٰنِ ٱلرَّحِيمِ</basmalah>
-    <simbasmalah>﷽</simbasmalah>
-    <!-- Simbol nombor ayat -->
-    <eoa>۝</eoa>
+    <lafaz>
+        <!-- Lafadh isti'adhah -->
+        <istiazah>أَعُوذُ بِٱللَّهِ مِنَ ٱلشَّيۡطَٰنِ ٱلرَّجِيمِ</istiazah>
+        <!-- Lafadh basmalLah (Kecuali pada surah at-taubah, 9) -->
+        <basmalah>بِسۡمِ ٱللَّهِ ٱلرَّحۡمَٰنِ ٱلرَّحِيمِ</basmalah>
+        <simbasmalah>﷽</simbasmalah>
+        <!-- Simbol nombor ayat -->
+        <eoa>۝</eoa>
+    </lafaz>
 </quran>
