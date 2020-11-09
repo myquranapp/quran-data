@@ -8,11 +8,6 @@
 	
 -->
 <quran>
-    <!-- Lafadh isti'adhah -->
-    <istiazah>أَعُوذُ بِٱللَّهِ مِنَ ٱلشَّيۡطَٰنِ ٱلرَّجِيمِ</istiazah>
-    <!-- Lafadh basmalLah (Kecuali pada surah at-taubah, 9) -->
-    <basmalah>بِسۡمِ ٱللَّهِ ٱلرَّحۡمَٰنِ ٱلرَّحِيمِ</basmalah>
-    <simbasmalah>﷽</simbasmalah>
     <!-- Muka surat 1 / Mula surah al-fatihah -->
     <surah indeks="1" nama="سُورَةُ الفَاتِحَةِ" namatranslit="Sūrah al-Fātiḥah" juz="1" jumlat="7" kronologi="5" origin="Makkiyyah" hal="1">
         <ayat indeks="1">بِسۡمِ ٱللَّهِ ٱلرَّحۡمَٰنِ ٱلرَّحِيمِ</ayat>
@@ -567,5 +562,12 @@
         <ayat indeks="5">ٱلَّذِي يُوَسۡوِسُ فِي صُدُورِ ٱلنَّاسِ</ayat>
         <ayat indeks="6">مِنَ ٱلۡجِنَّةِ وَٱلنَّاسِ</ayat>
     </surah>
+
+    <!-- Lafadh isti'adhah -->
+    <istiazah>أَعُوذُ بِٱللَّهِ مِنَ ٱلشَّيۡطَٰنِ ٱلرَّجِيمِ</istiazah>
+    <!-- Lafadh basmalLah (Kecuali pada surah at-taubah, 9) -->
+    <basmalah>بِسۡمِ ٱللَّهِ ٱلرَّحۡمَٰنِ ٱلرَّحِيمِ</basmalah>
+    <simbasmalah>﷽</simbasmalah>
+    <!-- Simbol nombor ayat -->
     <eoa>۝</eoa>
 </quran>
