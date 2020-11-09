@@ -9,7 +9,7 @@
 -->
 <quran>
     <!-- Muka surat 1 / Mula surah al-fatihah -->
-    <surah indeks="1" nama="سُورَةُ الفَاتِحَةِ" namatranslit="Sūrah al-Fātiḥah" juz="1" jumlat="7" kronologi="5" origin="Makkiyyah" hal="1">
+    <surah indeks="1" nama="الفَاتِحَةِ" namatranslit="Al-Fātiḥah" juz="1" jumlat="7" kronologi="5" origin="Makkiyyah" hal="1">
         <ayat indeks="1">بِسۡمِ ٱللَّهِ ٱلرَّحۡمَٰنِ ٱلرَّحِيمِ</ayat>
         <ayat indeks="2">ٱلۡحَمۡدُ لِلَّهِ رَبِّ ٱلۡعَٰلَمِينَ</ayat>
         <ayat indeks="3">ٱلرَّحۡمَٰنِ ٱلرَّحِيمِ</ayat>
@@ -20,7 +20,7 @@
     </surah>
 
     <!-- Muka surat 2 / Mula surah al-baqarah -->
-    <surah indeks="2" nama="سُورَةُ البَقَرَةِ" namatranslit="Sūrah al-Baqarah" juz="1-3" jumlat="286" kronologi="87" origin="Madaniyyah, kecuali ayat 281 turun di Mina ketika Haji yang terakhir." hal="2-49">
+    <surah indeks="2" nama="البَقَرَةِ" namatranslit="Al-Baqarah" juz="1-3" jumlat="286" kronologi="87" origin="Madaniyyah, kecuali ayat 281 turun di Mina ketika Haji yang terakhir." hal="2-49">
         <ayat indeks="1">الٓمٓ</ayat>
         <ayat indeks="2">ذَٰلِكَ ٱلۡكِتَٰبُ لَا رَيۡبَۛ فِيهِۛ هُدٗى لِّلۡمُتَّقِينَ</ayat>
         <ayat indeks="3">ٱلَّذِينَ يُؤۡمِنُونَ بِٱلۡغَيۡبِ وَيُقِيمُونَ ٱلصَّلَوٰةَ وَمِمَّا رَزَقۡنَٰهُمۡ يُنفِقُونَ</ayat>
@@ -30,7 +30,7 @@
     </surah>
 
     <!-- Muka surat 50 / Mula surah ali imran -->
-    <surah indeks="3" nama="سُورَةُ آلِ عِمۡرَانَ" namatranslit="Sūrah Āli ‘Imrān" juz="3-4" jumlat="200" kronologi="89" origin="Madaniyyah" hal="50-76">
+    <surah indeks="3" nama="آلِ عِمۡرَانَ" namatranslit="Āli ‘Imrān" juz="3-4" jumlat="200" kronologi="89" origin="Madaniyyah" hal="50-76">
         <ayat indeks="1"></ayat>
         <ayat indeks="2"></ayat>
         <ayat indeks="3"></ayat>
@@ -41,265 +41,265 @@
     </surah>
 
     <!-- Muka surat 77 / Mula surah an-nisa -->
-    <surah indeks="4" nama="سُورَةُ النِّسَاءِ" namatranslit="Sūrah an-Nisā’" juz="" jumlat="" kronologi="" origin="" hal="">
+    <surah indeks="4" nama="النِّسَاءِ" namatranslit="An-Nisā’" juz="" jumlat="" kronologi="" origin="" hal="">
         <ayat indeks=""></ayat>
     </surah>
-    <surah indeks="5" nama="سُورَةُ المَائ‍ِدَةِ" namatranslit="Sūrah al-Mā’idah" juz="" jumlat="" kronologi="" origin="" hal="">
+    <surah indeks="5" nama="المَائ‍ِدَةِ" namatranslit="Al-Mā’idah" juz="" jumlat="" kronologi="" origin="" hal="">
         <ayat indeks=""></ayat>
     </surah>
-    <surah indeks="6" nama="سُورَةُ الأَنعَامِ" namatranslit="Sūrah al-An‘ām" juz="" jumlat="" kronologi="" origin="" hal="">
+    <surah indeks="6" nama="الأَنعَامِ" namatranslit="Al-An‘ām" juz="" jumlat="" kronologi="" origin="" hal="">
         <ayat indeks=""></ayat>
     </surah>
-    <surah indeks="7" nama="سُورَةُ الأَعۡرَافِ" namatranslit="Sūrah al-A‘rāf" juz="" jumlat="" kronologi="" origin="" hal="">
+    <surah indeks="7" nama="الأَعۡرَافِ" namatranslit="Al-A‘rāf" juz="" jumlat="" kronologi="" origin="" hal="">
         <ayat indeks=""></ayat>
     </surah>
-    <surah indeks="8" nama="سُورَةُ الأَنفَالِ" namatranslit="Sūrah al-Anfāl" juz="" jumlat="" kronologi="" origin="" hal="">
+    <surah indeks="8" nama="الأَنفَالِ" namatranslit="Al-Anfāl" juz="" jumlat="" kronologi="" origin="" hal="">
         <ayat indeks=""></ayat>
     </surah>
-    <surah indeks="9" nama="سُورَةُ التَّوۡبَةِ" namatranslit="Sūrah at-Taubah" juz="" jumlat="" kronologi="" origin="" hal="">
+    <surah indeks="9" nama="التَّوۡبَةِ" namatranslit="At-Taubah" juz="" jumlat="" kronologi="" origin="" hal="">
         <ayat indeks=""></ayat>
     </surah>
-    <surah indeks="10" nama="سُورَةُ يُونُسَ" namatranslit="Sūrah Yūnus" juz="" jumlat="" kronologi="" origin="" hal="">
+    <surah indeks="10" nama="يُونُسَ" namatranslit="Yūnus" juz="" jumlat="" kronologi="" origin="" hal="">
         <ayat indeks=""></ayat>
     </surah>
-    <surah indeks="11" nama="سُورَةُ هُودٍ" namatranslit="Sūrah Hūd" juz="" jumlat="" kronologi="" origin="" hal="">
+    <surah indeks="11" nama="هُودٍ" namatranslit="Hūd" juz="" jumlat="" kronologi="" origin="" hal="">
         <ayat indeks=""></ayat>
     </surah>
-    <surah indeks="12" nama="سُورَةُ يُوسُفَ" namatranslit="Sūrah Yūsuf" juz="" jumlat="" kronologi="" origin="" hal="">
+    <surah indeks="12" nama="يُوسُفَ" namatranslit="Yūsuf" juz="" jumlat="" kronologi="" origin="" hal="">
         <ayat indeks=""></ayat>
     </surah>
-    <surah indeks="13" nama="سُورَةُ الرَّعۡدِ" namatranslit="Sūrah ar-Ra‘d" juz="" jumlat="" kronologi="" origin="" hal="">
+    <surah indeks="13" nama="الرَّعۡدِ" namatranslit="Ar-Ra‘d" juz="" jumlat="" kronologi="" origin="" hal="">
         <ayat indeks=""></ayat>
     </surah>
-    <surah indeks="14" nama="سُورَةُ إِبۡرَاهِيمَ" namatranslit="Sūrah Ibrāhīm" juz="" jumlat="" kronologi="" origin="" hal="">
+    <surah indeks="14" nama="إِبۡرَاهِيمَ" namatranslit="Ibrāhīm" juz="" jumlat="" kronologi="" origin="" hal="">
         <ayat indeks=""></ayat>
     </surah>
-    <surah indeks="15" nama="سُورَةُ الحِجۡرِ" namatranslit="Sūrah al-Ḥijr" juz="" jumlat="" kronologi="" origin="" hal="">
+    <surah indeks="15" nama="الحِجۡرِ" namatranslit="Al-Ḥijr" juz="" jumlat="" kronologi="" origin="" hal="">
         <ayat indeks=""></ayat>
     </surah>
-    <surah indeks="16" nama="سُورَةُ النَّحۡلِ" namatranslit="Sūrah an-Naḥl" juz="" jumlat="" kronologi="" origin="" hal="">
+    <surah indeks="16" nama="النَّحۡلِ" namatranslit="An-Naḥl" juz="" jumlat="" kronologi="" origin="" hal="">
         <ayat indeks=""></ayat>
     </surah>
-    <surah indeks="17" nama="سُورَةُ الإِسۡرَاءِ" namatranslit="Sūrah al-Isrā’" juz="" jumlat="" kronologi="" origin="" hal="">
+    <surah indeks="17" nama="الإِسۡرَاءِ" namatranslit="Al-Isrā’" juz="" jumlat="" kronologi="" origin="" hal="">
         <ayat indeks=""></ayat>
     </surah>
-    <surah indeks="18" nama="سُورَةُ الكَهۡفِ" namatranslit="Sūrah al-Kahfi" juz="" jumlat="" kronologi="" origin="" hal="">
+    <surah indeks="18" nama="الكَهۡفِ" namatranslit="Al-Kahfi" juz="" jumlat="" kronologi="" origin="" hal="">
         <ayat indeks=""></ayat>
     </surah>
-    <surah indeks="19" nama="سُورَةُ مَرۡيَمَ" namatranslit="Sūrah Maryam" juz="" jumlat="" kronologi="" origin="" hal="">
+    <surah indeks="19" nama="مَرۡيَمَ" namatranslit="Maryam" juz="" jumlat="" kronologi="" origin="" hal="">
         <ayat indeks=""></ayat>
     </surah>
-    <surah indeks="20" nama="سُورَةُ طه" namatranslit="Sūrah Ṭā Hā" juz="" jumlat="" kronologi="" origin="" hal="">
+    <surah indeks="20" nama="طه" namatranslit="Ṭā Hā" juz="" jumlat="" kronologi="" origin="" hal="">
         <ayat indeks=""></ayat>
     </surah>
-    <surah indeks="21" nama="سُورَةُ الأَنبيَاءِ" namatranslit="Sūrah al-Anbiyā’" juz="" jumlat="" kronologi="" origin="" hal="">
+    <surah indeks="21" nama="الأَنبيَاءِ" namatranslit="Al-Anbiyā’" juz="" jumlat="" kronologi="" origin="" hal="">
         <ayat indeks=""></ayat>
     </surah>
-    <surah indeks="22" nama="سُورَةُ الحَجِّ" namatranslit="Sūrah al-Ḥajj" juz="" jumlat="" kronologi="" origin="" hal="">
+    <surah indeks="22" nama="الحَجِّ" namatranslit="Al-Ḥajj" juz="" jumlat="" kronologi="" origin="" hal="">
         <ayat indeks=""></ayat>
     </surah>
-    <surah indeks="23" nama="سُورَةُ المُؤۡمِنُونَ" namatranslit="Sūrah al-Mu’minūn" juz="" jumlat="" kronologi="" origin="" hal="">
+    <surah indeks="23" nama="المُؤۡمِنُونَ" namatranslit="Al-Mu’minūn" juz="" jumlat="" kronologi="" origin="" hal="">
         <ayat indeks=""></ayat>
     </surah>
-    <surah indeks="24" nama="سُورَةُ النُّورِ" namatranslit="Sūrah an-Nūr" juz="" jumlat="" kronologi="" origin="" hal="">
+    <surah indeks="24" nama="النُّورِ" namatranslit="An-Nūr" juz="" jumlat="" kronologi="" origin="" hal="">
         <ayat indeks=""></ayat>
     </surah>
-    <surah indeks="25" nama="سُورَةُ الفُرۡقَانِ" namatranslit="Sūrah al-Furqān" juz="" jumlat="" kronologi="" origin="" hal="">
+    <surah indeks="25" nama="الفُرۡقَانِ" namatranslit="Al-Furqān" juz="" jumlat="" kronologi="" origin="" hal="">
         <ayat indeks=""></ayat>
     </surah>
-    <surah indeks="26" nama="سُورَةُ الشُّعَرَاءِ" namatranslit="Sūrah ash-Shu‘arā’" juz="" jumlat="" kronologi="" origin="" hal="">
+    <surah indeks="26" nama="الشُّعَرَاءِ" namatranslit="Ash-Shu‘arā’" juz="" jumlat="" kronologi="" origin="" hal="">
         <ayat indeks=""></ayat>
     </surah>
-    <surah indeks="27" nama="سُورَةُ النَّمۡلِ" namatranslit="Sūrah an-Naml" juz="" jumlat="" kronologi="" origin="" hal="">
+    <surah indeks="27" nama="النَّمۡلِ" namatranslit="An-Naml" juz="" jumlat="" kronologi="" origin="" hal="">
         <ayat indeks=""></ayat>
     </surah>
-    <surah indeks="28" nama="سُورَةُ القَصَصِ" namatranslit="Sūrah al-Qaṣaṣ" juz="" jumlat="" kronologi="" origin="" hal="">
+    <surah indeks="28" nama="القَصَصِ" namatranslit="Al-Qaṣaṣ" juz="" jumlat="" kronologi="" origin="" hal="">
         <ayat indeks=""></ayat>
     </surah>
-    <surah indeks="29" nama="سُورَةُ العَنكَبُوتِ" namatranslit="Sūrah al-‘Ankabūt" juz="" jumlat="" kronologi="" origin="" hal="">
+    <surah indeks="29" nama="العَنكَبُوتِ" namatranslit="Al-‘Ankabūt" juz="" jumlat="" kronologi="" origin="" hal="">
         <ayat indeks=""></ayat>
     </surah>
-    <surah indeks="30" nama="سُورَةُ الرُّومِ" namatranslit="Sūrah ar-Rūm" juz="" jumlat="" kronologi="" origin="" hal="">
+    <surah indeks="30" nama="الرُّومِ" namatranslit="Ar-Rūm" juz="" jumlat="" kronologi="" origin="" hal="">
         <ayat indeks=""></ayat>
     </surah>
-    <surah indeks="31" nama="سُورَةُ لُقۡمَانَ" namatranslit="Sūrah Luqmān" juz="" jumlat="" kronologi="" origin="" hal="">
+    <surah indeks="31" nama="لُقۡمَانَ" namatranslit="Luqmān" juz="" jumlat="" kronologi="" origin="" hal="">
         <ayat indeks=""></ayat>
     </surah>
-    <surah indeks="32" nama="سُورَةُ السَّجۡدَةِ" namatranslit="Sūrah as-Sajdah" juz="" jumlat="" kronologi="" origin="" hal="">
+    <surah indeks="32" nama="السَّجۡدَةِ" namatranslit="As-Sajdah" juz="" jumlat="" kronologi="" origin="" hal="">
         <ayat indeks=""></ayat>
     </surah>
-    <surah indeks="33" nama="سُورَةُ الأَحۡزَابِ" namatranslit="Sūrah al-Aḥzāb" juz="" jumlat="" kronologi="" origin="" hal="">
+    <surah indeks="33" nama="الأَحۡزَابِ" namatranslit="Al-Aḥzāb" juz="" jumlat="" kronologi="" origin="" hal="">
         <ayat indeks=""></ayat>
     </surah>
-    <surah indeks="34" nama="سُورَةُ سَبَإٍ" namatranslit="Sūrah Sabā’" juz="" jumlat="" kronologi="" origin="" hal="">
+    <surah indeks="34" nama="سَبَإٍ" namatranslit="Sabā’" juz="" jumlat="" kronologi="" origin="" hal="">
         <ayat indeks=""></ayat>
     </surah>
-    <surah indeks="35" nama="سُورَةُ فَاطِرٍ" namatranslit="Sūrah Fāṭir" juz="" jumlat="" kronologi="" origin="" hal="">
+    <surah indeks="35" nama="فَاطِرٍ" namatranslit="Fāṭir" juz="" jumlat="" kronologi="" origin="" hal="">
         <ayat indeks=""></ayat>
     </surah>
-    <surah indeks="36" nama="سُورَةُ يسٓ" namatranslit="Sūrah Yāsīn" juz="" jumlat="" kronologi="" origin="" hal="">
+    <surah indeks="36" nama="يسٓ" namatranslit="Yāsīn" juz="" jumlat="" kronologi="" origin="" hal="">
         <ayat indeks=""></ayat>
     </surah>
-    <surah indeks="37" nama="سُورَةُ الصَّافَّاتِ" namatranslit="Sūrah aṣ-Ṣāffāt" juz="" jumlat="" kronologi="" origin="" hal="">
+    <surah indeks="37" nama="الصَّافَّاتِ" namatranslit="Aṣ-Ṣāffāt" juz="" jumlat="" kronologi="" origin="" hal="">
         <ayat indeks=""></ayat>
     </surah>
-    <surah indeks="38" nama="سُورَةُ صٓ" namatranslit="Sūrah Ṣād" juz="" jumlat="" kronologi="" origin="" hal="">
+    <surah indeks="38" nama="صٓ" namatranslit="Ṣād" juz="" jumlat="" kronologi="" origin="" hal="">
         <ayat indeks=""></ayat>
     </surah>
-    <surah indeks="39" nama="سُورَةُ الزُّمَرِ" namatranslit="Sūrah az-Zumar" juz="" jumlat="" kronologi="" origin="" hal="">
+    <surah indeks="39" nama="الزُّمَرِ" namatranslit="Az-Zumar" juz="" jumlat="" kronologi="" origin="" hal="">
         <ayat indeks=""></ayat>
     </surah>
-    <surah indeks="40" nama="سُورَةُ غَافِرٍ" namatranslit="Sūrah Ghāfir" juz="" jumlat="" kronologi="" origin="" hal="">
+    <surah indeks="40" nama="غَافِرٍ" namatranslit="Ghāfir" juz="" jumlat="" kronologi="" origin="" hal="">
         <ayat indeks=""></ayat>
     </surah>
-    <surah indeks="41" nama="سُورَةُ فُصِّلَتۡ" namatranslit="Sūrah Fuṣṣilat" juz="" jumlat="" kronologi="" origin="" hal="">
+    <surah indeks="41" nama="فُصِّلَتۡ" namatranslit="Fuṣṣilat" juz="" jumlat="" kronologi="" origin="" hal="">
         <ayat indeks=""></ayat>
     </surah>
-    <surah indeks="42" nama="سُورَةُ الشُّورَىٰ" namatranslit="Sūrah ash-Shūrā" juz="" jumlat="" kronologi="" origin="" hal="">
+    <surah indeks="42" nama="الشُّورَىٰ" namatranslit="Ash-Shūrā" juz="" jumlat="" kronologi="" origin="" hal="">
         <ayat indeks=""></ayat>
     </surah>
-    <surah indeks="43" nama="سُورَةُ الزُّخۡرُفِ" namatranslit="Sūrah az-Zukhruf" juz="" jumlat="" kronologi="" origin="" hal="">
+    <surah indeks="43" nama="الزُّخۡرُفِ" namatranslit="Az-Zukhruf" juz="" jumlat="" kronologi="" origin="" hal="">
         <ayat indeks=""></ayat>
     </surah>
-    <surah indeks="44" nama="سُورَةُ الدُّخَانِ" namatranslit="Sūrah ad-Dukhān" juz="" jumlat="" kronologi="" origin="" hal="">
+    <surah indeks="44" nama="الدُّخَانِ" namatranslit="Ad-Dukhān" juz="" jumlat="" kronologi="" origin="" hal="">
         <ayat indeks=""></ayat>
     </surah>
-    <surah indeks="45" nama="سُورَةُ الجَاثِيةِ" namatranslit="Sūrah al-Jāthiyah" juz="" jumlat="" kronologi="" origin="" hal="">
+    <surah indeks="45" nama="الجَاثِيةِ" namatranslit="Al-Jāthiyah" juz="" jumlat="" kronologi="" origin="" hal="">
         <ayat indeks=""></ayat>
     </surah>
-    <surah indeks="46" nama="سُورَةُ الأَحۡقَافِ" namatranslit="Sūrah al-Aḥqāf" juz="" jumlat="" kronologi="" origin="" hal="">
+    <surah indeks="46" nama="الأَحۡقَافِ" namatranslit="Al-Aḥqāf" juz="" jumlat="" kronologi="" origin="" hal="">
         <ayat indeks=""></ayat>
     </surah>
-    <surah indeks="47" nama="سُورَةُ مُحَمَّدٍ" namatranslit="Sūrah Muḥammad" juz="" jumlat="" kronologi="" origin="" hal="">
+    <surah indeks="47" nama="مُحَمَّدٍ" namatranslit="Muḥammad" juz="" jumlat="" kronologi="" origin="" hal="">
         <ayat indeks=""></ayat>
     </surah>
-    <surah indeks="48" nama="سُورَةُ الفَتۡحِ" namatranslit="Sūrah al-Fatḥ" juz="" jumlat="" kronologi="" origin="" hal="">
+    <surah indeks="48" nama="الفَتۡحِ" namatranslit="Al-Fatḥ" juz="" jumlat="" kronologi="" origin="" hal="">
         <ayat indeks=""></ayat>
     </surah>
-    <surah indeks="49" nama="سُورَةُ الحُجُرَاتِ" namatranslit="Sūrah al-Ḥujurāt" juz="" jumlat="" kronologi="" origin="" hal="">
+    <surah indeks="49" nama="الحُجُرَاتِ" namatranslit="Al-Ḥujurāt" juz="" jumlat="" kronologi="" origin="" hal="">
         <ayat indeks=""></ayat>
     </surah>
-    <surah indeks="50" nama="سُورَةُ قٓ" namatranslit="Sūrah Qāf" juz="" jumlat="" kronologi="" origin="" hal="">
+    <surah indeks="50" nama="قٓ" namatranslit="Qāf" juz="" jumlat="" kronologi="" origin="" hal="">
         <ayat indeks=""></ayat>
     </surah>
-    <surah indeks="51" nama="سُورَةُ الذَّارِيَاتِ" namatranslit="Sūrah adh-Dhāriyāt" juz="" jumlat="" kronologi="" origin="" hal="">
+    <surah indeks="51" nama="الذَّارِيَاتِ" namatranslit="Adh-Dhāriyāt" juz="" jumlat="" kronologi="" origin="" hal="">
         <ayat indeks=""></ayat>
     </surah>
-    <surah indeks="52" nama="سُورَةُ الطُّورِ" namatranslit="Sūrah at-Ṭūr" juz="" jumlat="" kronologi="" origin="" hal="">
+    <surah indeks="52" nama="الطُّورِ" namatranslit="At-Ṭūr" juz="" jumlat="" kronologi="" origin="" hal="">
         <ayat indeks=""></ayat>
     </surah>
-    <surah indeks="53" nama="سُورَةُ النَّجۡمِ" namatranslit="Sūrah an-Najm" juz="" jumlat="" kronologi="" origin="" hal="">
+    <surah indeks="53" nama="النَّجۡمِ" namatranslit="An-Najm" juz="" jumlat="" kronologi="" origin="" hal="">
         <ayat indeks=""></ayat>
     </surah>
-    <surah indeks="54" nama="سُورَةُ القَمَرِ" namatranslit="Sūrah al-Qamar" juz="" jumlat="" kronologi="" origin="" hal="">
+    <surah indeks="54" nama="القَمَرِ" namatranslit="Al-Qamar" juz="" jumlat="" kronologi="" origin="" hal="">
         <ayat indeks=""></ayat>
     </surah>
-    <surah indeks="55" nama="سُورَةُ الرَّحۡمَٰن" namatranslit="Sūrah ar-Raḥmān" juz="" jumlat="" kronologi="" origin="" hal="">
+    <surah indeks="55" nama="الرَّحۡمَٰن" namatranslit="Ar-Raḥmān" juz="" jumlat="" kronologi="" origin="" hal="">
         <ayat indeks=""></ayat>
     </surah>
-    <surah indeks="56" nama="سُورَةُ الوَاقِعَةِ" namatranslit="Sūrah al-Wāqi‘ah" juz="" jumlat="" kronologi="" origin="" hal="">
+    <surah indeks="56" nama="الوَاقِعَةِ" namatranslit="Al-Wāqi‘ah" juz="" jumlat="" kronologi="" origin="" hal="">
         <ayat indeks=""></ayat>
     </surah>
-    <surah indeks="57" nama="سُورَةُ الحَدِيدِ" namatranslit="Sūrah al-Ḥadīd" juz="" jumlat="" kronologi="" origin="" hal="">
+    <surah indeks="57" nama="الحَدِيدِ" namatranslit="Al-Ḥadīd" juz="" jumlat="" kronologi="" origin="" hal="">
         <ayat indeks=""></ayat>
     </surah>
-    <surah indeks="58" nama="سُورَةُ المُجَادلَةِ" namatranslit="Sūrah al-Mujādilah" juz="" jumlat="" kronologi="" origin="" hal="">
+    <surah indeks="58" nama="المُجَادلَةِ" namatranslit="Al-Mujādilah" juz="" jumlat="" kronologi="" origin="" hal="">
         <ayat indeks=""></ayat>
     </surah>
-    <surah indeks="59" nama="سُورَةُ الحَشۡرِ" namatranslit="Sūrah al-Ḥashr" juz="" jumlat="" kronologi="" origin="" hal="">
+    <surah indeks="59" nama="الحَشۡرِ" namatranslit="Al-Ḥashr" juz="" jumlat="" kronologi="" origin="" hal="">
         <ayat indeks=""></ayat>
     </surah>
-    <surah indeks="60" nama="سُورَةُ المُمۡتَحنَةِ" namatranslit="Sūrah al-Mumtaḥanah" juz="" jumlat="" kronologi="" origin="" hal="">
+    <surah indeks="60" nama="المُمۡتَحنَةِ" namatranslit="Al-Mumtaḥanah" juz="" jumlat="" kronologi="" origin="" hal="">
         <ayat indeks=""></ayat>
     </surah>
-    <surah indeks="61" nama="سُورَةُ الصَّفِّ" namatranslit="Sūrah aṣ-Ṣaff" juz="" jumlat="" kronologi="" origin="" hal="">
+    <surah indeks="61" nama="الصَّفِّ" namatranslit="Aṣ-Ṣaff" juz="" jumlat="" kronologi="" origin="" hal="">
         <ayat indeks=""></ayat>
     </surah>
-    <surah indeks="62" nama="سُورَةُ الجُمُعَةِ" namatranslit="Sūrah al-Jumu‘ah" juz="" jumlat="" kronologi="" origin="" hal="">
+    <surah indeks="62" nama="الجُمُعَةِ" namatranslit="Al-Jumu‘ah" juz="" jumlat="" kronologi="" origin="" hal="">
         <ayat indeks=""></ayat>
     </surah>
-    <surah indeks="63" nama="سُورَةُ المُنَافِقُونَ" namatranslit="Sūrah al-Munāfiqūn" juz="" jumlat="" kronologi="" origin="" hal="">
+    <surah indeks="63" nama="المُنَافِقُونَ" namatranslit="Al-Munāfiqūn" juz="" jumlat="" kronologi="" origin="" hal="">
         <ayat indeks=""></ayat>
     </surah>
-    <surah indeks="64" nama="سُورَةُ التَّغَابُنِ" namatranslit="Sūrah at-Taghābun" juz="" jumlat="" kronologi="" origin="" hal="">
+    <surah indeks="64" nama="التَّغَابُنِ" namatranslit="At-Taghābun" juz="" jumlat="" kronologi="" origin="" hal="">
         <ayat indeks=""></ayat>
     </surah>
-    <surah indeks="65" nama="سُورَةُ الطَّلَاقِ" namatranslit="Sūrah aṭ-Ṭalāq" juz="" jumlat="" kronologi="" origin="" hal="">
+    <surah indeks="65" nama="الطَّلَاقِ" namatranslit="Aṭ-Ṭalāq" juz="" jumlat="" kronologi="" origin="" hal="">
         <ayat indeks=""></ayat>
     </surah>
-    <surah indeks="66" nama="سُورَةُ التَّحۡرِيمِ" namatranslit="Sūrah at-Taḥrīm" juz="" jumlat="" kronologi="" origin="" hal="">
+    <surah indeks="66" nama="التَّحۡرِيمِ" namatranslit="At-Taḥrīm" juz="" jumlat="" kronologi="" origin="" hal="">
         <ayat indeks=""></ayat>
     </surah>
-    <surah indeks="67" nama="سُورَةُ المُلۡكِ" namatranslit="Sūrah al-Mulk" juz="" jumlat="" kronologi="" origin="" hal="">
+    <surah indeks="67" nama="المُلۡكِ" namatranslit="Al-Mulk" juz="" jumlat="" kronologi="" origin="" hal="">
         <ayat indeks=""></ayat>
     </surah>
-    <surah indeks="68" nama="سُورَةُ القَلَمِ" namatranslit="Sūrah al-Qalam" juz="" jumlat="" kronologi="" origin="" hal="">
+    <surah indeks="68" nama="القَلَمِ" namatranslit="Al-Qalam" juz="" jumlat="" kronologi="" origin="" hal="">
         <ayat indeks=""></ayat>
     </surah>
-    <surah indeks="69" nama="سُورَةُ الحَاقَّةِ" namatranslit="Sūrah al-Ḥāqqah" juz="" jumlat="" kronologi="" origin="" hal="">
+    <surah indeks="69" nama="الحَاقَّةِ" namatranslit="Al-Ḥāqqah" juz="" jumlat="" kronologi="" origin="" hal="">
         <ayat indeks=""></ayat>
     </surah>
-    <surah indeks="70" nama="سُورَةُ المَعَارِجِ" namatranslit="Sūrah al-Ma‘ārij" juz="" jumlat="" kronologi="" origin="" hal="">
+    <surah indeks="70" nama="المَعَارِجِ" namatranslit="Al-Ma‘ārij" juz="" jumlat="" kronologi="" origin="" hal="">
         <ayat indeks=""></ayat>
     </surah>
-    <surah indeks="71" nama="سُورَةُ نُوحٍ" namatranslit="Sūrah Nūḥ" juz="" jumlat="" kronologi="" origin="" hal="">
+    <surah indeks="71" nama="نُوحٍ" namatranslit="Nūḥ" juz="" jumlat="" kronologi="" origin="" hal="">
         <ayat indeks=""></ayat>
     </surah>
-    <surah indeks="72" nama="سُورَةُ الجِنِّ" namatranslit="Sūrah al-Jinn" juz="" jumlat="" kronologi="" origin="" hal="">
+    <surah indeks="72" nama="الجِنِّ" namatranslit="Al-Jinn" juz="" jumlat="" kronologi="" origin="" hal="">
         <ayat indeks=""></ayat>
     </surah>
-    <surah indeks="73" nama="سُورَةُ المُزَّمِّلِ" namatranslit="Sūrah al-Muzzammil" juz="" jumlat="" kronologi="" origin="" hal="">
+    <surah indeks="73" nama="المُزَّمِّلِ" namatranslit="Al-Muzzammil" juz="" jumlat="" kronologi="" origin="" hal="">
         <ayat indeks=""></ayat>
     </surah>
-    <surah indeks="74" nama="سُورَةُ المُدَّثِّرِ" namatranslit="Sūrah al-Muddaththir" juz="" jumlat="" kronologi="" origin="" hal="">
+    <surah indeks="74" nama="المُدَّثِّرِ" namatranslit="Al-Muddaththir" juz="" jumlat="" kronologi="" origin="" hal="">
         <ayat indeks=""></ayat>
     </surah>
-    <surah indeks="75" nama="سُورَةُ القِيَامَةِ" namatranslit="Sūrah al-Qiyāmah" juz="" jumlat="" kronologi="" origin="" hal="">
+    <surah indeks="75" nama="القِيَامَةِ" namatranslit="Al-Qiyāmah" juz="" jumlat="" kronologi="" origin="" hal="">
         <ayat indeks=""></ayat>
     </surah>
-    <surah indeks="76" nama="سُورَةُ الإِنسَانِ" namatranslit="Sūrah al-Insān" juz="" jumlat="" kronologi="" origin="" hal="">
+    <surah indeks="76" nama="الإِنسَانِ" namatranslit="Al-Insān" juz="" jumlat="" kronologi="" origin="" hal="">
         <ayat indeks=""></ayat>
     </surah>
-    <surah indeks="77" nama="سُورَةُ المُرۡسَلَاتِ" namatranslit="Sūrah al-Mursalāt" juz="" jumlat="" kronologi="" origin="" hal="">
+    <surah indeks="77" nama="المُرۡسَلَاتِ" namatranslit="Al-Mursalāt" juz="" jumlat="" kronologi="" origin="" hal="">
         <ayat indeks=""></ayat>
     </surah>
-    <surah indeks="78" nama="سُورَةُ النَّبَإِ" namatranslit="Sūrah an-Nabā’" juz="" jumlat="" kronologi="" origin="" hal="">
+    <surah indeks="78" nama="النَّبَإِ" namatranslit="An-Nabā’" juz="" jumlat="" kronologi="" origin="" hal="">
         <ayat indeks=""></ayat>
     </surah>
-    <surah indeks="79" nama="سُورَةُ النَّازِعَاتِ" namatranslit="Sūrah an-Nāzi‘āt" juz="" jumlat="" kronologi="" origin="" hal="">
+    <surah indeks="79" nama="النَّازِعَاتِ" namatranslit="An-Nāzi‘āt" juz="" jumlat="" kronologi="" origin="" hal="">
         <ayat indeks=""></ayat>
     </surah>
-    <surah indeks="80" nama="سُورَةُ عَبَسَ" namatranslit="Sūrah ‘Abasa" juz="" jumlat="" kronologi="" origin="" hal="">
+    <surah indeks="80" nama="عَبَسَ" namatranslit="‘Abasa" juz="" jumlat="" kronologi="" origin="" hal="">
         <ayat indeks=""></ayat>
     </surah>
-    <surah indeks="81" nama="سُورَةُ التَّكۡوِيرِ" namatranslit="Sūrah at-Takwīr" juz="" jumlat="" kronologi="" origin="" hal="">
+    <surah indeks="81" nama="التَّكۡوِيرِ" namatranslit="At-Takwīr" juz="" jumlat="" kronologi="" origin="" hal="">
         <ayat indeks=""></ayat>
     </surah>
-    <surah indeks="82" nama="سُورَةُ الانفِطَارِ" namatranslit="Sūrah al-Infiṭār" juz="" jumlat="" kronologi="" origin="" hal="">
+    <surah indeks="82" nama="الانفِطَارِ" namatranslit="Al-Infiṭār" juz="" jumlat="" kronologi="" origin="" hal="">
         <ayat indeks=""></ayat>
     </surah>
-    <surah indeks="83" nama="سُورَةُ المُطَفِّفِينَ" namatranslit="Sūrah al-Muṭaffifīn" juz="" jumlat="" kronologi="" origin="" hal="">
+    <surah indeks="83" nama="المُطَفِّفِينَ" namatranslit="Al-Muṭaffifīn" juz="" jumlat="" kronologi="" origin="" hal="">
         <ayat indeks=""></ayat>
     </surah>
-    <surah indeks="84" nama="سُورَةُ الانشِقَاقِ" namatranslit="Sūrah al-Inshiqāq" juz="" jumlat="" kronologi="" origin="" hal="">
+    <surah indeks="84" nama="الانشِقَاقِ" namatranslit="Al-Inshiqāq" juz="" jumlat="" kronologi="" origin="" hal="">
         <ayat indeks=""></ayat>
     </surah>
-    <surah indeks="85" nama="سُورَةُ البُرُوجِ" namatranslit="Sūrah al-Burūj" juz="" jumlat="" kronologi="" origin="" hal="">
+    <surah indeks="85" nama="البُرُوجِ" namatranslit="Al-Burūj" juz="" jumlat="" kronologi="" origin="" hal="">
         <ayat indeks=""></ayat>
     </surah>
-    <surah indeks="86" nama="سُورَةُ الطَّارِقِ" namatranslit="Sūrah at-Ṭāriq" juz="" jumlat="" kronologi="" origin="" hal="">
+    <surah indeks="86" nama="الطَّارِقِ" namatranslit="At-Ṭāriq" juz="" jumlat="" kronologi="" origin="" hal="">
         <ayat indeks=""></ayat>
     </surah>
-    <surah indeks="87" nama="سُورَةُ الأَعۡلَىٰ" namatranslit="Sūrah al-A‘lā" juz="" jumlat="" kronologi="" origin="" hal="">
+    <surah indeks="87" nama="الأَعۡلَىٰ" namatranslit="Al-A‘lā" juz="" jumlat="" kronologi="" origin="" hal="">
         <ayat indeks=""></ayat>
     </surah>
-    <surah indeks="88" nama="سُورَةُ الغَاشِيَةِ" namatranslit="Sūrah al-Ghāshiyah" juz="" jumlat="" kronologi="" origin="" hal="">
+    <surah indeks="88" nama="الغَاشِيَةِ" namatranslit="Al-Ghāshiyah" juz="" jumlat="" kronologi="" origin="" hal="">
         <ayat indeks=""></ayat>
     </surah>
-    <surah indeks="89" nama="سُورَةُ الفَجۡرِ" namatranslit="Sūrah al-Fajr" juz="" jumlat="" kronologi="" origin="" hal="">
+    <surah indeks="89" nama="الفَجۡرِ" namatranslit="Al-Fajr" juz="" jumlat="" kronologi="" origin="" hal="">
         <ayat indeks=""></ayat>
     </surah>
-    <surah indeks="90" nama="سُورَةُ البَلَدِ" namatranslit="Sūrah al-Balad" juz="30" jumlat="20" kronologi="35" origin="Makkiyyah" hal="594-595">
+    <surah indeks="90" nama="البَلَدِ" namatranslit="Al-Balad" juz="30" jumlat="20" kronologi="35" origin="Makkiyyah" hal="594-595">
         <ayat indeks="1">لَآ أُقۡسِمُ بِهَٰذَا ٱلۡبَلَدِ</ayat>
         <ayat indeks="2">وَأَنتَ حِلُّۢ بِهَٰذَا ٱلۡبَلَدِ</ayat>
         <ayat indeks="3">وَوَالِدٖ وَمَا وَلَدَ</ayat>
@@ -321,7 +321,7 @@
         <ayat indeks="19">وَٱلَّذِينَ كَفَرُواْ بِـَٔايَٰتِنَا هُمۡ أَصۡحَٰبُ ٱلۡمَشۡـَٔمَةِ</ayat>
         <ayat indeks="20">عَلَيۡهِمۡ نَارٞ مُّؤۡصَدَةُۢ</ayat>
     </surah>
-    <surah indeks="91" nama="سُورَةُ الشَّمۡسِ" namatranslit="Sūrah ash-Shams" juz="30" jumlat="15" kronologi="26" origin="Makkiyyah" hal="595">
+    <surah indeks="91" nama="الشَّمۡسِ" namatranslit="Ash-Shams" juz="30" jumlat="15" kronologi="26" origin="Makkiyyah" hal="595">
         <ayat indeks="1">وَٱلشَّمۡسِ وَضُحَىٰهَا</ayat>
         <ayat indeks="2">وَٱلۡقَمَرِ إِذَا تَلَىٰهَا</ayat>
         <ayat indeks="3">وَٱلنَّهَارِ إِذَا جَلَّىٰهَا</ayat>
@@ -338,7 +338,7 @@
         <ayat indeks="14">فَكَذَّبُوهُ فَعَقَرُوهَا فَدَمۡدَمَ عَلَيۡهِمۡ رَبُّهُم بِذَنۢبِهِمۡ فَسَوَّىٰهَا</ayat>
         <ayat indeks="15">وَلَا يَخَافُ عُقۡبَٰهَا</ayat>
     </surah>
-    <surah indeks="92" nama="سُورَةُ اللَّيۡلِ" namatranslit="Sūrah al-Layl" juz="30" jumlat="21" kronologi="9" origin="Makkiyyah" hal="595-596">
+    <surah indeks="92" nama="اللَّيۡلِ" namatranslit="Al-Layl" juz="30" jumlat="21" kronologi="9" origin="Makkiyyah" hal="595-596">
         <ayat indeks="1">وَٱلَّيۡلِ إِذَا يَغۡشَىٰ</ayat>
         <ayat indeks="2">وَٱلنَّهَارِ إِذَا تَجَلَّىٰ</ayat>
         <ayat indeks="3">وَمَا خَلَقَ ٱلذَّكَرَ وَٱلۡأُنثَىٰٓ</ayat>
@@ -361,7 +361,7 @@
         <ayat indeks="20">إِلَّا ٱبۡتِغَآءَ وَجۡهِ رَبِّهِ ٱلۡأَعۡلَىٰ</ayat>
         <ayat indeks="21">وَلَسَوۡفَ يَرۡضَىٰ</ayat>
     </surah>
-    <surah indeks="93" nama="سُورَةُ الضُّحَىٰ" namatranslit="Sūrah adh-Dhuḥā" juz="30" jumlat="11" kronologi="11" origin="Makkiyyah" hal="596">
+    <surah indeks="93" nama="الضُّحَىٰ" namatranslit="Adh-Dhuḥā" juz="30" jumlat="11" kronologi="11" origin="Makkiyyah" hal="596">
         <ayat indeks="1">وَٱلضُّحَىٰ</ayat>
         <ayat indeks="2">وَٱلَّيۡلِ إِذَا سَجَىٰ</ayat>
         <ayat indeks="3">مَا وَدَّعَكَ رَبُّكَ وَمَا قَلَىٰ</ayat>
@@ -374,7 +374,7 @@
         <ayat indeks="10">وَأَمَّا ٱلسَّآئِلَ فَلَا تَنۡهَرۡ</ayat>
         <ayat indeks="11">وَأَمَّا بِنِعۡمَةِ رَبِّكَ فَحَدِّثۡ</ayat>
     </surah>
-    <surah indeks="94" nama="سُورَةُ الشَّرۡحِ" namatranslit="Sūrah ash-Sharḥ" juz="30" jumlat="8" kronologi="12" origin="Makkiyyah" hal="596-597">
+    <surah indeks="94" nama="الشَّرۡحِ" namatranslit="Ash-Sharḥ" juz="30" jumlat="8" kronologi="12" origin="Makkiyyah" hal="596-597">
         <ayat indeks="1">أَلَمۡ نَشۡرَحۡ لَكَ صَدۡرَكَ</ayat>
         <ayat indeks="2">وَوَضَعۡنَا عَنكَ وِزۡرَكَ</ayat>
         <ayat indeks="3">ٱلَّذِيٓ أَنقَضَ ظَهۡرَكَ</ayat>
@@ -384,7 +384,7 @@
         <ayat indeks="7">فَإِذَا فَرَغۡتَ فَٱنصَبۡ</ayat>
         <ayat indeks="8">وَإِلَىٰ رَبِّكَ فَٱرۡغَب</ayat>
     </surah>
-    <surah indeks="95" nama="سُورَةُ التِّينِ" namatranslit="Sūrah at-Tīn" juz="30" jumlat="8" kronologi="28" origin="Makkiyyah" hal="597">
+    <surah indeks="95" nama="التِّينِ" namatranslit="At-Tīn" juz="30" jumlat="8" kronologi="28" origin="Makkiyyah" hal="597">
         <ayat indeks="1">وَٱلتِّينِ وَٱلزَّيۡتُونِ</ayat>
         <ayat indeks="2">وَطُورِ سِينِينَ</ayat>
         <ayat indeks="3">وَهَٰذَا ٱلۡبَلَدِ ٱلۡأَمِينِ</ayat>
@@ -394,7 +394,7 @@
         <ayat indeks="7">فَمَا يُكَذِّبُكَ بَعۡدُ بِٱلدِّينِ</ayat>
         <ayat indeks="8">أَلَيۡسَ ٱللَّهُ بِأَحۡكَمِ ٱلۡحَٰكِمِينَ</ayat>
     </surah>
-    <surah indeks="96" nama="سُورَةُ العَلَقِ" namatranslit="Sūrah al-‘Alaq" juz="30" jumlat="19" kronologi="1" origin="Makkiyyah" hal="597-598">
+    <surah indeks="96" nama="العَلَقِ" namatranslit="Al-‘Alaq" juz="30" jumlat="19" kronologi="1" origin="Makkiyyah" hal="597-598">
         <ayat indeks="1">ٱقۡرَأۡ بِٱسۡمِ رَبِّكَ ٱلَّذِي خَلَقَ</ayat>
         <ayat indeks="2">خَلَقَ ٱلۡإِنسَٰنَ مِنۡ عَلَقٍ</ayat>
         <ayat indeks="3">ٱقۡرَأۡ وَرَبُّكَ ٱلۡأَكۡرَمُ</ayat>
@@ -415,14 +415,14 @@
         <ayat indeks="18">سَنَدۡعُ ٱلزَّبَانِيَةَ</ayat>
         <ayat indeks="19">كَلَّا لَا تُطِعۡهُ وَٱسۡجُدۡۤ وَٱقۡتَرِب۩</ayat>
     </surah>
-    <surah indeks="97" nama="سُورَةُ القَدۡرِ" namatranslit="Sūrah al-Qadr" juz="30" jumlat="5" kronologi="25" origin="Makkiyyah" hal="">
+    <surah indeks="97" nama="القَدۡرِ" namatranslit="Al-Qadr" juz="30" jumlat="5" kronologi="25" origin="Makkiyyah" hal="">
         <ayat indeks="1">إِنَّآ أَنزَلۡنَٰهُ فِي لَيۡلَةِ ٱلۡقَدۡرِ</ayat>
         <ayat indeks="2">وَمَآ أَدۡرَىٰكَ مَا لَيۡلَةُ ٱلۡقَدۡرِ</ayat>
         <ayat indeks="3">لَيۡلَةُ ٱلۡقَدۡرِ خَيۡرٞ مِّنۡ أَلۡفِ شَهۡرٖ</ayat>
         <ayat indeks="4">تَنَزَّلُ ٱلۡمَلَٰٓئِكَةُ وَٱلرُّوحُ فِيهَا بِإِذۡنِ رَبِّهِم مِّن كُلِّ أَمۡرٖ</ayat>
         <ayat indeks="5">سَلَٰمٌ هِيَ حَتَّىٰ مَطۡلَعِ ٱلۡفَجۡرِ</ayat>
     </surah>
-    <surah indeks="98" nama="سُورَةُ البَيِّنَةِ" namatranslit="Sūrah al-Bayyinah" juz="30" jumlat="8" kronologi="100" origin="Madaniyyah" hal="598-599">
+    <surah indeks="98" nama="البَيِّنَةِ" namatranslit="Al-Bayyinah" juz="30" jumlat="8" kronologi="100" origin="Madaniyyah" hal="598-599">
         <ayat indeks="1">لَمۡ يَكُنِ ٱلَّذِينَ كَفَرُواْ مِنۡ أَهۡلِ ٱلۡكِتَٰبِ وَٱلۡمُشۡرِكِينَ مُنفَكِّينَ حَتَّىٰ تَأۡتِيَهُمُ ٱلۡبَيِّنَةُ</ayat>
         <ayat indeks="2">رَسُولٞ مِّنَ ٱللَّهِ يَتۡلُواْ صُحُفٗا مُّطَهَّرَةٗ</ayat>
         <ayat indeks="3">فِيهَا كُتُبٞ قَيِّمَةٞ</ayat>
@@ -432,7 +432,7 @@
         <ayat indeks="7">إِنَّ ٱلَّذِينَ ءَامَنُواْ وَعَمِلُواْ ٱلصَّٰلِحَٰتِ أُوْلَٰٓئِكَ هُمۡ خَيۡرُ ٱلۡبَرِيَّةِ</ayat>
         <ayat indeks="8">جَزَآؤُهُمۡ عِندَ رَبِّهِمۡ جَنَّٰتُ عَدۡنٖ تَجۡرِي مِن تَحۡتِهَا ٱلۡأَنۡهَٰرُ خَٰلِدِينَ فِيهَآ أَبَدٗاۖ رَّضِيَ ٱللَّهُ عَنۡهُمۡ وَرَضُواْ عَنۡهُۚ ذَٰلِكَ لِمَنۡ خَشِيَ رَبَّهُۥ</ayat>
     </surah>
-    <surah indeks="99" nama="سُورَةُ الزَّلۡزَلَةِ" namatranslit="Sūrah az-Zalzalah" juz="30" jumlat="8" kronologi="93" origin="Madaniyyah" hal="599">
+    <surah indeks="99" nama="الزَّلۡزَلَةِ" namatranslit="Az-Zalzalah" juz="30" jumlat="8" kronologi="93" origin="Madaniyyah" hal="599">
         <ayat indeks="1">إِذَا زُلۡزِلَتِ ٱلۡأَرۡضُ زِلۡزَالَهَا</ayat>
         <ayat indeks="2">وَأَخۡرَجَتِ ٱلۡأَرۡضُ أَثۡقَالَهَا</ayat>
         <ayat indeks="3">وَقَالَ ٱلۡإِنسَٰنُ مَا لَهَا</ayat>
@@ -442,7 +442,7 @@
         <ayat indeks="7">فَمَن يَعۡمَلۡ مِثۡقَالَ ذَرَّةٍ خَيۡرٗا يَرَهُۥ</ayat>
         <ayat indeks="8">وَمَن يَعۡمَلۡ مِثۡقَالَ ذَرَّةٖ شَرّٗا يَرَهُۥ</ayat>
     </surah>
-    <surah indeks="100" nama="سُورَةُ العَادِيَاتِ" namatranslit="Sūrah al-‘Ādiyāt" juz="30" jumlat="11" kronologi="14" origin="Makkiyyah" hal="599-600">
+    <surah indeks="100" nama="العَادِيَاتِ" namatranslit="Al-‘Ādiyāt" juz="30" jumlat="11" kronologi="14" origin="Makkiyyah" hal="599-600">
         <ayat indeks="1">وَٱلۡعَٰدِيَٰتِ ضَبۡحٗا</ayat>
         <ayat indeks="2">فَٱلۡمُورِيَٰتِ قَدۡحٗا</ayat>
         <ayat indeks="3">فَٱلۡمُغِيرَٰتِ صُبۡحٗا</ayat>
@@ -455,7 +455,7 @@
         <ayat indeks="10">وَحُصِّلَ مَا فِي ٱلصُّدُورِ</ayat>
         <ayat indeks="11">إِنَّ رَبَّهُم بِهِمۡ يَوۡمَئِذٖ لَّخَبِيرُۢ</ayat>
     </surah>
-    <surah indeks="101" nama="سُورَةُ القَارِعَةِ" namatranslit="Sūrah al-Qāri‘ah" juz="30" jumlat="11" kronologi="30" origin="Makkiyyah" hal="600">
+    <surah indeks="101" nama="القَارِعَةِ" namatranslit="Al-Qāri‘ah" juz="30" jumlat="11" kronologi="30" origin="Makkiyyah" hal="600">
         <ayat indeks="1">ٱلۡقَارِعَةُ</ayat>
         <ayat indeks="2">مَا ٱلۡقَارِعَةُ</ayat>
         <ayat indeks="3">وَمَآ أَدۡرَىٰكَ مَا ٱلۡقَارِعَةُ</ayat>
@@ -468,7 +468,7 @@
         <ayat indeks="10">وَمَآ أَدۡرَىٰكَ مَا هِيَهۡ</ayat>
         <ayat indeks="11">نَارٌ حَامِيَةُۢ</ayat>
     </surah>
-    <surah indeks="102" nama="سُورَةُ التَّكَاثُرِ" namatranslit="Sūrah at-Takāthur" juz="30" jumlat="8" kronologi="16" origin="Makkiyyah" hal="600">
+    <surah indeks="102" nama="التَّكَاثُرِ" namatranslit="At-Takāthur" juz="30" jumlat="8" kronologi="16" origin="Makkiyyah" hal="600">
         <ayat indeks="1">أَلۡهَىٰكُمُ ٱلتَّكَاثُرُ</ayat>
         <ayat indeks="2">حَتَّىٰ زُرۡتُمُ ٱلۡمَقَابِرَ</ayat>
         <ayat indeks="3">كَلَّا سَوۡفَ تَعۡلَمُونَ</ayat>
@@ -478,12 +478,12 @@
         <ayat indeks="7">ثُمَّ لَتَرَوُنَّهَا عَيۡنَ ٱلۡيَقِينِ</ayat>
         <ayat indeks="8">ثُمَّ لَتُسۡـَٔلُنَّ يَوۡمَئِذٍ عَنِ ٱلنَّعِيمِ</ayat>
     </surah>
-    <surah indeks="103" nama="سُورَةُ العَصۡرِ" namatranslit="Sūrah al-‘Aṣr" juz="30" jumlat="3" kronologi="13" origin="Makkiyyah" hal="601">
+    <surah indeks="103" nama="العَصۡرِ" namatranslit="Al-‘Aṣr" juz="30" jumlat="3" kronologi="13" origin="Makkiyyah" hal="601">
         <ayat indeks="1">وَٱلۡعَصۡرِ</ayat>
         <ayat indeks="2">إِنَّ ٱلۡإِنسَٰنَ لَفِي خُسۡرٍ</ayat>
         <ayat indeks="3">إِلَّا ٱلَّذِينَ ءَامَنُواْ وَعَمِلُواْ ٱلصَّٰلِحَٰتِ وَتَوَاصَوۡاْ بِٱلۡحَقِّ وَتَوَاصَوۡاْ بِٱلصَّبۡرِ</ayat>
     </surah>
-    <surah indeks="104" nama="سُورَةُ الهُمَزَةِ" namatranslit="Sūrah al-Humazah" juz="30" jumlat="9" kronologi="32" origin="Makkiyyah" hal="601">
+    <surah indeks="104" nama="الهُمَزَةِ" namatranslit="Al-Humazah" juz="30" jumlat="9" kronologi="32" origin="Makkiyyah" hal="601">
         <ayat indeks="1">وَيۡلٞ لِّكُلِّ هُمَزَةٖ لُّمَزَةٍ</ayat>
         <ayat indeks="2">ٱلَّذِي جَمَعَ مَالٗا وَعَدَّدَهُۥ</ayat>
         <ayat indeks="3">يَحۡسَبُ أَنَّ مَالَهُۥٓ أَخۡلَدَهُۥ</ayat>
@@ -494,20 +494,20 @@
         <ayat indeks="8">إِنَّهَا عَلَيۡهِم مُّؤۡصَدَةٞ</ayat>
         <ayat indeks="9">فِي عَمَدٖ مُّمَدَّدَةِۭ</ayat>
     </surah>
-    <surah indeks="105" nama="سُورَةُ الفِيلِ" namatranslit="Sūrah al-Fīl" juz="30" jumlat="5" kronologi="19" origin="Makkiyyah" hal="601">
+    <surah indeks="105" nama="الفِيلِ" namatranslit="Al-Fīl" juz="30" jumlat="5" kronologi="19" origin="Makkiyyah" hal="601">
         <ayat indeks="1">أَلَمۡ تَرَ كَيۡفَ فَعَلَ رَبُّكَ بِأَصۡحَٰبِ ٱلۡفِيلِ</ayat>
         <ayat indeks="2">أَلَمۡ يَجۡعَلۡ كَيۡدَهُمۡ فِي تَضۡلِيلٖ</ayat>
         <ayat indeks="3">وَأَرۡسَلَ عَلَيۡهِمۡ طَيۡرًا أَبَابِيلَ</ayat>
         <ayat indeks="4">تَرۡمِيهِم بِحِجَارَةٖ مِّن سِجِّيلٖ</ayat>
         <ayat indeks="5">فَجَعَلَهُمۡ كَعَصۡفٖ مَّأۡكُولِۭ</ayat>
     </surah>
-    <surah indeks="106" nama="سُورَةُ قُرَيۡشٍ" namatranslit="Sūrah Quraysh" juz="30" jumlat="4" kronologi="29" origin="Makkiyyah" hal="602">
+    <surah indeks="106" nama="قُرَيۡشٍ" namatranslit="Quraysh" juz="30" jumlat="4" kronologi="29" origin="Makkiyyah" hal="602">
         <ayat indeks="1">لِإِيلَٰفِ قُرَيۡشٍ</ayat>
         <ayat indeks="2">إِۦلَٰفِهِمۡ رِحۡلَةَ ٱلشِّتَآءِ وَٱلصَّيۡفِ</ayat>
         <ayat indeks="3">فَلۡيَعۡبُدُواْ رَبَّ هَٰذَا ٱلۡبَيۡتِ</ayat>
         <ayat indeks="4">ٱلَّذِيٓ أَطۡعَمَهُم مِّن جُوعٖ وَءَامَنَهُم مِّنۡ خَوۡفِۭ</ayat>
     </surah>
-    <surah indeks="107" nama="سُورَةُ المَاعُونِ" namatranslit="Sūrah al-Mā‘ūn" juz="30" jumlat="7" kronologi="17" origin="Makkiyyah" hal="602">
+    <surah indeks="107" nama="المَاعُونِ" namatranslit="Al-Mā‘ūn" juz="30" jumlat="7" kronologi="17" origin="Makkiyyah" hal="602">
         <ayat indeks="1">أَرَءَيۡتَ ٱلَّذِي يُكَذِّبُ بِٱلدِّينِ</ayat>
         <ayat indeks="2">فَذَٰلِكَ ٱلَّذِي يَدُعُّ ٱلۡيَتِيمَ</ayat>
         <ayat indeks="3">وَلَا يَحُضُّ عَلَىٰ طَعَامِ ٱلۡمِسۡكِينِ</ayat>
@@ -516,12 +516,12 @@
         <ayat indeks="6">ٱلَّذِينَ هُمۡ يُرَآءُونَ</ayat>
         <ayat indeks="7">وَيَمۡنَعُونَ ٱلۡمَاعُونَ</ayat>
     </surah>
-    <surah indeks="108" nama="سُورَةُ الكَوثَرِ" namatranslit="Sūrah al-Kawthar" juz="30" jumlat="3" kronologi="15" origin="Makkiyah" hal="602">
+    <surah indeks="108" nama="الكَوثَرِ" namatranslit="Al-Kawthar" juz="30" jumlat="3" kronologi="15" origin="Makkiyah" hal="602">
         <ayat indeks="1">إِنَّآ أَعۡطَيۡنَٰكَ ٱلۡكَوۡثَرَ</ayat>
         <ayat indeks="2">فَصَلِّ لِرَبِّكَ وَٱنۡحَرۡ</ayat>
         <ayat indeks="3">إِنَّ شَانِئَكَ هُوَ ٱلۡأَبۡتَرُ</ayat>
     </surah>
-    <surah indeks="109" nama="سُورَةُ الكَافِرُونَ" namatranslit="Sūrah al-Kāfirūn" juz="30" jumlat="6" kronologi="18" origin="Makkiyyah" hal="603">
+    <surah indeks="109" nama="الكَافِرُونَ" namatranslit="Al-Kāfirūn" juz="30" jumlat="6" kronologi="18" origin="Makkiyyah" hal="603">
         <ayat indeks="1">قُلۡ يَٰٓأَيُّهَا ٱلۡكَٰفِرُونَ</ayat>
         <ayat indeks="2">لَآ أَعۡبُدُ مَا تَعۡبُدُونَ</ayat>
         <ayat indeks="3">وَلَآ أَنتُمۡ عَٰبِدُونَ مَآ أَعۡبُدُ</ayat>
@@ -529,32 +529,32 @@
         <ayat indeks="5">وَلَآ أَنتُمۡ عَٰبِدُونَ مَآ أَعۡبُدُ</ayat>
         <ayat indeks="6">لَكُمۡ دِينُكُمۡ وَلِيَ دِينِ</ayat>
     </surah>
-    <surah indeks="110" nama="سُورَةُ النَّصۡرِ" namatranslit="Sūrah an-Naṣr" juz="30" jumlat="3" kronologi="114" origin="Madaniyyah, terakhir di Mina ketika Haji yang terakhir" hal="603">
+    <surah indeks="110" nama="النَّصۡرِ" namatranslit="An-Naṣr" juz="30" jumlat="3" kronologi="114" origin="Madaniyyah, terakhir di Mina ketika Haji yang terakhir" hal="603">
         <ayat indeks="1">إِذَا جَآءَ نَصۡرُ ٱللَّهِ وَٱلۡفَتۡحُ</ayat>
         <ayat indeks="2">وَرَأَيۡتَ ٱلنَّاسَ يَدۡخُلُونَ فِي دِينِ ٱللَّهِ أَفۡوَاجٗا</ayat>
         <ayat indeks="3">فَسَبِّحۡ بِحَمۡدِ رَبِّكَ وَٱسۡتَغۡفِرۡهُۚ إِنَّهُۥ كَانَ تَوَّابَۢا</ayat>
     </surah>
-    <surah indeks="111" nama="سُورَةُ المَسَدِ" namatranslit="Sūrah al-Masad" juz="30" jumlat="5" kronologi="6" origin="Makkiyyah" hal="603">
+    <surah indeks="111" nama="المَسَدِ" namatranslit="Al-Masad" juz="30" jumlat="5" kronologi="6" origin="Makkiyyah" hal="603">
         <ayat indeks="1">تَبَّتۡ يَدَآ أَبِي لَهَبٖ وَتَبَّ</ayat>
         <ayat indeks="2">مَآ أَغۡنَىٰ عَنۡهُ مَالُهُۥ وَمَا كَسَبَ</ayat>
         <ayat indeks="3">سَيَصۡلَىٰ نَارٗا ذَاتَ لَهَبٖ</ayat>
         <ayat indeks="4">وَٱمۡرَأَتُهُۥ حَمَّالَةَ ٱلۡحَطَبِ</ayat>
         <ayat indeks="5">فِي جِيدِهَا حَبۡلٞ مِّن مَّسَدِۭ</ayat>
     </surah>
-    <surah indeks="112" nama="سُورَةُ الإِخۡلَاصِ" namatranslit="Sūrah al-Ikhlāṣ" juz="30" jumlat="4" kronologi="22" origin="Makkiyyah" hal="604">
+    <surah indeks="112" nama="الإِخۡلَاصِ" namatranslit="Al-Ikhlāṣ" juz="30" jumlat="4" kronologi="22" origin="Makkiyyah" hal="604">
         <ayat indeks="1">قُلۡ هُوَ ٱللَّهُ أَحَدٌ</ayat>
         <ayat indeks="2">ٱللَّهُ ٱلصَّمَدُ</ayat>
         <ayat indeks="3">لَمۡ يَلِدۡ وَلَمۡ يُولَدۡ</ayat>
         <ayat indeks="4">وَلَمۡ يَكُن لَّهُۥ كُفُوًا أَحَدُۢ</ayat>
     </surah>
-    <surah indeks="113" nama="سُورَةُ الفَلَقِ" namatranslit="Sūrah al-Falaq" juz="30" jumlat="5" kronologi="20" origin="Makkiyyah" hal="604">
+    <surah indeks="113" nama="الفَلَقِ" namatranslit="Al-Falaq" juz="30" jumlat="5" kronologi="20" origin="Makkiyyah" hal="604">
         <ayat indeks="1">قُلۡ أَعُوذُ بِرَبِّ ٱلۡفَلَقِ</ayat>
         <ayat indeks="2">مِن شَرِّ مَا خَلَقَ</ayat>
         <ayat indeks="3">وَمِن شَرِّ غَاسِقٍ إِذَا وَقَبَ</ayat>
         <ayat indeks="4">وَمِن شَرِّ ٱلنَّفَّٰثَٰتِ فِي ٱلۡعُقَدِ</ayat>
         <ayat indeks="5">وَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ</ayat>
     </surah>
-    <surah indeks="114" nama="سُورَةُ النَّاسِ" namatranslit="Sūrah an-Nās" juz="30" jumlat="6" kronologi="21" origin="Makkiyyah" hal="604">
+    <surah indeks="114" nama="النَّاسِ" namatranslit="An-Nās" juz="30" jumlat="6" kronologi="21" origin="Makkiyyah" hal="604">
         <ayat indeks="1">قُلۡ أَعُوذُ بِرَبِّ ٱلنَّاسِ</ayat>
         <ayat indeks="2">مَلِكِ ٱلنَّاسِ</ayat>
         <ayat indeks="3">إِلَٰهِ ٱلنَّاسِ</ayat>
