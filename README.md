@@ -6,5 +6,5 @@
 ## @quranappbot
 Teks al-Qur’ān dan terjemahan ini digunakan pada bot [Al-Qur’ān Al-Karīm](https://t.me/quranappbot) [@quranappbot](https://t.me/quranappbot).
 
-## MyQuranApp (akan datang)
+## QuranMyApp (akan datang)
 Aplikasi al-Qur’ān dengan fungsi utama ialah terjemahan harfiyyah bahasa Melayu.
