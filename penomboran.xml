@@ -464,9 +464,9 @@
         <nomayat hlmn="61" jz="3">[Āli ‘Imrān, 3:89 · Juz’ 3 · Hlmn 61]</nomayat>
         <nomayat hlmn="61" jz="3">[Āli ‘Imrān, 3:90 · Juz’ 3 · Hlmn 61]</nomayat>
         <nomayat hlmn="61" jz="3">[Āli ‘Imrān, 3:91 · Juz’ 3 · Hlmn 61]</nomayat>
-        <!-- Halaman 62 /
-             Mula juz 4 -->
-        <nomayat hlmn="62" jz="4">[Āli ‘Imrān, 3:92 · Juz’ 4 · Hlmn 62]</nomayat>
+        <!-- Halaman 62 -->
+        <nomayat hlmn="62" jz="4">[Āli ‘Imrān, 3:92 · Juz’ 3 · Hlmn 62]</nomayat>
+        <!-- Mula juz 4 -->
         <nomayat hlmn="62" jz="4">[Āli ‘Imrān, 3:93 · Juz’ 4 · Hlmn 62]</nomayat>
         <nomayat hlmn="62" jz="4">[Āli ‘Imrān, 3:94 · Juz’ 4 · Hlmn 62]</nomayat>
         <nomayat hlmn="62" jz="4">[Āli ‘Imrān, 3:95 · Juz’ 4 · Hlmn 62]</nomayat>
@@ -782,7 +782,7 @@
         <nomayat hlmn="103" jz="6">[An-Nisā’, 4:159 · Juz’ 6 · Hlmn 103]</nomayat>
         <nomayat hlmn="103" jz="6">[An-Nisā’, 4:160 · Juz’ 6 · Hlmn 103]</nomayat>
         <nomayat hlmn="103" jz="6">[An-Nisā’, 4:161 · Juz’ 6 · Hlmn 103]</nomayat>
-        <nomayat>[An-Nisā’, 4:162]</nomayat>
+        <nomayat hlmn="103" jz="6">[An-Nisā’, 4:162 · Juz’ 6 · Hlmn 103]</nomayat>
         <!-- Halaman 104 -->
         <nomayat hlmn="104" jz="6">[An-Nisā’, 4:163 · Juz’ 6 · Hlmn 104]</nomayat>
         <nomayat hlmn="104" jz="6">[An-Nisā’, 4:164 · Juz’ 6 · Hlmn 104]</nomayat>
@@ -799,7 +799,7 @@
         <nomayat hlmn="105" jz="6">[An-Nisā’, 4:174 · Juz’ 6 · Hlmn 105]</nomayat>
         <nomayat hlmn="105" jz="6">[An-Nisā’, 4:175 · Juz’ 6 · Hlmn 105]</nomayat>
         <!-- Halaman 106 -->
-        <nomayat>[An-Nisā’, 4:176]</nomayat>
+        <nomayat hlmn="106" jz="6">[An-Nisā’, 4:176 · Juz’ 6 · Hlmn 106]</nomayat>
     </surah>
     <!-- Halaman 106 /
          Mula surah al-maidah -->
